@@ -1,0 +1,5 @@
+# Git hygiene: ignore hasil generate + artefak lokal
+site/
+__pycache__/
+*.pyc
+.DS_Store
