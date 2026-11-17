@@ -61,6 +61,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title} · {mk_name}</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230075de'/%3E%3Ctext x='16' y='22' font-family='system-ui,sans-serif' font-size='17' font-weight='800' fill='white' text-anchor='middle'%3EM%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="{base}assets/css/course-bank.css">
 </head>
 <body>
@@ -148,10 +149,29 @@ def build():
             )
             (out_dir / f"{page['slug']}.html").write_text(html, encoding="utf8")
 
+        # halaman matkul: tab materi/kuiz (data-page kosong -> renderCourseIndex)
+        (out_dir / "index.html").write_text(
+            PAGE_TEMPLATE.format(
+                title=course["name"],
+                mk_name=course["name"],
+                mk_slug=course["slug"],
+                page_slug="",
+                base="../../",
+            ),
+            encoding="utf8",
+        )
+
     # landing page
     (SITE / "index.html").write_text(
         INDEX_TEMPLATE.format(
             title="Course Bank", mk_name="Perkuliahan", mk_slug="", page_slug="", base=""
+        ),
+        encoding="utf8",
+    )
+    # halaman kumpulan matkul (daftar semua silabus)
+    (SITE / "silabus.html").write_text(
+        INDEX_TEMPLATE.format(
+            title="Mata Kuliah", mk_name="Perkuliahan", mk_slug="", page_slug="silabus", base=""
         ),
         encoding="utf8",
     )

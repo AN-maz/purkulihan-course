@@ -153,41 +153,147 @@ customElements.define("mk-quiz", MkQuiz);
 class MkApp extends HTMLElement {
   async connectedCallback() {
     this.manifest = await fetch(`${BASE}manifest.json`).then((r) => r.json()).catch(() => ({ courses: [] }));
-    if (!MK) return this.renderLanding();
+    if (!MK) return PAGE === "silabus" ? this.renderSilabus() : this.renderLanding();
+    const c = this.course();
+    if (!c) { this.innerHTML = `<p style="padding:2rem">Matkul ${MK} gak ada di manifest.</p>`; return; }
+    if (!PAGE) return this.renderCourseIndex(c);   // halaman matkul: tab materi/kuiz
     await this.renderCourse();
   }
 
   course() { return this.manifest.courses.find((c) => c.slug === MK); }
 
+  /* ---------- landing: hero + CTA (daftar matkul pindah ke /silabus.html) ---------- */
   async renderLanding() {
-    const cards = this.manifest.courses.map((c) => {
-      const total = c.pages.length;
-      const done = Store.courseDone(c.slug);
-      const pct = total ? Math.round((done / total) * 100) : 0;
-      return `
-        <a class="cb-card" href="mk/${c.slug}/${c.pages[0].slug}.html">
-          <h3>${escapeHtml(c.name)}</h3>
-          <div class="cb-meta">${escapeHtml(c.dosen || "dosen belum diisi")} · ${total} halaman</div>
-          <div class="cb-pages">${c.pages.map((p) => escapeHtml(p.title)).join(" · ")}</div>
-          <div class="cb-progress"><i style="width:${pct}%"></i></div>
-          <div class="cb-progress-label">recall ${done}/${total} halaman lulus</div>
-        </a>`;
-    }).join("");
+    this.innerHTML = `
+      <div class="cb-topbar">
+        <a class="cb-brand" href="${BASE}index.html">Mes<span>Pur</span> · Course Bank</a>
+      </div>
+      <div class="cb-layout">
+        <div class="cb-main">
+          <div class="cb-hero">
+            <h1>Tingkatkan Paham-mu Secara Terstruktur</h1>
+            <p>Kumpulan catatan + quiz recall buat semua mata kuliah — baca materi, langsung uji paham di tempat.</p>
+            <a class="cb-cta" href="${BASE}silabus.html">
+              Masuk ke Ruang Belajar
+              <span class="cta-arrow">
+                <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                  <path d="M3 8h9M8.5 4.5 12 8l-3.5 3.5" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  /* ---------- halaman kumpulan matkul: grid kartu nama doang ---------- */
+  async renderSilabus() {
+    const cards = this.manifest.courses.map((c) => `
+      <a class="cb-card cb-card--simple" href="${BASE}mk/${c.slug}/index.html">
+        <h3>${escapeHtml(c.name)}</h3>
+      </a>`).join("");
 
     this.innerHTML = `
       <div class="cb-topbar">
         <a class="cb-brand" href="${BASE}index.html">Mes<span>Pur</span> · Course Bank</a>
-        <span class="cb-crumb">kumpulan materi + quiz recall buat 8 matkul</span>
       </div>
-      <div class="cb-layout" style="padding-top:56px">
+      <div class="cb-layout">
         <div class="cb-main">
-          <div class="cb-hero">
-            <h1>Semua materi jadi satu tempat</h1>
-            <p>Materi dosen tetap di folder masing-masing — web ini lapisan recall: baca catatan, cek paham lewat quiz.</p>
-          </div>
-          <div class="cb-grid">${cards || "<p>Belum ada matkul ter-generate.</p>"}</div>
+          <header class="cb-page-head">
+            <h1>Mata Kuliah</h1>
+            <p>${this.manifest.courses.length} mata kuliah · pilih satu buat mulai baca materi.</p>
+          </header>
+          <div class="cb-grid cb-grid--silabus">${cards || "<p>Belum ada matkul ter-generate.</p>"}</div>
         </div>
       </div>`;
+  }
+
+  /* ---------- halaman matkul: menu tab Materi / Kuiz ---------- */
+  renderCourseIndex(c) {
+    const total = c.pages.length;
+    const done = Store.courseDone(c.slug);
+    this.innerHTML = `
+      <div class="cb-topbar">
+        <button class="cb-toggle" type="button" aria-label="menu">☰</button>
+        <a class="cb-brand" href="${BASE}index.html">Mes<span>Pur</span> · Course Bank</a>
+        <span class="cb-crumb">${escapeHtml(c.name)}</span>
+      </div>
+      <div class="cb-layout">
+        ${this.sidebarHtml(c, "")}
+        <main class="cb-main">
+          <header class="cb-course-head">
+            <h1>${escapeHtml(c.name)}</h1>
+            ${c.dosen ? `<div class="cb-meta">${escapeHtml(c.dosen)}</div>` : ""}
+            <nav class="cb-tabs" role="tablist">
+              <button class="cb-tab active" data-tab="materi" type="button">Materi <span>${total}</span></button>
+              <button class="cb-tab" data-tab="kuiz" type="button">Kuiz</button>
+            </nav>
+          </header>
+          <div class="cb-tabpane" data-pane="materi">
+            <div class="cb-grid">
+              ${c.pages.map((p, i) => {
+                const st = Store.get(c.slug, p.slug);
+                return `<a class="cb-card cb-card--page ${st?.passed ? "passed" : ""}" href="${p.slug}.html">
+                  <span class="cb-page-no">${i + 1}</span>
+                  <span class="cb-page-title">${escapeHtml(p.title)}</span>
+                  ${st?.passed ? '<span class="cb-page-flag">✓ lulus</span>' : ""}
+                </a>`;
+              }).join("")}
+            </div>
+          </div>
+          <div class="cb-tabpane" data-pane="kuiz" hidden></div>
+        </main>
+      </div>`;
+
+    // tab switching
+    this.querySelectorAll(".cb-tab").forEach((btn) =>
+      btn.addEventListener("click", () => {
+        this.querySelectorAll(".cb-tab").forEach((b) => b.classList.toggle("active", b === btn));
+        this.querySelectorAll(".cb-tabpane").forEach((p) => (p.hidden = p.dataset.pane !== btn.dataset.tab));
+        if (btn.dataset.tab === "kuiz") this.loadKuiz(c);
+      })
+    );
+    this.querySelector(".cb-toggle")?.addEventListener("click", () => {
+      this.dataset.open = this.dataset.open === "true" ? "false" : "true";
+    });
+    this.querySelector(".cb-side-label")?.addEventListener("click", () => (this.dataset.open = "false"));
+  }
+
+  /* ---------- gabungin semua ```quiz dari tiap materi jadi 1 kuiz ---------- */
+  async loadKuiz(c) {
+    const pane = this.querySelector('.cb-tabpane[data-pane="kuiz"]');
+    if (!pane || pane.dataset.loaded) return;
+    pane.dataset.loaded = "1";
+    pane.innerHTML = `<p class="cb-quiz-intro">Kumpulan recall ${escapeHtml(c.name)} — diambil dari semua materi.</p>`;
+    const bodies = await Promise.all(
+      c.pages.map((p) =>
+        fetch(`${BASE}content/${c.slug}/${p.slug}.md`)
+          .then((r) => r.text())
+          .then((t) => extractQuizzes(t).quizzes.join("\n"))
+          .catch(() => "")
+      )
+    );
+    const all = bodies.join("\n").trim();
+    if (!all) { pane.innerHTML += "<p>Belum ada quiz di materi matkul ini.</p>"; return; }
+    const q = document.createElement("mk-quiz");
+    q.dataset.body = all;
+    pane.appendChild(q);
+  }
+
+  /* ---------- sidebar (dipakai halaman matkul + halaman materi) ---------- */
+  sidebarHtml(c, currentSlug) {
+    return `
+      <nav class="cb-sidebar">
+        <a class="cb-side-label cb-side-home" href="index.html">← ${escapeHtml(c.name)}</a>
+        ${c.pages.map((p, i) => {
+          const done = Store.get(c.slug, p.slug)?.passed;
+          return `<a class="cb-side-item ${p.slug === currentSlug ? "active" : ""} ${done ? "done" : ""}"
+            href="${p.slug}.html"><span class="cb-dot"></span><span class="cb-side-no">${i + 1}.</span> ${escapeHtml(p.title)}</a>`;
+        }).join("")}
+        <div class="cb-side-label">matkul lain</div>
+        ${this.manifest.courses.filter((x) => x.slug !== c.slug)
+          .map((x) => `<a class="cb-side-item" href="${BASE}mk/${x.slug}/index.html">${escapeHtml(x.name)}</a>`).join("")}
+      </nav>`;
   }
 
   async renderCourse() {
@@ -206,20 +312,10 @@ class MkApp extends HTMLElement {
       <div class="cb-topbar">
         <button class="cb-toggle" type="button" aria-label="menu">☰</button>
         <a class="cb-brand" href="${BASE}index.html">Mes<span>Pur</span> · Course Bank</a>
-        <span class="cb-crumb">${escapeHtml(c.name)} / ${escapeHtml(page.title)}</span>
+        <span class="cb-crumb"><a href="index.html" class="cb-crumb-link">${escapeHtml(c.name)}</a> / ${escapeHtml(page.title)}</span>
       </div>
       <div class="cb-layout">
-        <nav class="cb-sidebar">
-          <div class="cb-side-label">${escapeHtml(c.name)}</div>
-          ${c.pages.map((p) => {
-            const done = Store.get(c.slug, p.slug)?.passed;
-            return `<a class="cb-side-item ${p.slug === PAGE ? "active" : ""} ${done ? "done" : ""}"
-              href="${p.slug}.html"><span class="cb-dot"></span>${escapeHtml(p.title)}</a>`;
-          }).join("")}
-          <div class="cb-side-label">matkul lain</div>
-          ${this.manifest.courses.filter((x) => x.slug !== c.slug)
-            .map((x) => `<a class="cb-side-item" href="${BASE}mk/${x.slug}/${x.pages[0].slug}.html">↩ ${escapeHtml(x.name)}</a>`).join("")}
-        </nav>
+        ${this.sidebarHtml(c, PAGE)}
 
         <main class="cb-main">
           <div class="cb-article-wrap">
