@@ -80,10 +80,32 @@ function renderMarkdown(md) {
 }
 
 /* ============ <mk-quiz> component ============ */
+function shuffleArr(a) {
+  const arr = [...a];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function shuffleOptions(q) {
+  // urutkan ulang opsi + remap index jawaban biar konsisten
+  const idx = shuffleArr(q.options.map((_, i) => i));
+  return { ...q, options: idx.map((i) => q.options[i]), answer: idx.indexOf(q.answer) };
+}
+
 class MkQuiz extends HTMLElement {
   connectedCallback() {
     this.questions = parseQuiz(this.dataset.body || "");
     if (!this.questions.length) return;
+    if (this.dataset.shuffle !== undefined) {
+      this.questions = shuffleArr(this.questions);                 // acak urutan soal
+      const limit = parseInt(this.dataset.limit, 10);
+      if (limit > 0) this.questions = this.questions.slice(0, limit); // ambil 20
+      this.questions = this.questions.map(shuffleOptions);           // acak posisi opsi
+      this.shuffled = true;
+    }
     this.state = this.questions.map(() => null); // null | idx
     this.render();
   }
@@ -264,7 +286,7 @@ class MkApp extends HTMLElement {
     const pane = this.querySelector('.cb-tabpane[data-pane="kuiz"]');
     if (!pane || pane.dataset.loaded) return;
     pane.dataset.loaded = "1";
-    pane.innerHTML = `<p class="cb-quiz-intro">Kumpulan recall ${escapeHtml(c.name)} — diambil dari semua materi.</p>`;
+    pane.innerHTML = "";
     const bodies = await Promise.all(
       c.pages.map((p) =>
         fetch(`${BASE}content/${c.slug}/${p.slug}.md`)
@@ -275,8 +297,12 @@ class MkApp extends HTMLElement {
     );
     const all = bodies.join("\n").trim();
     if (!all) { pane.innerHTML += "<p>Belum ada quiz di materi matkul ini.</p>"; return; }
+    const pool = (all.match(/^Q: /gm) || []).length;
+    pane.innerHTML += `<p class="cb-quiz-intro">${Math.min(20, pool)} soal acak dari total ${pool} recall — diacak ulang tiap halaman dibuka.</p>`;
     const q = document.createElement("mk-quiz");
     q.dataset.body = all;
+    q.dataset.shuffle = "1";   // acak urutan soal + posisi opsi
+    q.dataset.limit = "20";    // ambil 20 dari pool
     pane.appendChild(q);
   }
 

@@ -21,17 +21,22 @@ browser (`localStorage`).
 
 ```
 purkulihan-course/
-├── build.py           ← generate site/ dari catatan/*.md + bikin manifest.json
+├── build.py           ← generate halaman + content/ + manifest.json ke ROOT repo
+├── .nojekyll          ← matiin proses Jekyll di GitHub Pages (biar cepat & aman)
 ├── assets/
 │   ├── css/course-bank.css
 │   ├── js/course-bank.js      ← semua komponen ada di sini
 │   └── vendor/marked.min.js
-└── site/              ← OUTPUT (gitignored, hasil generate)
-    ├── index.html     ← landing: kartu tiap matkul + progress recall
-    ├── manifest.json  ← daftar matkul + halaman (dibaca JS)
-    ├── content/<mk>/<halaman>.md
-    └── mk/<mk>/<halaman>.html
+├── index.html         ← landing: CTA ke kumpulan matkul (OUTPUT, ikut commit)
+├── silabus.html       ← daftar semua matkul (OUTPUT, ikut commit)
+├── manifest.json      ← daftar matkul + halaman (dibaca JS, OUTPUT)
+├── content/<mk>/<halaman>.md    ← OUTPUT (markdown buat di-fetch)
+└── mk/<mk>/<halaman>.html       ← OUTPUT
 ```
+
+Catatan: output build memang di-commit ke root repo karena sumber materi
+(`~/Documents/perkuliahan`) ada di LUAR repo — GitHub gak bisa nge-build
+sendiri tanpa folder itu.
 
 ## Sumber materi
 
@@ -70,44 +75,26 @@ python3 build.py --serve    # generate + http://localhost:8080
 
 ## Deploy ke GitHub Pages
 
-Opsi paling bersih pakai GitHub Action supaya hasil generate gak perlu
-di-commit. Buat `.github/workflows/pages.yml`:
+Sudah disetel buat deploy **tanpa Actions** (materi ada di luar repo, jadi
+build harus jalan di lokal):
 
-```yaml
-name: Deploy Course Bank
-on:
-  push: { branches: [main] }
-  workflow_dispatch:
-permissions: { contents: read, pages: write, id-token: write }
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      # materi kuliah ada di repo lain / folder lokal -> sesuaikan:
-      #   clone repo materi ke PURI_MATERI, atau commit catatan/ ke repo ini
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.x' }
-      - run: python3 build.py
-      - uses: actions/upload-pages-artifact@v3
-        with: { path: site }
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment: github-pages
-    steps:
-      - uses: actions/deploy-pages@v4
-```
+1. `python3 build.py` — hasil generate keluar di **root repo**
+   (index.html, silabus.html, manifest.json, mk/, content/).
+2. Commit + push semua itu ke `main`:
+   ```bash
+   git add -A
+   git commit -m "build: generate ulang halaman + materi"
+   git push origin main
+   ```
+3. Di GitHub repo: **Settings → Pages → Source: Deploy from a branch**,
+   pilih branch `main`, folder `/ (root)`, save.
+4. Selesai — situs live di `https://<username>.github.io/purkulihan-course/`.
 
-**Catatan penting:** Action di atas jalan di runner GitHub, jadi folder
-`~/Documents/perkuliahan` (lokal) gak ada di sana. Pilih salah satu:
+`.nojekyll` udah ada di repo supaya GitHub gak memproses folder lewat Jekyll
+(file/folder berawalan `_` bakal dilewatin Jekyll tanpa ini).
 
-1. Commit isi `catatan/` tiap matkul ke repo ini (paling simpel, mandiri).
-2. Simpan materi di repo terpisah, lalu `git clone` repo itu ke `PURI_MATERI`
-   sebelum `build.py` jalan.
-
-Alternatif tanpa Actions: push isi `site/` ke branch `gh-pages` manual
-(`git subtree push --prefix site origin gh-pages`), lalu aktifkan Pages.
+Workflow tiap ada materi baru: tulis catatan → `python3 build.py` →
+`git add -A && git commit && git push`.
 
 ## Checklist 8 matkul semester ini
 

@@ -3,10 +3,10 @@
 build.py — Course Bank generator (MesPur).
 
 Sumber kebenaran = folder mata kuliah di ~/Documents/perkuliahan/<mk>/catatan/*.md
-Output = site/ yang siap di-push ke GitHub Pages (pure static, vanilla).
+Output = ROOT repo langsung (GitHub Pages: deploy branch main, folder / (root)).
 
 Cara pakai:
-    python3 build.py          # generate site/
+    python3 build.py          # generate site ke root repo (commit hasilnya!)
     python3 build.py --serve  # generate + preview di http://localhost:8080
 
 Format quiz (diparse jadi <mk-quiz> di browser, tetap markdown valid):
@@ -29,9 +29,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent          # purkulihan-course/
 # Sumber materi: override lewat env PURI_MATERI, default ~/Documents/perkuliahan
 PARENT = Path(os.environ.get("PURI_MATERI", Path.home() / "Documents" / "perkuliahan")).resolve()
-SITE = ROOT / "site"
-SKIP_DIRS = {"course-bank", "_template", "site", ".git"}
-ASSETS = ROOT / "assets"                        # css/js/vendor -> ikut ke site/assets
+# Output = root repo, biar GitHub Pages tinggal deploy "main branch / (root)".
+# JANGAN di-rmtree sembarangan — cuma file yang GENERATED ini yang dihapus & dibuat ulang.
+SITE = ROOT
+GENERATED = ["mk", "content", "manifest.json", "index.html", "silabus.html"]
+SKIP_DIRS = {"purkulihan-course", "_template", "site", ".git"}
+ASSETS = ROOT / "assets"                        # css/js/vendor sudah di root (ikut deploy, gak perlu di-copy)
 
 
 def slugify(name: str) -> str:
@@ -113,12 +116,14 @@ def collect_courses():
 
 
 def build():
-    if SITE.exists():
-        shutil.rmtree(SITE)
+    # hapus hasil generate lama (hanya yang ada di GENERATED — aman, bukan rmtree root)
+    for g in GENERATED:
+        p = SITE / g
+        if p.is_dir():
+            shutil.rmtree(p)
+        elif p.exists():
+            p.unlink()
     (SITE / "content").mkdir(parents=True)
-
-    # assets (css/js/vendor + quiz schema doc) -> site/assets
-    shutil.copytree(ASSETS, SITE / "assets")
 
     courses = collect_courses()
     manifest = {"courses": []}

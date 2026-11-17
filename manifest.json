@@ -1,0 +1,348 @@
+{
+  "courses": [
+    {
+      "slug": "bahasa-indonesia",
+      "name": "bahasa indonesia",
+      "dosen": "Haura Zahra Salsabila, M.Hum.",
+      "pages": [
+        {
+          "slug": "pertemuan-01-hakikat-fungsi-bahasa",
+          "title": "Pertemuan 01 — Hakikat, Kedudukan, dan Fungsi Bahasa"
+        },
+        {
+          "slug": "pertemuan-02-ragam-bahasa-indonesia",
+          "title": "Pertemuan 02 — Ragam Bahasa Indonesia dan Karakteristiknya"
+        },
+        {
+          "slug": "pertemuan-03-pedoman-eyd-ejaan",
+          "title": "Pertemuan 03 — Pedoman Umum EYD / Ejaan Bahasa Indonesia"
+        },
+        {
+          "slug": "pertemuan-04-05-pemilihan-kata-diksi",
+          "title": "Pertemuan 04–05 — Penggunaan & Pemilihan Kata (Diksi)"
+        },
+        {
+          "slug": "pertemuan-06-kalimat-efektif",
+          "title": "Pertemuan 06 — Kalimat Efektif"
+        },
+        {
+          "slug": "pertemuan-07-paragraf",
+          "title": "Pertemuan 07 — Paragraf"
+        },
+        {
+          "slug": "recall-uts-bindo",
+          "title": "Recall Quiz — Bahasa Indonesia (P1–P7)"
+        },
+        {
+          "slug": "strategi-uts",
+          "title": "Strategi UTS — Bahasa Indonesia"
+        }
+      ]
+    },
+    {
+      "slug": "inteligensi-buatan",
+      "name": "inteligensi-buatan",
+      "dosen": "(belum ketahuan — course bank dosen belum sebut nama)",
+      "pages": [
+        {
+          "slug": "pertemuan-01-konsep-dasar-ai",
+          "title": "Pertemuan 1 — Konsep Dasar AI, Sejarah & Ruang Lingkup"
+        },
+        {
+          "slug": "pertemuan-02-intelligent-agent",
+          "title": "Pertemuan 2 — Intelligent Agent & Model ML Pertama"
+        },
+        {
+          "slug": "pertemuan-03-problem-solving-bfs-dfs",
+          "title": "Pertemuan 3 — Problem Solving: BFS & DFS"
+        },
+        {
+          "slug": "pertemuan-04-05-search-knowledge-representation",
+          "title": "Pertemuan 4–5 — Search (UCS/A*) & Knowledge Representation"
+        },
+        {
+          "slug": "pertemuan-06-predicate-logic-inference",
+          "title": "Pertemuan 6 — Predicate Logic, Inference & Rule-Based System"
+        },
+        {
+          "slug": "pertemuan-07-konsep-ml",
+          "title": "Pertemuan 7 — Konsep ML, Dataset, Feature & Label"
+        },
+        {
+          "slug": "pertemuan-09-preprocessing-cleaning",
+          "title": "Pertemuan 9 — Preprocessing & Cleaning Data"
+        },
+        {
+          "slug": "pertemuan-10-klasifikasi-model",
+          "title": "Pertemuan 10 — Klasifikasi & Model"
+        },
+        {
+          "slug": "pertemuan-11-clustering-evaluasi",
+          "title": "Pertemuan 11 — Klastering & Evaluasi Model"
+        },
+        {
+          "slug": "pertemuan-12-analisis-kebutuhan-deep-learning",
+          "title": "Pertemuan 12 — Analisis Kebutuhan & Pemilihan Metode AI"
+        },
+        {
+          "slug": "pertemuan-13-python-untuk-ai-pandas",
+          "title": "Pertemuan 13 — Python untuk AI: Pandas & Scikit-Learn"
+        },
+        {
+          "slug": "pertemuan-14-integrasi-deployment-joblib",
+          "title": "Pertemuan 14 — Integrasi & Deployment Model (Joblib / Pickle)"
+        },
+        {
+          "slug": "pertemuan-15-streamlit-evaluasi",
+          "title": "Pertemuan 15 — Aplikasi Web dengan Streamlit & Evaluasi"
+        }
+      ]
+    },
+    {
+      "slug": "keamanan-informasi",
+      "name": "keamanan-informasi",
+      "dosen": "(belum ketahuan — dari video belum disebut nama)",
+      "pages": [
+        {
+          "slug": "pertemuan-01-pengantar-cia-triad",
+          "title": "Pertemuan 1 — Pengantar Keamanan Informasi, CIA Triad & Ancaman"
+        },
+        {
+          "slug": "pertemuan-02-iso-27001-annex-sl",
+          "title": "Pertemuan 2 — ISO 27001, Annex SL & Konteks Organisasi"
+        },
+        {
+          "slug": "pertemuan-03-standar-pengamanan-konteks-organisasi",
+          "title": "Pertemuan 3 — Standar Pengamanan & Konteks Organisasi"
+        },
+        {
+          "slug": "pertemuan-04-diagnostik-pemetaan-risiko",
+          "title": "Pertemuan 4 — Diagnostik & Pemetaan Risiko"
+        },
+        {
+          "slug": "pertemuan-06-soa-governance",
+          "title": "Pertemuan 6 — Statement of Applicability & Arena Kompromi"
+        },
+        {
+          "slug": "pertemuan-07-kilas-balik-smki-briefing-uts",
+          "title": "Pertemuan 7 — Kilas Balik SMKI & Briefing Proyek UTS"
+        },
+        {
+          "slug": "transkrip-pertemuan-01",
+          "title": "Pertemuan 1 — Pengantar Keamanan Informasi & CIA Triad"
+        },
+        {
+          "slug": "transkrip-pertemuan-02",
+          "title": "Pertemuan 2 — Standar Keamanan, Struktur Annex SL & Konteks Organisasi"
+        },
+        {
+          "slug": "transkrip-pertemuan-07",
+          "title": "Pertemuan 7 — Kilas Balik SMKI, Merangkai Puzzle & Briefing Proyek UTS"
+        }
+      ]
+    },
+    {
+      "slug": "mikroprosessor",
+      "name": "mikroprosessor",
+      "dosen": "Ari Hadhiwibowo, S.T., M.Kom.",
+      "pages": [
+        {
+          "slug": "pertemuan-01-dasar-assembly",
+          "title": "Pertemuan 1 — Dasar Bahasa Assembly: Assembler, Register & Transfer Data"
+        },
+        {
+          "slug": "pertemuan-02-register-memori-bus",
+          "title": "Pertemuan 2 — Register, Memori, Bus & Transfer Data (Arsitektur Von Neumann)"
+        },
+        {
+          "slug": "pertemuan-03-arsitektur-mikroprosesor-cpu",
+          "title": "Pertemuan 3 — Arsitektur Mikroprosesor & Komponen Utama CPU"
+        },
+        {
+          "slug": "pertemuan-04-siklus-instruksi-addressing",
+          "title": "Pertemuan 4 — Siklus Instruksi, Instruction Set & Addressing Mode"
+        },
+        {
+          "slug": "pertemuan-05-rotasi-stack",
+          "title": "Pertemuan 5 — Rotasi Data, Aritmetika, Stack (x8086 / emu8086)"
+        },
+        {
+          "slug": "pertemuan-06-aritmetika-cabang",
+          "title": "Pertemuan 6 — Aritmetika, Masking, Pencabangan, Loop (x8086)"
+        },
+        {
+          "slug": "pertemuan-07",
+          "title": "Pertemuan 7 — Percabangan, Perulangan, Subroutine & Interrupt (P07)"
+        }
+      ]
+    },
+    {
+      "slug": "mobile-programming-2",
+      "name": "mobile-programming-2",
+      "dosen": "Sutani, S.T., M.T. (sutani@utb-univ.ac.id)",
+      "pages": [
+        {
+          "slug": "pertemuan-02-dasar-dart",
+          "title": "Pertemuan 2 — Dasar-Dasar Dart"
+        },
+        {
+          "slug": "pertemuan-04-dasar-widgets",
+          "title": "Pertemuan 4 — Dasar Widgets (Flutter)"
+        }
+      ]
+    },
+    {
+      "slug": "network-security",
+      "name": "network-security",
+      "dosen": "Yasti Aisyah Primianjani, S.Kom., M.S.F.",
+      "pages": [
+        {
+          "slug": "pertemuan-01-pengantar-keamanan-jaringan-labd",
+          "title": "Pertemuan 1 — Pengantar Keamanan Jaringan & Setup Lab Docker"
+        },
+        {
+          "slug": "pertemuan-02-cryptography-101",
+          "title": "Pertemuan 2 — Cryptography 101: Dasar-Dasar Kriptografi untuk Keamanan Jaringan"
+        },
+        {
+          "slug": "pertemuan-03-l2-arp-spoofing",
+          "title": "Pertemuan 3 — L2 Security: ARP Spoofing"
+        },
+        {
+          "slug": "pertemuan-04-05-wireless-l3-ip-icmp",
+          "title": "Pertemuan 4–5 — Wireless (WPA2) & L3 Security (IP/ICMP)"
+        },
+        {
+          "slug": "pertemuan-06-l4-tcp-udp",
+          "title": "Pertemuan 6 — L4 Security: TCP/UDP Attacks"
+        },
+        {
+          "slug": "pertemuan-07-dns-security",
+          "title": "Pertemuan 7 — DNS Security"
+        },
+        {
+          "slug": "pertemuan-09-web-app-security-sqli",
+          "title": "Pertemuan 9 — Web Application Security: SQL Injection"
+        },
+        {
+          "slug": "pertemuan-10-web-app-security-xss-csrf",
+          "title": "Pertemuan 10 — Web Application Security: XSS & CSRF"
+        },
+        {
+          "slug": "pertemuan-11-cve-cvss-manajemen-kerentanan",
+          "title": "Pertemuan 11 — CVE & CVSS: Manajemen Kerentanan"
+        },
+        {
+          "slug": "pertemuan-12-setup-vps-nginx",
+          "title": "Pertemuan 12 — Setup VPS & Konfigurasi Nginx"
+        },
+        {
+          "slug": "pertemuan-13-reverse-proxy-halimun",
+          "title": "Pertemuan 13 — Hands-On Reverse Proxy: NginxProxy & HalimunProxy"
+        },
+        {
+          "slug": "pertemuan-14-firewalling-iptables",
+          "title": "Pertemuan 14 — Firewalling dengan iptables"
+        },
+        {
+          "slug": "pertemuan-15-ids-snort",
+          "title": "Pertemuan 15 — IDS dengan Snort"
+        },
+        {
+          "slug": "pertemuan-16-uas",
+          "title": "Pertemuan 16 — UAS: Info Ujian + Rekap Semester"
+        }
+      ]
+    },
+    {
+      "slug": "pengembangan-diri",
+      "name": "pengembangan-diri",
+      "dosen": "(belum ketahuan)",
+      "pages": [
+        {
+          "slug": "pertemuan-01-orientasi-target-smart",
+          "title": "Slide 1 — Konsep Dasar & Orientasi Masa Depan"
+        },
+        {
+          "slug": "pertemuan-02-pengenalan-diri-potensi",
+          "title": "Pertemuan 2 — Pengenalan Diri & Potensi Diri"
+        },
+        {
+          "slug": "pertemuan-03-kebiasaan-positif",
+          "title": "Pertemuan 3 — Kebiasaan & Perilaku Positif"
+        },
+        {
+          "slug": "pertemuan-04-05-interaksi-sosial-etika",
+          "title": "Pertemuan 4–5 — Interaksi Sosial & Etika/Etiket"
+        },
+        {
+          "slug": "pertemuan-06-manajemen-waktu-prioritas",
+          "title": "Pertemuan 6 — Rencana dan Prioritas: Manajemen Waktu & Skala Prioritas"
+        },
+        {
+          "slug": "pertemuan-07-goal-setting",
+          "title": "Pertemuan 7 — Goal Setting: Tujuan Hidup & Rancangan Orientasi Masa Depan"
+        },
+        {
+          "slug": "pertemuan-09-kecerdasan-emosi",
+          "title": "Pertemuan 9 — Kecerdasan Emosi Manusia"
+        },
+        {
+          "slug": "pertemuan-10-stress",
+          "title": "Pertemuan 10 — Stress: Jenis, Gejala, Faktor, & Cara Menghadapi"
+        },
+        {
+          "slug": "pertemuan-11-komunikasi-interpersonal",
+          "title": "Pertemuan 11 — Komunikasi Interpersonal yang Efektif"
+        },
+        {
+          "slug": "pertemuan-12-asertivitas",
+          "title": "Pertemuan 12 — Asertivitas: Cara Meningkatkannya"
+        },
+        {
+          "slug": "pertemuan-13-public-speaking",
+          "title": "Pertemuan 13 — Konsep Public Speaking: Jenis & Persiapan"
+        },
+        {
+          "slug": "pertemuan-14-kepemimpinan",
+          "title": "Pertemuan 14 — Kepemimpinan: Karakteristik & Pemimpin vs Manager"
+        },
+        {
+          "slug": "pertemuan-15-teamwork",
+          "title": "Pertemuan 15 — Teamwork: Jenis, Faktor & Fungsi"
+        }
+      ]
+    },
+    {
+      "slug": "sistem-informasi-enterprise",
+      "name": "sistem-informasi-enterprise",
+      "dosen": "Dede Sulaeman",
+      "pages": [
+        {
+          "slug": "pertemuan-01-integrasi-fragmentasi-eis",
+          "title": "Bab 1 — Integrasi dalam Enterprise: Fragmentasi vs Terintegrasi"
+        },
+        {
+          "slug": "pertemuan-02-proses-bisnis-alur-kerja",
+          "title": "Bab 2 — Proses Bisnis dan Alur Kerja Enterprise"
+        },
+        {
+          "slug": "pertemuan-03-metodologi-pengembangan",
+          "title": "Bab 3 — Metodologi Pengembangan Enterprise Information System"
+        },
+        {
+          "slug": "pertemuan-04-arsitektur-sistem-informasi",
+          "title": "Bab 4 — Arsitektur Sistem Informasi"
+        },
+        {
+          "slug": "pertemuan-extra-konsep-enterprise-information-system",
+          "title": "Bab 1 — Konsep Enterprise Information System (Materi Extra)"
+        },
+        {
+          "slug": "pertemuan-kuis-ringkasan",
+          "title": "Ringkasan Kuis SIE (TIF 24 CNS E)"
+        }
+      ]
+    }
+  ]
+}

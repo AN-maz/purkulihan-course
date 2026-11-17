@@ -1,5 +1,9 @@
-# Git hygiene: ignore hasil generate + artefak lokal
-site/
+# Artefak lokal Python / OS
 __pycache__/
 *.pyc
 .DS_Store
+
+# Catatan: hasil build (mk/ content/ index.html silabus.html manifest.json)
+# TETAP di-commit ke root repo — itu yang di-deploy GitHub Pages (branch main, /).
+# Sumber materi ada di ~/Documents/perkuliahan (DI LUAR repo), jadi output build
+# memang perlu di-commit (CI gak bisa nge-build tanpa materi).
