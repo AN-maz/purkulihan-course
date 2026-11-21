@@ -19,7 +19,7 @@
         },
         {
           "slug": "pertemuan-04-05-pemilihan-kata-diksi",
-          "title": "Pertemuan 04–05 — Penggunaan & Pemilihan Kata (Diksi)"
+          "title": "Pertemuan 04–05 — Penggunaan dan Pemilihan Kata (Diksi)"
         },
         {
           "slug": "pertemuan-06-kalimat-efektif",
@@ -337,6 +337,10 @@
         {
           "slug": "pertemuan-extra-konsep-enterprise-information-system",
           "title": "Bab 1 — Konsep Enterprise Information System (Materi Extra)"
+        },
+        {
+          "slug": "pertemuan-kuis-materi-pendalam",
+          "title": "Materi Pendalam Kuis SIE — 7 Pokok Bahasan"
         },
         {
           "slug": "pertemuan-kuis-ringkasan",

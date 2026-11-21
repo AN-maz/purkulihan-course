@@ -1,294 +1,1341 @@
-# Pertemuan 04–05 — Penggunaan & Pemilihan Kata (Diksi)
+# Pertemuan 04–05 — Penggunaan dan Pemilihan Kata (Diksi)
 
-Materi slide dosen: **Penggunaan Diksi (Kata)** — 30 halaman (P4 digabung P5).
-Rujukan bukunya: Gorys Keraf buat definisi diksi, Widjono HS. buat fungsi diksi,
-plus buku seri Badan Bahasa *Bentuk dan Pilihan Kata*.[2]
+Materi ini membahas bagaimana memilih kata yang tepat agar pesan yang disampaikan mudah dipahami, tidak menimbulkan salah tafsir, dan sesuai dengan situasi komunikasi.
 
-## Pengantar: Apa Itu Diksi?
+Fokusnya bukan sekadar mengetahui arti sebuah kata, tetapi juga memahami **kapan, kepada siapa, dan dalam konteks apa kata tersebut sebaiknya digunakan**.
 
-**Definisi dosen (Gorys Keraf):** pilihan kata adalah kesanggupan sebuah
-kata untuk menimbulkan gagasan-gagasan yang tepat pada imajinasi
-pembaca/pendengar. Jadi diksi bukan soal "kata gaul vs kata kaku", tapi soal
-kata yang kamu pilih bikin orang lain nangkep gagasan yang SAMA persis kayak
-yang ada di kepalamu.
+## 1. Pengantar: Apa Itu Diksi?
 
-**Teks gak bermakna kalau dikeluarkan dari konteks** — bahasa = teks (lisan
-dan tulis), dan teks selalu tergantung dua konteks:
-- **Konteks situasi** — keadaan/lingkungan saat kalimat itu diucapkan.
-- **Konteks kultural** — budaya yang menyelimuti pemakai bahasanya.
+**Diksi** adalah pilihan kata yang digunakan seseorang untuk menyampaikan gagasan, pikiran, perasaan, atau informasi.
 
-> [!NOTE] Slide 4–5 menampilkan diagram "apa yang harus diperhatikan dalam
-> komunikasi tulis" vs "komunikasi lisan" (bentuk kata, ejaan, penalaran,
-> kalimat-paragraf, intonasi, volume) — isinya aku ambil dari teks slide
-> yang terbaca, sisanya diagram berputar yang gak kebaca utuh.
+Dalam komunikasi, kita sering menemukan beberapa kata yang memiliki makna hampir sama, tetapi penggunaannya berbeda.
 
-## Dua Syarat Penggunaan Kata
+Contoh:
 
-| Syarat | Isi |
-|---|---|
-| **Ketepatan** | hal yang menyangkut makna, logika, kesamaan maksud |
-| **Kesesuaian** | kecocokan dengan konteks sosial — apakah kata yang dipilih bisa diterima masyarakat, pendengar, atau pembaca; yang paling penting: apakah sudah **kata baku** |
+- Saya **membeli** makanan.
+- Saya **memperoleh** makanan.
+- Saya **mendapatkan** makanan.
 
-## Perbedaan Komunikasi Tulis vs Lisan
+Ketiga kata tersebut berhubungan dengan sesuatu yang diterima atau dimiliki, tetapi konteks penggunaannya tidak selalu sama.
 
-| Tulis (yang diperhatikan) | Lisan (yang diperhatikan) |
-|---|---|
-| Ejaan | Intonasi |
-| Bentuk dan pilihan kata | Volume/suara |
-| Kalimat dan paragraf | Penalaran |
-| Penalaran | Bentuk dan pilihan kata |
-| | Kalimat dan paragraf |
+Contoh lainnya:
 
-Versi aku biar ngeh: di tulis kamu gak punya suara dan wajah, jadi ejaan +
-pilihan kata yang harus ngomong; di lisan suara/intonasi yang ambil alih, tapi
-penalaran, diksi, kalimat-paragraf tetap wajib di dua-duanya.
+- "Aku nggak bisa datang." → cocok untuk percakapan santai.
+- "Saya tidak dapat menghadiri kegiatan tersebut." → lebih sesuai untuk komunikasi formal.
 
-## Fungsi Diksi (Widjono HS.)
+Artinya, pemilihan kata harus mempertimbangkan makna dan situasi komunikasi.
 
-Slide mencantumkan **6 nomor**, tapi yang terisi teks cuma 4 (nomor 5–6
-kosong di slide — *catatan jujur, bukan kepotong ekstraksi*)[3]:
-1. Mengomunikasikan gagasan dan sesuai berdasarkan kaidah suatu bahasa.
-2. Menghasilkan komunikasi puncak tanpa salah penafsiran atau salah makna.
-3. Menghasilkan respons pembaca atau pendengar sesuai harapan penulis.
-4. Menghasilkan target komunikasi yang diharapkan.
+### Mengapa diksi penting?
 
-## Hal yang Harus Diperhatikan dalam Berdiksi (6)
+Diksi penting karena:
 
-1. **Denotasi dan konotasi** — makna lugas vs makna bersayap.
-2. Membedakan kata yang **bersinonim** (sama arti ≠ boleh dipakai di konteks sama).
-3. Membedakan kata yang **mirip ejaannya** (deng/deng, laju/laju… hati-hati rancu).
-4. Memahami makna **kata-kata abstrak**.
-5. Memakai **kata hubung** (konjungsi) yang tepat.
-6. Dapat membedakan **kata umum dan khusus**.
+1. Membantu menyampaikan maksud secara tepat.
+2. Menghindari kesalahpahaman.
+3. Membuat kalimat lebih efektif dan mudah dipahami.
+4. Menyesuaikan bahasa dengan pembaca atau pendengar.
+5. Menciptakan kesan tertentu, misalnya formal, santai, sopan, atau persuasif.
 
-## Syarat Pemilihan Kata (4)
+**Contoh penerapan dalam dunia perkuliahan:**
 
-- Tidak menafsirkan kata secara **subjektif**.
-- Menggunakan **pasangan kata** yang tepat.
-- **Memahami kata asing**.
-- Menggunakan kata dengan **cermat**.
+| Situasi                | Pilihan kata                                                |
+| ---------------------- | ----------------------------------------------------------- |
+| Mengobrol dengan teman | "Aku belum paham materi tadi."                              |
+| Bertanya kepada dosen  | "Mohon izin, saya belum memahami materi yang dijelaskan."   |
+| Menulis laporan        | "Berdasarkan hasil pengamatan, ditemukan beberapa kendala." |
+| Membuat presentasi     | "Hasil pengujian menunjukkan adanya peningkatan performa."  |
 
-## Enam Syarat Utama Diksi Ilmiah
+Kesimpulannya, diksi bukan hanya tentang memilih kata yang bagus, tetapi memilih kata yang paling sesuai dengan tujuan komunikasi.
 
-| Syarat | Arti |
-|---|---|
-| **TEPAT** | sesuai makna yang dimaksud |
-| **BAKU** | mengikuti bentuk kata standar |
-| **JELAS** | tidak ambigu atau kabur |
-| **HEMAT** | tanpa kata berlebih |
-| **OBJEKTIF** | tidak emosional atau menghakimi |
-| **KONSISTEN** | istilah sama untuk konsep sama |
+## 2. Dua Syarat Penggunaan Kata
 
-> [!TIP] Enam kata ini gampang banget keluar jadi soal hafalan. Hafalin
-> urutan + satu kalimat maknanya, jangan hafal definisi panjang.
+Dalam memilih kata, terdapat dua hal mendasar yang harus diperhatikan, yaitu **ketepatan** dan **kesesuaian**.
 
-## Kata Umum vs Kata Khusus
+### 2.1 Ketepatan Kata
 
-| Khusus | Umum |
-|---|---|
-| Batuan | batu |
-| Populasi | penduduk |
-| Makro | besar |
-| Abses | bisul |
-| Produk, keluaran | hasil |
-| Bermakna | berarti |
-| Fraksi | pecahan |
-| Indeks | penunjuk |
-| Konsesi | izin |
-| Metode | cara |
+Ketepatan berarti kata yang digunakan harus mampu menyampaikan makna sesuai dengan maksud penulis atau pembicara.
 
-## Penggunaan Kata dalam Kalimat
+Contoh:
 
-Suatu kata bisa mewakili berbagai obyek (kata *buku* bisa mewakili *ruas*
-bisa pula *kitab*). Suatu kata bisa diwakili kata lain yang sama artinya,
-**tapi kata bermakna sama tidak bisa dipakai sembarangan di konteks kalimat
-yang sama.** Contoh slide:
+- Kurang tepat: "Mahasiswa itu mendapatkan hukuman karena melakukan prestasi."
+- Lebih tepat: "Mahasiswa itu mendapatkan penghargaan karena meraih prestasi."
 
-1. *Mereka pergi ke Yogyakarta dengan kereta **cepat**.* → tepat.
-2. *Dengan **cepat** pertumbuhan penduduk sebesar 2,3% penduduk Indonesia
-   pada tahun 2000.* → harus diganti **laju**.
-3. *Rencana itu perlu **cepat** dilaksanakan.* → harus diganti **segera**.
+Kata *hukuman* tidak tepat digunakan karena konteksnya adalah prestasi. Kata yang lebih sesuai ialah *penghargaan*.
 
-**Pelajarannya:** makna kata itu hidup di konteks — sinornim bukan jaminan
-bisa tukar posisi.
+### 2.2 Kesesuaian Kata
 
-## Jenis Kata (Berdasarkan Kata Tugas)
+Kesesuaian berarti kata yang digunakan harus cocok dengan situasi, lawan bicara, tujuan, dan lingkungan komunikasi.
 
-| Jenis | Fungsi |
-|---|---|
-| **Verba** | menyatakan perbuatan, tindakan, proses |
-| **Adjektiva** | menerangkan sifat, watak, tabiat orang/binatang/suatu benda |
-| **Adverbia** | memberi keterangan pada verba, adjektiva, nomina predikatif, atau kalimat |
-| **Nomina** | mengacu pada benda konkret (*meja, buku*) atau abstrak (*demokrasi, kehendak, peraturan*) |
-| **Kata tugas** | terdiri dari kata depan, sambung/konjungsi, seru, sandang, dan partikel |
+Contoh:
 
-## Kata Serapan
+| Situasi                 | Kalimat                                                      |
+| ----------------------- | ------------------------------------------------------------ |
+| Percakapan dengan teman | "Nanti kita kerjain tugas bareng, ya."                       |
+| Komunikasi kepada dosen | "Apakah kita dapat mengerjakan tugas tersebut bersama-sama?" |
+| Laporan akademik        | "Pengerjaan tugas dilakukan secara berkelompok."             |
 
-**Definisi slide:** kata-kata yang diambil dari bahasa asing atau bahasa
-daerah dan diintegrasikan ke dalam bahasa Indonesia.
+Ketiga kalimat tersebut memiliki maksud yang mirip, tetapi tingkat formalitasnya berbeda.
 
-**Dua kategori klasifikasi:** (a) berdasarkan bahasa asal; (b) berdasarkan
-proses integrasi/penyerapan katanya.
+### Perbedaan ketepatan dan kesesuaian
 
-### Berdasarkan Bahasa Asal
+| Aspek            | Ketepatan                                | Kesesuaian                               |
+| ---------------- | ---------------------------------------- | ---------------------------------------- |
+| Fokus            | Makna kata                               | Situasi penggunaan                       |
+| Pertanyaan utama | Apakah kata ini benar untuk maksud saya? | Apakah kata ini cocok untuk situasi ini? |
+| Contoh           | Menggunakan *penghargaan* untuk prestasi | Menggunakan bahasa formal dalam laporan  |
 
-Digolongkan jadi dua: serapan dari **bahasa daerah** dan serapan dari
-**bahasa asing**.
+**Cara mudah mengingat**
 
-**1. Konsepnya dari asing, dipadankan dengan bahasa Indonesia:**
+- Tepat = maknanya benar.
+- Sesuai = penggunaannya cocok.
 
-| Indonesia | Asing |
-|---|---|
-| daring | online |
-| luring | offline |
-| tembolok | cache |
-| pos-el | e-mail |
-| situs web | web site |
-| laman | homepage |
-| pindai | scan |
-| wartamerta | obituary |
-| wartasemerta | breaking news |
+Kata yang tepat belum tentu sesuai dengan situasi. Sebaliknya, kata yang terdengar sopan belum tentu tepat secara makna.
 
-**2. Dipadankan dengan bahasa daerah:**
+## 3. Perbedaan Komunikasi Tulis dan Lisan
 
-| Indonesia (daerah) | Asing |
-|---|---|
-| nyeri (Sunda) | pain |
-| gambut (Banjar) | peat |
-| mantan (Basemah) | ex |
-| ranah (Minang) | domain |
-| kedaluwarsa (Jawa) | expired |
-| unduh (Jawa) | download |
-| unggah (Jawa) | upload |
-| bobotoh (Sunda) | supporter |
+Diksi juga dipengaruhi oleh media komunikasi. Bahasa lisan dan tulisan memiliki karakteristik yang berbeda.
 
-### Kata Baku vs Tidak Baku (Ejaan & Bentuk Penulisan)
+### 3.1 Komunikasi Lisan
 
-| Tidak baku / keliru | Baku / tepat |
-|---|---|
-| analisa | analisis |
-| resiko | risiko |
-| praktek | praktik |
-| aktifitas | aktivitas |
-| mempengaruhi | memengaruhi |
-| di analisis | dianalisis |
-| diantara responden | di antara responden |
+Komunikasi lisan adalah penyampaian pesan melalui ucapan secara langsung atau melalui media suara.
 
-### Berdasarkan Proses Penyerapan
+Contoh:
 
-Penyerapan kata asing ke bahasa Indonesia mengalami **tiga proses**:
+- Percakapan sehari-hari.
+- Diskusi kelompok.
+- Presentasi.
+- Wawancara.
+- Panggilan telepon.
 
-| Proses | Definisi | Contoh |
-|---|---|---|
-| **Adopsi** | kosa kata asing diambil karena maknanya sama **tanpa mengubah** cara penulisan/pengucapan — sama persis dengan bentuk aslinya | *mall, plaza, burger* |
-| **Adaptasi** | maknanya sama dengan bahasa Indonesia, tapi kaidah penulisannya **diubah** sesuai bahasa yang menyerap | *televisi, organisasi, energi, jaket* |
-| **Pungutan** | juga disebut proses **penerjemahan** — yang diserap punya makna asli dari bahasa asalnya | *latar belakang – background*; *problem – masalah/kendala* |
+Ciri-cirinya:
 
-> [!IMPORTANT] Bedain adopsi vs adaptasi: adopsi = bentuk asli dipertahankan
-> (*mall*), adaptasi = ditulis ulang mengikuti ejaan Indonesia (*televisi*
-> bukan *television*). Pungutan = full penerjemahan makna.
+1. Dapat menggunakan intonasi dan tekanan suara.
+2. Dapat dibantu ekspresi wajah dan gerakan tubuh.
+3. Memungkinkan adanya respons langsung.
+4. Sering menggunakan kata tidak baku dalam situasi santai.
+5. Kalimat dapat lebih spontan dan tidak selalu tersusun lengkap.
 
-## Ilustrasi Pemilihan Kata dari Slide (Contoh Visual)
+Contoh:
 
-Slide P4–5 nyelipin beberapa gambar biar konsepnya kerasa nyata:
+"Eh, nanti tugasnya dikumpulin kapan?"
 
-- **Papan tanda:** *"PERHATIAN — SELURUH TEMPAT PARKIR — MESIN MOBIL DIMATIKAN"*
-  → contoh diksi di ruang publik: kata *dipatikan/dimatikan* dipilih biar
-  perintahnya jelas dan gak ambigu.
-- **Meme "Petugas Kebersihan":** panel kiri — *"Siapa bilang dia Tukang
-  Sampah? Dia itu Petugas Kebersihan"*; panel kanan — *"Ini nich… baru
-  namanya Tukang Sampah"* → pemanfaatan diksi untuk efek tertentu: pilihan
-  julukan profesi mengubah kesan (bahkan bikin satir).
-- **Iklan lama Rinso:** *"Inilah RINSO BARU — jang mentjutji seluruh
-  tjutjian lebih bersih"* → contoh ejaan lama (jang = yang, mentjutji =
-  menyuci) — bukti bahwa bentuk kata & ejaan ikut perkembangan bahasa.
-- **Meme kambing:** *"RUMPUT GUE LEBIH ASIK DARI TETANGGA"* dengan keterangan:
-  *"Jika ditilik dari pemilihan dan penggunaan kata, yang lebih asik daripada
-  rumput saya adalah tetangga saya, bukan rumput tetangga."* → contoh
-  salah diksi/konstruksi: perbandingannya rancu karena *dari tetangga*
-  membandingkan rumput dengan ORANG-nya.
+Dalam percakapan santai, kalimat tersebut dapat dipahami dengan mudah.
 
-## Denotatif vs Konotatif (materi Tugas 2)
+### 3.2 Komunikasi Tulis
 
-- **Denotatif** — makna lugas sesuai kamus, objektif.
-- **Konotatif** — makna tambahan/kesan di luar arti kamus, subjektif,
-  tergantung konteks.
-- Contoh klasik: *"ramah"* = sopan (denotatif), tapi *"ramah lingkungan"*
-  maknanya bergeser ke khusus.
+Komunikasi tulis adalah penyampaian pesan melalui media tulisan.
 
-## Gaya Bahasa
+Contoh:
 
-Slide pembuka: *"Gaya bahasa? Idiom?"* — dua konsep yang sering ketuker.
+- Makalah.
+- Laporan praktikum.
+- Surat resmi.
+- Artikel.
+- Pesan tertulis.
+- Karya ilmiah.
 
-**Definisi gaya bahasa (5 nomor di slide, nomor 5–6 kosong — sama kayak
-slide fungsi diksi):**
-1. Pemanfaatan atas kekayaan bahasa oleh seseorang dalam bertutur atau menulis.
-2. Pemakaian ragam tertentu untuk memperoleh efek-efek tertentu.
-3. Keseluruhan ciri-ciri bahasa sekelompok penulis sastra.
-4. Cara khas dalam menyatakan pikiran dan perasaan dalam bentuk tulis atau lisan.
+Ciri-cirinya:
 
-> [!WARNING] Slide fungsi diksi dan gaya bahasa sama-sama menampilkan nomor
-> 5 dan 6 tanpa isi teks — kemungkinan besar nomor itu memang gak dipakai di
-> template slide, tapi aku catat biar jujur: kalau di kelas dosen nyebut
-> enam fungsi/definisi, coba tanya langsung ya.
+1. Menggunakan ejaan dan tanda baca.
+2. Tidak mengandalkan intonasi suara.
+3. Informasi perlu disusun lebih jelas.
+4. Struktur kalimat harus diperhatikan.
+5. Dapat dibaca kembali oleh penerima pesan.
+
+Contoh:
+
+"Pengumpulan tugas dilaksanakan paling lambat pada hari Jumat."
+
+Kalimat tersebut lebih jelas dan sesuai untuk pengumuman resmi.
+
+### 3.3 Perbandingan Komunikasi Lisan dan Tulis
+
+| Aspek            | Lisan                         | Tulis                 |
+| ---------------- | ----------------------------- | --------------------- |
+| Media            | Suara                         | Tulisan               |
+| Respons          | Dapat langsung                | Bisa tertunda         |
+| Intonasi         | Ada                           | Tidak ada             |
+| Ekspresi         | Dapat terlihat atau terdengar | Tidak selalu terlihat |
+| Struktur kalimat | Lebih spontan                 | Lebih terencana       |
+| Ejaan            | Tidak tampak secara langsung  | Harus diperhatikan    |
+| Contoh           | Diskusi                       | Laporan               |
+
+**Mengapa komunikasi tulis membutuhkan perhatian lebih terhadap diksi?**
+
+Karena pembaca tidak selalu bisa bertanya langsung kepada penulis. Oleh sebab itu, kata dan kalimat harus dipilih dengan jelas agar tidak menimbulkan penafsiran yang berbeda.
+
+## 4. Fungsi Diksi Menurut Widjono H.S.
+
+Diksi memiliki peran penting dalam kegiatan komunikasi, terutama untuk menghasilkan pesan yang jelas dan efektif.
+
+Dalam pembelajaran bahasa Indonesia, fungsi diksi yang dikaitkan dengan Widjono H.S. dapat dipahami melalui beberapa hal berikut.
+
+1. **Melambangkan gagasan secara verbal.** Kata menjadi alat untuk menyampaikan pikiran, ide, dan perasaan.
+2. **Membentuk komunikasi yang efektif.** Pilihan kata yang tepat membuat penerima lebih mudah memahami pesan.
+3. **Membangun suasana komunikasi.** Kata dapat menciptakan kesan santai, resmi, akrab, tegas, atau persuasif.
+4. **Memperjelas hubungan makna.** Kata yang tepat membantu menghindari makna ganda atau kesalahpahaman.
+5. **Mendukung penyampaian informasi ilmiah.** Istilah yang tepat membantu menjelaskan konsep dan hasil penelitian.
+6. **Memperkuat ekspresi dan gaya bahasa.** Pemilihan kata dapat membuat tulisan lebih menarik dan memiliki karakter.
+
+Contoh penerapan:
+
+Kalimat biasa:
+
+"Program ini bagus."
+
+Kalimat lebih informatif:
+
+"Program ini efektif karena mampu mengurangi waktu pemrosesan data sebesar 30%."
+
+Kalimat kedua lebih kuat karena pilihan katanya lebih spesifik dan didukung informasi yang jelas.
+
+*Catatan: rumusan fungsi di atas merupakan penjabaran pembelajaran, bukan kutipan langsung atau daftar verbatim dari buku Widjono H.S. Jika dosen memberikan daftar khusus pada slide, daftar tersebut perlu dicocokkan.*
+
+## 5. Hal yang Harus Diperhatikan dalam Berdiksi (6 Hal)
+
+Saat memilih kata, ada beberapa aspek yang perlu dipertimbangkan.
+
+### 5.1 Makna Kata
+
+Pahami makna kata sebelum menggunakannya. Jangan memilih kata hanya karena terdengar bagus.
+
+Contoh:
+
+- *Efektif* berarti berhasil mencapai tujuan.
+- *Efisien* berarti menggunakan sumber daya secara tepat atau tidak berlebihan.
+
+Contoh kalimat:
+
+"Metode tersebut efektif karena mencapai target, dan efisien karena membutuhkan biaya lebih sedikit."
+
+### 5.2 Konteks Kalimat
+
+Kata harus sesuai dengan kalimat yang digunakan.
+
+Contoh:
+
+- "Ia mengambil keputusan."
+- "Ia membuat keputusan."
+
+Keduanya dapat digunakan, tetapi pemilihan kata harus mempertimbangkan konteks dan kebiasaan penggunaan.
+
+### 5.3 Sasaran Pembaca atau Pendengar
+
+Sesuaikan kata dengan siapa yang menerima informasi.
+
+Contoh:
+
+- Untuk anak-anak: "Komputer adalah alat untuk membantu kita bekerja."
+- Untuk mahasiswa informatika: "Komputer merupakan perangkat elektronik yang memproses data menjadi informasi."
+
+### 5.4 Situasi Komunikasi
+
+Perhatikan apakah komunikasi berlangsung secara resmi atau tidak resmi.
+
+Contoh:
+
+- Santai: "Aku mau izin nggak masuk."
+- Formal: "Saya ingin mengajukan izin tidak dapat mengikuti perkuliahan."
+
+### 5.5 Nilai Rasa Kata
+
+Beberapa kata memiliki makna dasar yang mirip, tetapi memberikan kesan emosional berbeda.
+
+Contoh:
+
+- *Meninggal* → lebih halus.
+- *Mati* → lebih langsung dan dapat terdengar kasar jika digunakan untuk manusia dalam situasi tertentu.
+- *Wafat* → sering digunakan untuk orang yang dihormati atau dalam konteks tertentu.
+
+### 5.6 Kelaziman dan Kebakuan
+
+Gunakan kata yang lazim dan sesuai kaidah bahasa Indonesia, terutama dalam komunikasi resmi dan ilmiah.
+
+Contoh:
+
+- Tidak baku: *nggak*
+- Baku: *tidak*
+- Tidak baku: *resiko*
+- Baku: *risiko*
+
+## 6. Syarat Pemilihan Kata (4 Syarat)
+
+Selain memperhatikan enam aspek dalam berdiksi, pemilihan kata juga dapat dipahami melalui empat syarat berikut.
+
+### 6.1 Ketepatan
+
+Kata harus mampu menyampaikan gagasan sesuai dengan maksud penulis atau pembicara.
+
+Contoh:
+
+- Kurang tepat: "Penelitian ini membuktikan bahwa mahasiswa malas."
+- Lebih tepat: "Hasil penelitian menunjukkan bahwa sebagian mahasiswa memiliki tingkat kedisiplinan yang rendah."
+
+Kalimat kedua lebih tepat karena tidak membuat generalisasi yang berlebihan.
+
+### 6.2 Kecermatan
+
+Kecermatan berarti memilih kata yang benar-benar diperlukan dan menghindari penggunaan kata secara berlebihan.
+
+Contoh:
+
+- Tidak cermat: "Para mahasiswa-mahasiswa sedang mengikuti seminar."
+- Cermat: "Para mahasiswa sedang mengikuti seminar."
+
+Kata *para* sudah menunjukkan jumlah jamak, sehingga tidak perlu mengulang bentuk jamak dengan *mahasiswa-mahasiswa*.
+
+Contoh lain:
+
+- Tidak cermat: "Agar supaya kegiatan berjalan lancar..."
+- Cermat: "Agar kegiatan berjalan lancar..."
+
+### 6.3 Kelaziman
+
+Kata yang digunakan sebaiknya merupakan bentuk yang lazim atau umum dipahami oleh masyarakat bahasa.
+
+Contoh:
+
+- Lazim: *melaksanakan kegiatan*.
+- Kurang lazim dalam konteks umum: menggunakan istilah buatan yang tidak dikenal pembaca untuk menyampaikan maksud sederhana.
+
+Kelaziman membantu pembaca memahami informasi tanpa harus menebak-nebak arti kata.
+
+### 6.4 Keserasian
+
+Kata harus sesuai dengan konteks, suasana, dan hubungan antara pembicara dengan penerima pesan.
+
+Contoh:
+
+- Kurang serasi: "Bro, berdasarkan hasil penelitian ini..."
+- Lebih serasi untuk laporan: "Berdasarkan hasil penelitian ini..."
+
+Kata *bro* cocok dalam percakapan santai, tetapi tidak sesuai untuk laporan akademik.
+
+**Empat syarat pemilihan kata**
+
+1. **Ketepatan** — sesuai dengan maksud.
+2. **Kecermatan** — tidak berlebihan atau mubazir.
+3. **Kelaziman** — umum dan mudah dipahami.
+4. **Keserasian** — cocok dengan konteks komunikasi.
+
+Catatan: pembagian syarat diksi dapat berbeda menurut buku atau materi kuliah. Beberapa rujukan juga menggunakan istilah *kebenaran* sebagai syarat tersendiri. Jadi, empat istilah di atas merupakan kerangka belajar yang perlu disesuaikan dengan slide dosen apabila ada daftar khusus.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://binus.ac.id\&sz=32)
+
+Pilihan Universitas Terbaik di Malang+2
+
+## 7. Enam Syarat Utama Diksi Ilmiah
+
+Diksi ilmiah adalah pemilihan kata yang digunakan dalam tulisan atau komunikasi akademik, seperti makalah, laporan penelitian, jurnal, dan skripsi.
+
+Bahasa ilmiah harus menyampaikan informasi secara objektif, jelas, logis, dan dapat dipertanggungjawabkan.
+
+Berikut enam prinsip yang dapat digunakan sebagai pedoman memilih diksi ilmiah.
+
+### 7.1 Menggunakan Kata Baku
+
+Gunakan kata yang sesuai dengan kaidah bahasa Indonesia.
+
+Contoh:
+
+- Tidak baku: *analisa*
+- Baku: *analisis*
+- Tidak baku: *resiko*
+- Baku: *risiko*
+
+### 7.2 Menggunakan Istilah yang Tepat
+
+Istilah harus sesuai dengan bidang ilmu yang sedang dibahas.
+
+Contoh dalam bidang informatika:
+
+- *Database* → basis data.
+- *Network* → jaringan.
+- *Encryption* → enkripsi.
+- *Algorithm* → algoritma.
+
+Jangan mengganti istilah teknis dengan kata lain yang dapat mengubah makna konsepnya.
+
+### 7.3 Mengutamakan Makna Denotatif
+
+Tulisan ilmiah sebaiknya menggunakan makna sebenarnya atau makna langsung.
+
+Contoh:
+
+- Kurang ilmiah: "Sistem tersebut memiliki kinerja yang luar biasa."
+- Lebih ilmiah: "Sistem tersebut mampu memproses 1.000 permintaan per detik."
+
+Kalimat kedua lebih objektif karena memberikan ukuran yang dapat diperiksa.
+
+### 7.4 Menghindari Makna Ganda
+
+Gunakan kata yang tidak menimbulkan banyak penafsiran.
+
+Contoh:
+
+- Ambigu: "Mahasiswa melihat dosen dengan teropong."
+- Lebih jelas: "Mahasiswa menggunakan teropong untuk melihat dosen."
+
+Kalimat pertama dapat ditafsirkan bahwa mahasiswa menggunakan teropong atau dosen membawa teropong.
+
+### 7.5 Menggunakan Kata secara Konsisten
+
+Istilah yang sama sebaiknya digunakan secara konsisten dalam satu tulisan.
+
+Contoh:
+
+Jika sejak awal menggunakan istilah **basis data**, jangan berganti-ganti menjadi *database*, *pangkalan data*, dan *data storage* tanpa alasan yang jelas.
+
+Konsistensi membantu pembaca memahami bahwa istilah tersebut merujuk pada konsep yang sama.
+
+### 7.6 Menghindari Kata yang Tidak Diperlukan
+
+Tulisan ilmiah harus ringkas dan tidak dipenuhi kata yang tidak memberikan informasi tambahan.
+
+Contoh:
+
+- Tidak efektif: "Berdasarkan hasil daripada penelitian yang telah dilakukan sebelumnya..."
+- Lebih efektif: "Berdasarkan hasil penelitian sebelumnya..."
+
+### Contoh penerapan enam syarat diksi ilmiah
+
+**Sebelum diperbaiki**
+
+"Jadi, sistem yang kita buat ini sangat bagus sekali dan bisa banget membantu para pengguna untuk melakukan proses pengolahan data dengan lebih cepat."
+
+**Setelah diperbaiki**
+
+"Sistem yang dikembangkan mampu membantu pengguna mengolah data dengan lebih cepat."
+
+Lebih sesuai untuk tulisan ilmiah
+
+Perbaikannya:
+
+- Menghilangkan kata percakapan seperti *jadi* dan *banget*.
+- Menghindari penegasan berlebihan seperti *sangat bagus sekali*.
+- Menggunakan kata yang lebih objektif.
+- Membuat kalimat lebih ringkas.
+
+*Catatan: enam prinsip ini merupakan rangkuman operasional untuk menulis ilmiah, bukan daftar baku yang selalu sama dalam setiap buku. Cocokkan istilah dan urutannya dengan materi dosen.*
+
+## 8. Kata Umum dan Kata Khusus
+
+Kata umum dan kata khusus dibedakan berdasarkan luas atau sempitnya cakupan makna.
+
+### 8.1 Kata Umum
+
+**Kata umum** adalah kata yang memiliki cakupan makna luas dan dapat mencakup beberapa jenis atau kelompok benda.
+
+Contoh:
+
+- Hewan
+- Kendaraan
+- Buah
+- Makanan
+- Perangkat elektronik
+
+### 8.2 Kata Khusus
+
+**Kata khusus** adalah kata yang memiliki cakupan makna lebih sempit dan merujuk pada sesuatu yang lebih spesifik.
+
+Contoh:
+
+- Hewan → kucing, anjing, kelinci.
+- Kendaraan → mobil, sepeda motor, bus.
+- Buah → apel, mangga, pisang.
+- Perangkat elektronik → laptop, ponsel, televisi.
+
+### 8.3 Perbandingan Kata Umum dan Kata Khusus
+
+| Kata umum          | Kata khusus  |
+| ------------------ | ------------ |
+| Hewan              | Kucing       |
+| Kendaraan          | Sepeda motor |
+| Buah               | Mangga       |
+| Makanan            | Nasi goreng  |
+| Pakaian            | Kemeja       |
+| Perangkat komputer | Keyboard     |
+
+**Ilustrasi hubungan kata umum dan kata khusus**
+
+**KENDARAAN**
+
+Kata umum
+
+**Mobil**
+
+Khusus
+
+**Bus**
+
+Khusus
+
+**Sepeda**
+
+Khusus
+
+### 8.4 Mengapa Perbedaan Ini Penting?
+
+Kata khusus membuat informasi menjadi lebih jelas dan terarah.
+
+Contoh:
+
+- Umum: "Saya membeli buah."
+- Khusus: "Saya membeli tiga buah apel."
+
+Kalimat kedua memberikan informasi yang lebih spesifik.
+
+**Dalam tulisan ilmiah**, penggunaan kata khusus sangat membantu karena penulis harus menjelaskan objek, proses, atau hasil penelitian secara jelas.
+
+Contoh:
+
+- Umum: "Perangkat komputer mengalami kerusakan."
+- Khusus: "Hard disk mengalami kerusakan pada sektor penyimpanan."
+
+## 9. Penggunaan Kata dalam Kalimat
+
+Kata tidak digunakan secara terpisah. Kata harus disusun dengan tepat agar menghasilkan kalimat yang jelas dan tidak menimbulkan kesalahan makna.
+
+Berikut beberapa hal yang perlu diperhatikan.
+
+### 9.1 Memperhatikan Makna Kata
+
+Gunakan kata sesuai dengan maknanya.
+
+Contoh:
+
+- Kurang tepat: "Saya mengkonsumsi informasi dari internet."
+- Lebih tepat: "Saya memperoleh informasi dari internet."
+
+Kata *mengonsumsi* lebih lazim digunakan untuk makanan, minuman, atau sesuatu yang dikonsumsi. Dalam konteks informasi, kata *memperoleh* lebih sesuai.
+
+### 9.2 Memperhatikan Pasangan Kata
+
+Ada kata-kata yang lazim digunakan bersama pasangan tertentu.
+
+Contoh:
+
+| Kurang tepat          | Lebih tepat              |
+| --------------------- | ------------------------ |
+| Terdiri dari          | Terdiri atas             |
+| Sesuai bagi ketentuan | Sesuai dengan ketentuan  |
+| Bergantung dengan     | Bergantung pada          |
+| Disebabkan karena     | Disebabkan oleh / karena |
+
+Perlu diingat, beberapa pasangan kata memiliki variasi penggunaan. Periksa konteks kalimat dan bentuk bakunya.
+
+### 9.3 Menghindari Pemborosan Kata
+
+Jangan menggunakan kata yang memiliki fungsi sama secara berlebihan.
+
+Contoh:
+
+- Tidak efektif: "Naik ke atas."
+- Lebih ringkas: "Naik."
+
+Contoh lain:
+
+- Tidak efektif: "Mundur ke belakang."
+- Lebih ringkas: "Mundur."
+
+### 9.4 Memperhatikan Kata yang Mirip
+
+Ada kata yang bentuk atau bunyinya mirip, tetapi memiliki arti berbeda.
+
+Contoh:
+
+| Kata     | Makna                                               |
+| -------- | --------------------------------------------------- |
+| Efektif  | Berhasil mencapai tujuan                            |
+| Efisien  | Hemat atau tepat dalam penggunaan sumber daya       |
+| Insentif | Tambahan atau dorongan, biasanya berupa penghargaan |
+| Intensif | Dilakukan secara sungguh-sungguh atau terus-menerus |
+| Absorpsi | Penyerapan                                          |
+| Adopsi   | Pengambilan atau penerimaan sesuatu                 |
+
+Contoh kalimat:
+
+- Pelatihan dilakukan secara **intensif**.
+- Karyawan menerima **insentif** setelah mencapai target.
+
+### 9.5 Memperhatikan Struktur Kalimat
+
+Pilihan kata harus mendukung hubungan antarkata agar kalimat mudah dipahami.
+
+Contoh:
+
+- Kurang jelas: "Penelitian mahasiswa sistem informasi baru selesai."
+- Lebih jelas: "Penelitian terbaru yang dilakukan oleh mahasiswa Sistem Informasi baru saja selesai."
+
+Kalimat pertama membingungkan karena hubungan kata *mahasiswa*, *sistem informasi*, dan *baru* tidak jelas.
+
+## 10. Jenis Kata Berdasarkan Kata Tugas
+
+Dalam bahasa Indonesia, kata dapat dikelompokkan berdasarkan fungsi dan perannya dalam kalimat.
+
+Salah satu kelompoknya adalah **kata tugas**.
+
+**Kata tugas** adalah kelompok kata yang umumnya memiliki makna gramatikal, yaitu maknanya bergantung pada hubungan dengan kata lain dalam kalimat.
+
+Contoh:
+
+- *di* menunjukkan hubungan tempat.
+- *dan* menghubungkan dua unsur.
+- *karena* menunjukkan hubungan sebab.
+- *wah* menunjukkan ekspresi atau perasaan.
+
+### 10.1 Kata Depan (Preposisi)
+
+Kata depan adalah kata yang digunakan untuk menunjukkan hubungan antara unsur dalam kalimat, misalnya tempat, arah, asal, alat, dan cara.
+
+Contoh:
+
+| Kata depan | Contoh          |
+| ---------- | --------------- |
+| di         | di kampus       |
+| ke         | ke sekolah      |
+| dari       | dari Bandung    |
+| dengan     | dengan komputer |
+| untuk      | untuk mahasiswa |
+| pada       | pada hari Senin |
+| sejak      | sejak pagi      |
+| sampai     | sampai malam    |
+
+Contoh kalimat:
+
+- Saya kuliah **di** Bandung.
+- Mereka pergi **ke** perpustakaan.
+- Tugas tersebut dikerjakan **dengan** komputer.
+
+### 10.2 Kata Penghubung (Konjungsi)
+
+Konjungsi adalah kata yang menghubungkan kata, frasa, klausa, atau kalimat.
+
+Jenis konjungsi:
+
+| Jenis        | Fungsi                    | Contoh                   |
+| ------------ | ------------------------- | ------------------------ |
+| Penambahan   | Menambahkan informasi     | dan, serta               |
+| Pertentangan | Menyatakan pertentangan   | tetapi, sedangkan        |
+| Sebab        | Menyatakan alasan         | karena, sebab            |
+| Akibat       | Menyatakan hasil          | sehingga, maka           |
+| Pilihan      | Menyatakan alternatif     | atau                     |
+| Tujuan       | Menyatakan tujuan         | agar, supaya             |
+| Waktu        | Menyatakan hubungan waktu | ketika, setelah, sebelum |
+| Syarat       | Menyatakan persyaratan    | jika, apabila            |
+
+Contoh:
+
+- Saya belajar **dan** mengerjakan tugas.
+- Dia ingin datang, **tetapi** sedang sakit.
+- Saya tidak masuk kuliah **karena** sedang sakit.
+- Belajarlah dengan tekun **agar** mendapatkan hasil yang baik.
+
+### 10.3 Kata Seru (Interjeksi)
+
+Kata seru adalah kata yang digunakan untuk mengungkapkan perasaan atau reaksi spontan.
+
+Contoh:
+
+| Kata seru  | Makna atau ekspresi              |
+| ---------- | -------------------------------- |
+| Wah!       | Kekaguman                        |
+| Aduh!      | Kesakitan atau kesulitan         |
+| Astaga!    | Keheranan                        |
+| Hore!      | Kegembiraan                      |
+| Ah!        | Kekecewaan atau ketidakpercayaan |
+| Syukurlah! | Rasa syukur                      |
+
+Contoh kalimat:
+
+- Wah, hasil presentasimu bagus sekali!
+- Aduh, saya lupa membawa buku.
+- Hore, akhirnya tugas selesai!
+
+### 10.4 Kata Sandang (Artikula)
+
+Kata sandang adalah kata yang digunakan untuk mendampingi kata benda atau kelompok kata tertentu.
+
+Contoh:
+
+- sang
+- si
+- para
+
+Contoh kalimat:
+
+- **Sang** juara menerima penghargaan.
+- **Si** Kancil dikenal dalam cerita rakyat.
+- **Para** mahasiswa mengikuti seminar.
+
+### 10.5 Partikel Penegas
+
+Partikel penegas adalah unsur yang digunakan untuk memberikan penekanan pada bagian tertentu dalam kalimat.
+
+Contoh:
+
+- -lah
+- -kah
+- -tah
+- pun
+
+Contoh kalimat:
+
+- Bacalah buku tersebut!
+- Apakah kamu sudah makan?
+- Saya pun ingin ikut.
+
+### Rangkuman Jenis Kata Tugas
+
+| Jenis            | Fungsi                     | Contoh              |
+| ---------------- | -------------------------- | ------------------- |
+| Preposisi        | Menunjukkan hubungan       | di, ke, dari        |
+| Konjungsi        | Menghubungkan unsur bahasa | dan, tetapi, karena |
+| Interjeksi       | Menyatakan perasaan        | wah, aduh           |
+| Artikula         | Mendampingi kata benda     | sang, si, para      |
+| Partikel penegas | Memberikan penekanan       | -lah, -kah, pun     |
+
+Pembagian ini mengikuti pengelompokan umum kata tugas dalam tata bahasa Indonesia.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://narabahasa.id\&sz=32)
+
+Narabahasa+1
+
+## 11. Kata Serapan
+
+**Kata serapan** adalah kata yang berasal dari bahasa lain, baik bahasa daerah maupun bahasa asing, kemudian digunakan dalam bahasa Indonesia.
+
+Kata serapan masuk ke dalam bahasa Indonesia karena adanya interaksi antarmasyarakat, perkembangan ilmu pengetahuan, teknologi, budaya, dan kebutuhan istilah baru.
+
+Contoh:
+
+| Kata asal            | Kata dalam bahasa Indonesia |
+| -------------------- | --------------------------- |
+| Computer (Inggris)   | Komputer                    |
+| Technology (Inggris) | Teknologi                   |
+| Algorithm (Inggris)  | Algoritma                   |
+| Risk (Inggris)       | Risiko                      |
+| Analysis (Inggris)   | Analisis                    |
+| Quality (Inggris)    | Kualitas                    |
+
+### Mengapa bahasa Indonesia memiliki kata serapan?
+
+1. Memperkaya kosakata bahasa Indonesia.
+2. Mempermudah penyebutan konsep atau teknologi baru.
+3. Menyesuaikan perkembangan ilmu pengetahuan.
+4. Menjadi bagian dari interaksi budaya dan bahasa.
+
+### 11.1 Kata Serapan Berdasarkan Bahasa Asal
+
+Bahasa Indonesia menyerap kosakata dari berbagai bahasa. Berikut beberapa contohnya.
+
+| Bahasa asal | Contoh kata serapan           |
+| ----------- | ----------------------------- |
+| Sanskerta   | agama, bahasa, manusia        |
+| Arab        | kitab, kabar, ilmu            |
+| Belanda     | kantor, polisi, kualitas      |
+| Portugis    | gereja, meja, bendera         |
+| Inggris     | komputer, internet, teknologi |
+| Tionghoa    | bakmi, teh, kecap             |
+| Jawa        | unggah, unduh, batik          |
+| Sunda       | nyeri, calung                 |
+
+Kata-kata tersebut telah digunakan dalam bahasa Indonesia dengan tingkat penyesuaian yang berbeda-beda.
+
+### 11.2 Kata Baku dan Tidak Baku (Ejaan dan Bentuk Penulisan)
+
+**Kata baku** adalah kata yang bentuk penulisan atau penggunaannya sesuai dengan kaidah bahasa Indonesia dan tercatat sebagai bentuk standar.
+
+**Kata tidak baku** adalah bentuk yang tidak sesuai dengan bentuk standar dalam konteks penggunaan bahasa resmi.
+
+Contoh:
+
+| Tidak baku | Baku      |
+| ---------- | --------- |
+| Aktifitas  | Aktivitas |
+| Analisa    | Analisis  |
+| Resiko     | Risiko    |
+| Ijin       | Izin      |
+| Apotik     | Apotek    |
+| Praktek    | Praktik   |
+| Nasehat    | Nasihat   |
+| Sekedar    | Sekadar   |
+| Kwalitas   | Kualitas  |
+| Hakekat    | Hakikat   |
+| Merubah    | Mengubah  |
+| Silahkan   | Silakan   |
+
+**Mengapa kata baku penting?**
+
+Kata baku diperlukan untuk menjaga konsistensi bahasa, terutama dalam:
+
+- Penulisan laporan.
+- Makalah dan karya ilmiah.
+- Surat resmi.
+- Dokumen administrasi.
+- Komunikasi profesional.
+
+Contoh:
+
+- Percakapan santai: "Aku mau izin nggak masuk."
+- Surat resmi: "Saya mengajukan izin tidak dapat mengikuti perkuliahan."
+
+Kata tidak baku tidak selalu berarti tidak boleh digunakan. Dalam percakapan santai, ragam tidak baku dapat digunakan sesuai konteks. Namun, dalam penulisan formal, bentuk baku lebih diutamakan.
+
+### 11.3 Kata Serapan Berdasarkan Proses Penyerapan
+
+Kata asing dapat masuk ke dalam bahasa Indonesia melalui beberapa proses.
+
+Dalam pembelajaran, proses ini sering dikelompokkan menjadi empat cara: adopsi, adaptasi, penerjemahan, dan kreasi.
+
+**A. Adopsi**
+
+Adopsi adalah proses mengambil kata dari bahasa asing dengan mempertahankan bentuk penulisan dan maknanya.
+
+Contoh:
+
+- Internet
+- Film
+- Radio
+- Supermarket
+
+**B. Adaptasi**
+
+Adaptasi adalah proses penyerapan kata asing dengan menyesuaikan ejaan atau pelafalannya dengan kaidah bahasa Indonesia.
+
+Contoh:
+
+| Bahasa asing | Bahasa Indonesia |
+| ------------ | ---------------- |
+| Technology   | Teknologi        |
+| System       | Sistem           |
+| Analysis     | Analisis         |
+| Computer     | Komputer         |
+| Quality      | Kualitas         |
+| Activity     | Aktivitas        |
+
+**C. Penerjemahan**
+
+Penerjemahan adalah proses mengambil konsep dari bahasa asing, kemudian mencari padanannya dalam bahasa Indonesia.
+
+Contoh:
+
+| Bahasa asing   | Bahasa Indonesia |
+| -------------- | ---------------- |
+| Software       | Perangkat lunak  |
+| Hardware       | Perangkat keras  |
+| Online meeting | Rapat daring     |
+| Download       | Unduh            |
+| Database       | Basis data       |
+
+**D. Kreasi**
+
+Kreasi adalah proses membentuk istilah bahasa Indonesia berdasarkan konsep dari bahasa asing, tanpa harus mempertahankan bentuk kata asalnya.
+
+Contoh yang sering digunakan:
+
+- Spare parts → suku cadang.
+- Try out → uji coba.
+
+Perbedaan penerjemahan dan kreasi terkadang tidak terlalu tegas dalam praktik. Keduanya sama-sama mengambil konsep bahasa sumber, tetapi bentuk hasilnya tidak harus sama dengan bentuk aslinya.
+
+### Perbandingan Empat Proses Penyerapan
+
+| Proses       | Cara                                 | Contoh                     |
+| ------------ | ------------------------------------ | -------------------------- |
+| Adopsi       | Mengambil bentuk asli                | Internet                   |
+| Adaptasi     | Menyesuaikan ejaan                   | Technology → teknologi     |
+| Penerjemahan | Menggunakan padanan langsung         | Software → perangkat lunak |
+| Kreasi       | Membentuk istilah berdasarkan konsep | Spare parts → suku cadang  |
+
+Penjelasan mengenai unsur serapan dan penyesuaian bentuk dapat dilihat dalam EYD V.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://ejaan.kemendikdasmen.go.id\&sz=32)
+
+EYD V+2
+
+## 12. Ilustrasi Pemilihan Kata dari Slide (Contoh Visual)
+
+Pada bagian ini, kita akan melihat bagaimana perubahan satu atau beberapa kata dapat memengaruhi kesan dan makna sebuah kalimat.
+
+Karena gambar slide asli belum disertakan, ilustrasi berikut merupakan contoh pembelajaran pengganti, bukan reproduksi contoh visual dari dosen.
+
+### 12.1 Memilih Kata Sesuai Situasi
+
+**Situasi: Meminta seseorang mengumpulkan tugas**
+
+Informal
+
+"Eh, tugasnya jangan lupa dikumpulin, ya!"
+
+Formal
+
+"Mohon mengumpulkan tugas sesuai dengan batas waktu yang telah ditentukan."
+
+**Analisis:** Kedua kalimat memiliki tujuan yang sama, tetapi menggunakan pilihan kata yang berbeda karena situasi komunikasinya berbeda.
+
+### 12.2 Memilih Kata Sesuai Makna
+
+**Situasi: Menjelaskan hasil penelitian**
+
+Kurang spesifik
+
+"Aplikasi ini sangat bagus dan cepat."
+
+Lebih spesifik
+
+"Aplikasi ini dapat memproses data dalam waktu 2 detik."
+
+**Analisis:** Kata *bagus* dan *cepat* bersifat umum. Kalimat kedua memberikan informasi yang lebih terukur.
+
+### 12.3 Memilih Kata Sesuai Sasaran Pembaca
+
+**Topik: Menjelaskan basis data**
+
+Untuk masyarakat umum
+
+"Basis data adalah tempat untuk menyimpan dan mengatur informasi."
+
+Untuk mahasiswa informatika
+
+"Basis data merupakan kumpulan data terstruktur yang disimpan dan dikelola agar dapat diakses serta diproses secara efisien."
+
+**Analisis:** Penjelasan kedua menggunakan istilah teknis karena pembacanya diasumsikan memiliki pengetahuan dasar informatika.
+
+### Kesimpulan Ilustrasi
+
+Sebelum memilih kata, tanyakan tiga hal:
+
+1. Apa maksud yang ingin disampaikan?
+2. Siapa yang akan menerima pesan?
+3. Dalam situasi apa pesan tersebut disampaikan?
+
+Jika ketiganya dipertimbangkan, pemilihan kata akan menjadi lebih tepat dan sesuai.
+
+## 13. Denotatif dan Konotatif
+
+Materi ini berkaitan dengan pembahasan makna kata dan juga materi Tugas 2.
+
+Dalam bahasa Indonesia, kata dapat memiliki makna sebenarnya dan makna tambahan yang muncul karena perasaan, penilaian, atau asosiasi tertentu.
+
+### 13.1 Makna Denotatif
+
+**Makna denotatif** adalah makna sebenarnya atau makna dasar sebuah kata, sebagaimana dijelaskan dalam kamus.
+
+Makna denotatif bersifat langsung dan relatif objektif.
+
+Contoh:
+
+- "Ayah membeli **bunga** di pasar."
+- "Adik duduk di atas **kursi**."
+- "Air mengalir dari **pipa**."
+
+Kata *bunga*, *kursi*, dan *pipa* digunakan sesuai makna sebenarnya.
+
+### 13.2 Makna Konotatif
+
+**Makna konotatif** adalah makna tambahan yang muncul karena nilai rasa, asosiasi, atau pandangan tertentu terhadap sebuah kata.
+
+Makna konotatif dapat memberikan kesan positif maupun negatif.
+
+Contoh:
+
+- "Dia adalah **bunga desa**."
+- "Orang itu memiliki **tangan dingin**."
+- "Jangan menjadi **kambing hitam** dalam masalah ini."
+
+Maknanya bukan bunga, tangan, atau kambing secara harfiah, melainkan ungkapan dengan arti tambahan.
+
+### 13.3 Perbedaan Denotatif dan Konotatif
+
+| Aspek      | Denotatif             | Konotatif                    |
+| ---------- | --------------------- | ---------------------------- |
+| Makna      | Sebenarnya            | Makna tambahan               |
+| Sifat      | Langsung dan objektif | Asosiatif atau bernilai rasa |
+| Penggunaan | Informasi langsung    | Ekspresi atau gaya bahasa    |
+| Contoh     | Tangan manusia        | Tangan kanan pemimpin        |
+
+### 13.4 Contoh Denotatif dan Konotatif dalam Kalimat
+
+| Kata           | Denotatif                      | Konotatif                                     |
+| -------------- | ------------------------------ | --------------------------------------------- |
+| Tangan kanan   | Tangan sebelah kanan           | Orang kepercayaan                             |
+| Kambing hitam  | Kambing berwarna hitam         | Orang yang disalahkan                         |
+| Bunga desa     | Bunga yang tumbuh di desa      | Perempuan yang dianggap paling cantik di desa |
+| Buah tangan    | Buah yang dibawa dengan tangan | Oleh-oleh                                     |
+| Meja hijau     | Meja berwarna hijau            | Pengadilan                                    |
+| Panjang tangan | Tangan yang berukuran panjang  | Suka mencuri                                  |
+
+### 13.5 Konotasi Positif dan Negatif
+
+Makna konotatif juga dapat dibedakan berdasarkan kesan yang ditimbulkan.
+
+**A. Konotasi positif**
+
+Memberikan kesan baik, halus, atau menghargai.
+
+Contoh:
+
+- *Meninggal dunia*.
+- *Berbadan besar*.
+- *Membutuhkan bantuan*.
+
+**B. Konotasi negatif**
+
+Memberikan kesan kurang baik, merendahkan, atau tidak menyenangkan.
+
+Contoh:
+
+- *Mati* dalam konteks penyebutan manusia yang membutuhkan ungkapan lebih santun.
+- *Gendut* dalam konteks komentar yang dapat menyinggung seseorang.
+- *Pengemis* dalam konteks tertentu ketika digunakan untuk merendahkan.
+
+Perlu dipahami bahwa nilai konotasi dapat berubah sesuai konteks, budaya, dan hubungan antara pembicara dengan pendengar.
+
+### 13.6 Kapan Menggunakan Denotatif dan Konotatif?
+
+| Situasi                | Pilihan makna yang disarankan |
+| ---------------------- | ----------------------------- |
+| Laporan penelitian     | Denotatif                     |
+| Makalah akademik       | Denotatif                     |
+| Dokumen resmi          | Denotatif                     |
+| Puisi                  | Dapat menggunakan konotatif   |
+| Cerpen                 | Dapat menggunakan konotatif   |
+| Iklan                  | Dapat menggunakan konotatif   |
+| Percakapan sehari-hari | Keduanya, sesuai konteks      |
+
+**Contoh dalam tulisan ilmiah:**
+
+Kurang tepat:
+
+"Teknologi ini menjadi cahaya bagi masa depan pendidikan."
+
+Lebih objektif:
+
+"Teknologi ini membantu meningkatkan akses terhadap sumber pembelajaran."
+
+Kalimat pertama menggunakan makna kiasan, sedangkan kalimat kedua lebih sesuai untuk menjelaskan hasil atau manfaat secara ilmiah.
+
+## 14. Gaya Bahasa
+
+**Gaya bahasa** adalah cara seseorang menggunakan bahasa untuk menyampaikan gagasan dengan karakteristik atau efek tertentu.
+
+Gaya bahasa dapat membuat komunikasi menjadi lebih menarik, persuasif, ekspresif, atau memberikan penekanan terhadap suatu gagasan.
+
+Contoh:
+
+- Biasa: "Dia sangat rajin."
+- Bergaya bahasa: "Dia adalah mesin belajar yang tidak pernah berhenti."
+
+Kalimat kedua menggunakan perbandingan untuk memberikan kesan bahwa orang tersebut sangat rajin.
+
+### 14.1 Fungsi Gaya Bahasa
+
+Gaya bahasa memiliki beberapa fungsi:
+
+1. Memperindah penyampaian pesan.
+2. Memberikan penekanan terhadap gagasan.
+3. Membangun suasana atau emosi.
+4. Memengaruhi pembaca atau pendengar.
+5. Membuat tulisan lebih menarik dan mudah diingat.
+
+### 14.2 Jenis-Jenis Gaya Bahasa
+
+Berikut beberapa jenis gaya bahasa yang sering ditemukan dalam bahasa Indonesia.
+
+#### A. Gaya Bahasa Perbandingan
+
+Gaya bahasa yang membandingkan suatu hal dengan hal lain.
+
+**1. Metafora**
+
+Membandingkan dua hal secara langsung tanpa menggunakan kata pembanding.
+
+Contoh:
+
+- "Dia adalah bintang kelas."
+- "Buku adalah jendela dunia."
+
+**2. Simile (Perumpamaan)**
+
+Membandingkan dua hal dengan menggunakan kata seperti, bagai, laksana, atau ibarat.
+
+Contoh:
+
+- "Wajahnya bersinar seperti bulan."
+- "Semangatnya kuat bagai baja."
+
+**3. Personifikasi**
+
+Memberikan sifat manusia kepada benda mati atau sesuatu yang bukan manusia.
+
+Contoh:
+
+- "Angin berbisik di malam hari."
+- "Matahari tersenyum menyambut pagi."
+
+**4. Hiperbola**
+
+Mengungkapkan sesuatu secara berlebihan untuk memberikan penekanan.
+
+Contoh:
+
+- "Aku sudah menunggumu selama seribu tahun."
+- "Tugas kuliah ini menumpuk setinggi gunung."
+
+#### B. Gaya Bahasa Pertentangan
+
+Gaya bahasa yang menggunakan pertentangan untuk menegaskan suatu gagasan.
+
+**1. Antitesis**
+
+Menggunakan pasangan kata yang berlawanan.
+
+Contoh:
+
+- "Tua muda mengikuti kegiatan tersebut."
+- "Besar kecil mendapatkan kesempatan yang sama."
+
+**2. Paradoks**
+
+Mengungkapkan sesuatu yang tampak bertentangan, tetapi mengandung kebenaran.
+
+Contoh:
+
+- "Di tengah keramaian, ia merasa kesepian."
+- "Kehidupan modern membuat sebagian orang semakin terasing."
+
+#### C. Gaya Bahasa Sindiran
+
+Gaya bahasa yang digunakan untuk menyampaikan kritik atau sindiran.
+
+**1. Ironi**
+
+Sindiran yang menggunakan kata-kata seolah-olah memuji, tetapi sebenarnya menyindir.
+
+Contoh:
+
+\- "Rajin sekali kamu, datang ketika acara sudah selesai."
+
+**2. Sinisme**
+
+Sindiran yang disampaikan secara langsung dengan nada meragukan atau mencemooh.
+
+Contoh:
+
+\- "Saya tidak yakin kamu benar-benar serius mengerjakan tugas ini."
+
+**3. Sarkasme**
+
+Sindiran yang sangat keras dan dapat terasa kasar atau menyakitkan.
+
+Contoh:
+
+\- "Kamu benar-benar tidak bertanggung jawab!"
+
+#### D. Gaya Bahasa Penegasan
+
+Gaya bahasa yang digunakan untuk memperkuat atau menegaskan suatu pernyataan.
+
+**1. Repetisi**
+
+Pengulangan kata atau frasa untuk memberikan penekanan.
+
+Contoh:
+
+\- "Kita harus belajar, belajar, dan terus belajar."
+
+**2. Klimaks**
+
+Menyampaikan gagasan secara bertahap dari tingkat rendah menuju tingkat yang lebih tinggi.
+
+Contoh:
+
+\- "Anak-anak, remaja, orang dewasa, hingga orang tua mengikuti kegiatan tersebut."
+
+**3. Antiklimaks**
+
+Menyampaikan gagasan dari tingkat tinggi menuju tingkat yang lebih rendah.
+
+Contoh:
+
+\- "Presiden, menteri, gubernur, hingga masyarakat biasa hadir dalam acara tersebut."
+
+### 14.3 Tabel Rangkuman Gaya Bahasa
+
+| Kelompok     | Jenis         | Contoh singkat                 |
+| ------------ | ------------- | ------------------------------ |
+| Perbandingan | Metafora      | Buku adalah jendela dunia      |
+| Perbandingan | Simile        | Kuat bagai baja                |
+| Perbandingan | Personifikasi | Angin berbisik                 |
+| Perbandingan | Hiperbola     | Menunggu seribu tahun          |
+| Pertentangan | Antitesis     | Tua muda                       |
+| Pertentangan | Paradoks      | Ramai tetapi kesepian          |
+| Sindiran     | Ironi         | Rajin sekali, datang terlambat |
+| Sindiran     | Sinisme       | Saya meragukan keseriusanmu    |
+| Sindiran     | Sarkasme      | Kamu tidak bertanggung jawab!  |
+| Penegasan    | Repetisi      | Belajar, belajar, belajar      |
+| Penegasan    | Klimaks       | Anak-anak hingga orang tua     |
+| Penegasan    | Antiklimaks   | Presiden hingga masyarakat     |
+
+### 14.4 Penggunaan Gaya Bahasa dalam Tulisan
+
+Tidak semua jenis tulisan harus menggunakan gaya bahasa yang sama.
+
+| Jenis tulisan | Penggunaan gaya bahasa                            |
+| ------------- | ------------------------------------------------- |
+| Karya ilmiah  | Mengutamakan bahasa objektif dan langsung         |
+| Cerpen        | Dapat menggunakan gaya bahasa kreatif             |
+| Puisi         | Banyak menggunakan gaya bahasa kiasan             |
+| Pidato        | Dapat menggunakan repetisi dan pertanyaan retoris |
+| Iklan         | Dapat menggunakan metafora dan hiperbola          |
+| Berita        | Mengutamakan kejelasan dan ketepatan informasi    |
+
+**Hal penting:** gaya bahasa tidak selalu membuat tulisan menjadi lebih baik. Penggunaan gaya bahasa harus sesuai dengan tujuan penulisan.
+
+## 15. Hubungan Antarkonsep dalam Materi Diksi
+
+Supaya materi ini lebih mudah dipahami, perhatikan hubungan antara konsep-konsep yang sudah dipelajari.
+
+**DIKSI (PILIHAN KATA)**
+
+Memilih kata untuk menyampaikan gagasan
+
+**Ketepatan**
+
+Apakah maknanya benar?
+
+**Kesesuaian**
+
+Apakah cocok dengan situasi?
+
+**Kecermatan**
+
+Apakah tidak berlebihan?
+
+**Kelaziman**
+
+Apakah umum digunakan?
+
+**KALIMAT YANG EFEKTIF**
+
+Jelas, tepat, mudah dipahami, dan sesuai konteks
+
+## 16. Latihan Soal
+
+Kerjakan latihan berikut untuk mengukur pemahaman materi Pertemuan 04–05.
+
+```quiz
+Q: Apa pengertian diksi yang paling tepat?
+- Susunan tanda baca dalam kalimat
++ Pilihan kata untuk menyampaikan gagasan
+- Aturan penggunaan huruf kapital
+- Cara menyusun paragraf
+> Diksi = pilihan kata untuk menyampaikan gagasan.
+
+Q: Dua syarat mendasar penggunaan kata adalah ...
+- Panjang dan pendek
+- Baku dan tidak baku
++ Ketepatan dan kesesuaian
+- Lisan dan tulisan
+> Dua syarat mendasar: ketepatan kata dan kesesuaian kata.
+
+Q: Kalimat yang paling sesuai untuk laporan akademik adalah ...
+- Aplikasi ini keren banget.
+- Aplikasi ini bagus parah.
++ Aplikasi ini mampu mengolah data secara otomatis.
+- Aplikasi ini gokil.
+> Laporan akademik menuntut bahasa formal dan objektif.
+
+Q: Kata 'kendaraan' dan 'sepeda motor' merupakan contoh ...
+- Sinonim
+- Antonim
++ Kata umum dan kata khusus
+- Denotatif dan konotatif
+> Kendaraan = kata umum, sepeda motor = kata khusus.
+
+Q: Manakah kata baku yang benar?
+- Resiko
+- Analisa
+- Aktifitas
++ Risiko
+> Kata baku: risiko (bukan resiko; analisa -> analisis; aktifitas -> aktivitas).
+
+Q: Kata 'karena' dalam kalimat umumnya termasuk ...
+- Interjeksi
++ Konjungsi
+- Artikula
+- Preposisi
+> Karena termasuk kata penghubung (konjungsi).
+
+Q: Penyerapan kata 'technology' menjadi 'teknologi' termasuk proses ...
+- Adopsi
++ Adaptasi
+- Penerjemahan
+- Kreasi
+> Technology -> teknologi = adaptasi, penyesuaian ejaan dengan kaidah bahasa Indonesia.
+
+Q: Kalimat 'Dia adalah tangan kanan direktur' menggunakan makna ...
+- Denotatif
++ Konotatif
+- Leksikal langsung
+- Literal
+> Tangan kanan direktur = makna kiasan (konotatif).
+
+Q: Gaya bahasa pada kalimat 'Angin berbisik di malam hari' adalah ...
+- Metafora
+- Hiperbola
++ Personifikasi
+- Ironi
+> Angin diberi sifat manusia (berbisik) = personifikasi.
+
+Q: Kalimat 'Para mahasiswa-mahasiswa mengikuti seminar' tidak cermat karena ...
+- Tidak memiliki predikat
++ Menggunakan kata berlebihan untuk menyatakan jamak
+- Tidak menggunakan kata baku
+- Mengandung makna konotatif
+> Kata jamak sudah ditandai 'para', ditambah imbuhan -an lagi = pemborosan kata.
+```
+
+## 17. Kesimpulan
+
+Diksi merupakan kemampuan memilih kata yang tepat dan sesuai untuk menyampaikan gagasan. Pemilihan kata perlu mempertimbangkan makna, konteks, sasaran pembaca, situasi komunikasi, nilai rasa, dan kebakuan bahasa.
+
+Dalam komunikasi akademik, diksi memiliki peran penting karena membantu menghasilkan tulisan yang objektif, jelas, konsisten, dan mudah dipahami.
+
+Hal utama yang perlu diingat:
+
+1. Diksi berarti pilihan kata.
+2. Penggunaan kata harus tepat dan sesuai.
+3. Komunikasi tulis membutuhkan perhatian lebih terhadap ejaan dan struktur.
+4. Kata umum memiliki cakupan luas, sedangkan kata khusus lebih spesifik.
+5. Kata serapan dapat berasal dari bahasa daerah maupun bahasa asing.
+6. Tulisan ilmiah mengutamakan kata baku, makna denotatif, konsistensi, dan kejelasan.
+7. Makna denotatif adalah makna sebenarnya, sedangkan konotatif adalah makna tambahan.
+8. Gaya bahasa digunakan sesuai tujuan komunikasi.
+
+**Koreksi kecil untuk bagian fungsi diksi:** pada bagian 4 sebelumnya aku merangkum fungsi menjadi enam poin. Dalam daftar yang ditemukan pada rujukan Widjono H.S. (2007), fungsi diksi dirinci menjadi **tujuh**, yaitu melambangkan gagasan, membentuk gaya ekspresi, menciptakan komunikasi yang baik dan benar, menciptakan suasana yang tepat, mencegah perbedaan penafsiran, mencegah salah pemahaman, dan mengefektifkan pencapaian target komunikasi.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://id.scribd.com\&sz=32)
+
+PDF+1
+
+## 18. Referensi Belajar
+
+1. Widjono H.S. (2007). *Bahasa Indonesia: Mata Kuliah Pengembangan Kepribadian di Perguruan Tinggi*. Gramedia.&#x20;
+
+   [image](https://www.google.com/s2/favicons?domain=https://id.scribd.com\&sz=32)
+
+   PDF+1
+
+2. Badan Pengembangan dan Pembinaan Bahasa. *EYD Edisi V — Penulisan Unsur Serapan*. [Baca EYD V](https://ejaan.kemendikdasmen.go.id/eyd/unsur-serapan/?utm_source=chatgpt.com).
+
+3. Badan Pengembangan dan Pembinaan Bahasa. *Seri Penyuluhan Bahasa Indonesia: Ejaan*. [Baca materi penyuluhan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan2.pdf?utm_source=chatgpt.com).
+
+4. Narabahasa. *Kata Tugas*. [Baca penjelasan kata tugas](https://narabahasa.id/artikel/linguistik-umum/sintaksis/kata-tugas/?utm_source=chatgpt.com).
+
+5. BINUS University. *Syarat-Syarat Pemilihan Kata (Diksi) yang Tepat*. [Baca materi diksi](https://binus.ac.id/malang/2021/12/syarat-syarat-pemilihan-kata-diksi-yang-tepat-dalam-bahasa-indonesia/?utm_source=chatgpt.com).
 
 ---
-
-## Recall Quiz
-
-```quiz
-Q: Makna kata "ramah" pada "ramah lingkungan" (bukan perilaku sopan) termasuk?
-+ Makna konotatif yang bergeser ke khusus / kata umum berubah jadi khusus
-- Makna denotatif murni
-- Kesalahan penulisan
-- Diftong terpisah
-> Denotatif = makna asli kamus (sopan), konotatif = makna tambahan/bersayap. Di "ramah lingkungan" maknanya bergeser ke khusus.
-```
-
-```quiz
-Q: Menurut Gorys Keraf, pilihan kata (diksi) adalah…
-+ Kesanggupan sebuah kata untuk menimbulkan gagasan-gagasan yang tepat pada imajinasi pembaca/pendengar
-- Kemampuan menulis kalimat panjang yang berbelit
-- Kecakapan memilih bahasa asing supaya terdengar keren
-- Kewajiban memakai semua kata baku tanpa pengecualian
-> Definisi ini persis dari slide P4-5. Intinya: kata yang tepat → gagasan yang tepat di kepala pembaca.
-```
-
-```quiz
-Q: "Rencana itu perlu cepat dilaksanakan" — kata cepat harus diganti…
-+ Segera
-- Laju
-- Kencang
-- Seketika
-> Di slide: kereta "cepat" tepat, pertumbuhan penduduk harus "laju", pelaksanaan rencana harus "segera". Sinonim ≠ bebas dipindah konteks.
-```
-
-```quiz
-Q: Kata "televisi" termasuk hasil proses serapan…
-+ Adaptasi (kaidah penulisannya diubah sesuai bahasa yang menyerap)
-- Adopsi (diserap persis tanpa perubahan)
-- Pungutan (penerjemahan langsung)
-- Pinjaman langsung tanpa proses
-> Adopsi mempertahankan bentuk asli (mall, plaza, burger); adaptasi menulis ulang sesuai ejaan Indonesia (televisi, organisasi, energi, jaket).
-```
-
-```quiz
-Q: Enam syarat utama diksi ilmiah — pasangan yang BENAR…
-+ Tepat, Baku, Jelas, Hemat, Objektif, Konsisten
-- Tepat, Baku, Jelas, Hemat, Subjektif, Konsisten
-- Tepat, Resmi, Jelas, Hemat, Objektif, Lengkap
-- Tepat, Baku, Terang, Hemat, Emosional, Konsisten
-> Objektif = tidak emosional/menghakimi. Subjektif dan emosional justru kebalikan syaratnya.
-```
-
-```quiz
-Q: "Analisa" yang baku ditulis…
-+ Analisis
-- Analisa
-- Analiza
-- Anelisis
-> Tabel baku di slide: analisa→analisis, resiko→risiko, praktek→praktik, aktifitas→aktivitas, mempengaruhi→memengaruhi.
-```
 
 ---
 
