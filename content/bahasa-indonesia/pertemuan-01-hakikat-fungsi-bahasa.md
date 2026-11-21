@@ -318,11 +318,7 @@ Penggunaan bahasa Indonesia tidak hanya berkaitan dengan komunikasi sehari-hari,
 
 Salah satu peraturan yang mengatur penggunaan bahasa Indonesia adalah **Peraturan Presiden (Perpres) Nomor 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia**.
 
-Peraturan ini ditetapkan dan diundangkan pada 30 September 2019. Tujuannya antara lain untuk mengatur penggunaan bahasa Indonesia dalam berbagai bidang kehidupan masyarakat dan negara.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://peraturan.bpk.go.id\&sz=32)
-
-JDIH BPK+1
+Peraturan ini ditetapkan dan diundangkan pada 30 September 2019. Tujuannya antara lain untuk mengatur penggunaan bahasa Indonesia dalam berbagai bidang kehidupan masyarakat dan negara.
 
 ### 6.1 Penggunaan Bahasa Indonesia dalam Kehidupan Resmi
 
@@ -500,11 +496,7 @@ Contoh: Surat kabar, majalah, siaran berita, dan media informasi elektronik.
 
 Dasar: Pasal 41
 
-Seluruh ketentuan tersebut memiliki aturan dan pengecualian masing-masing. Penggunaan bahasa daerah atau bahasa asing tetap dimungkinkan dalam kondisi tertentu sebagaimana diatur dalam Perpres tersebut.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://api-law.crpg.info\&sz=32)
-
-PENGGUNAAN BAHASA INDONESIA+2
+Seluruh ketentuan tersebut memiliki aturan dan pengecualian masing-masing. Penggunaan bahasa daerah atau bahasa asing tetap dimungkinkan dalam kondisi tertentu sebagaimana diatur dalam Perpres tersebut.
 
 ### 6.3 Mengapa Penggunaan Bahasa Indonesia Perlu Diatur?
 
@@ -623,7 +615,7 @@ Q: Bahasa Indonesia wajib digunakan dalam penulisan skripsi berdasarkan...
 1. Keraf, Gorys. *Komposisi*. Jakarta: Nusa Indah.
 2. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pasal 36.
 3. Ikrar Sumpah Pemuda, 28 Oktober 1928.
-4. Peraturan Presiden Republik Indonesia Nomor 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia. [Dokumen resmi JDIH BPK](https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019?utm_source=chatgpt.com).
+4. Peraturan Presiden Republik Indonesia Nomor 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia. [Dokumen resmi JDIH BPK](https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019).
 
 ---
 

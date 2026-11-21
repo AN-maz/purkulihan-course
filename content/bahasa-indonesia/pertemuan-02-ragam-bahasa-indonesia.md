@@ -759,11 +759,7 @@ Keseragaman ini membantu menjaga konsistensi komunikasi tertulis.
 | Kecendekiaan       | Mampu menyampaikan pemikiran kompleks secara logis dan tepat    |
 | Keseragaman kaidah | Memiliki pedoman yang konsisten                                 |
 
-**Catatan referensi:** Dalam sejumlah materi perkuliahan, kemantapan dinamis dan kecendekiaan dikaitkan langsung dengan pemikiran Moeliono. Keseragaman kaidah sering ditambahkan dalam pembahasan ciri bahasa baku secara lebih luas.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://bahasa-dev.kemendikdasmen.go.id\&sz=32)
-
-Kemendikdasmen+1
+**Catatan referensi:** Dalam sejumlah materi perkuliahan, kemantapan dinamis dan kecendekiaan dikaitkan langsung dengan pemikiran Moeliono. Keseragaman kaidah sering ditambahkan dalam pembahasan ciri bahasa baku secara lebih luas.
 
 ## 10. Fungsi Bahasa Baku
 
@@ -1051,17 +1047,13 @@ Q: Apa arti bahasa Indonesia yang baik dan benar?
 
 1. Joos, Martin. (1967). *The Five Clocks: A Linguistic Excursion into the Five Styles of English Usage*. Harcourt, Brace & World.
 
-2. Moeliono, Anton M. (1988). *Tata Bahasa Baku Bahasa Indonesia*. Departemen Pendidikan dan Kebudayaan.&#x20;
-
-   [image](https://www.google.com/s2/favicons?domain=https://bskdnlib.kemendagri.go.id\&sz=32)
-
-   bskdnlib.kemendagri.go.id+1
+2. Moeliono, Anton M. (1988). *Tata Bahasa Baku Bahasa Indonesia*. Departemen Pendidikan dan Kebudayaan.
 
 3. Keraf, Gorys. (1979). *Komposisi*. Nusa Indah. (Rujukan bentuk dan makna sesuai kerangka materi kuliah).
 
-4. Badan Pengembangan dan Pembinaan Bahasa. *Tata Bahasa Baku Bahasa Indonesia*. [Katalog Perpustakaan Badan Bahasa](https://perpustakaanbadanbahasa.kemendikdasmen.go.id/index.php?id=27607\&keywords\&p=show_detail\&utm_source=chatgpt.com).
+4. Badan Pengembangan dan Pembinaan Bahasa. *Tata Bahasa Baku Bahasa Indonesia*. [Katalog Perpustakaan Badan Bahasa](https://perpustakaanbadanbahasa.kemendikdasmen.go.id/index.php?id=27607&keywords&p=show_detail).
 
-5. Badan Pengembangan dan Pembinaan Bahasa. [Polemik Bahasa Indonesia: Kebutuhan Akademik dalam Komunikasi Sehari-Hari](https://bahasa-dev.kemendikdasmen.go.id/artikel-detail/3837/polemik-bahasa-indonesia%3A-kebutuhan-akademik-dalam-komunikasi-sehari-hari?utm_source=chatgpt.com).
+5. Badan Pengembangan dan Pembinaan Bahasa. [Polemik Bahasa Indonesia: Kebutuhan Akademik dalam Komunikasi Sehari-Hari](https://bahasa-dev.kemendikdasmen.go.id/artikel-detail/3837/polemik-bahasa-indonesia%3A-kebutuhan-akademik-dalam-komunikasi-sehari-hari).
 
 ---
 

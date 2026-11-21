@@ -26,11 +26,7 @@ Pedoman EYD mengatur beberapa aspek utama:
 3. **Penggunaan tanda baca:** mengatur tanda titik, koma, tanda tanya, dan tanda lainnya.
 4. **Penulisan unsur serapan:** mengatur penyesuaian kata yang berasal dari bahasa asing atau bahasa daerah.
 
-Materi ini berfokus pada tiga bagian pertama sesuai daftar materi pertemuan.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://ejaan.kemendikdasmen.go.id\&sz=32)
-
-Ejaan Kemdikdasmen+1
+Materi ini berfokus pada tiga bagian pertama sesuai daftar materi pertemuan.
 
 ## 2. Penulisan Huruf
 
@@ -946,9 +942,9 @@ Q: Manakah penulisan bentuk terikat yang benar?
 
 Sumber utama untuk mempelajari aturan ejaan secara lebih mendalam:
 
-1. **EYD Edisi V — Badan Pengembangan dan Pembinaan Bahasa.** Pedoman resmi penggunaan ejaan bahasa Indonesia. [Buka situs resmi EYD V](https://ejaan.kemendikdasmen.go.id/eyd/kata-dasar/eyd/eyd/?utm_source=chatgpt.com).
-2. **Seri Penyuluhan Bahasa Indonesia: Ejaan.** Materi penjelasan dan penerapan kaidah ejaan. [Baca materi ejaan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan1.pdf?utm_source=chatgpt.com).
-3. **Keputusan Kepala Badan Pengembangan dan Pembinaan Bahasa Nomor 0424/I/BS.00.01/2022.** Dasar penetapan EYD Edisi V. [Lihat informasi keputusan](https://en.wikipedia.org/wiki/Indonesian_orthography?utm_source=chatgpt.com).
+1. **EYD Edisi V — Badan Pengembangan dan Pembinaan Bahasa.** Pedoman resmi penggunaan ejaan bahasa Indonesia. [Buka situs resmi EYD V](https://ejaan.kemendikdasmen.go.id/eyd/kata-dasar/eyd/eyd/).
+2. **Seri Penyuluhan Bahasa Indonesia: Ejaan.** Materi penjelasan dan penerapan kaidah ejaan. [Baca materi ejaan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan1.pdf).
+3. **Keputusan Kepala Badan Pengembangan dan Pembinaan Bahasa Nomor 0424/I/BS.00.01/2022.** Dasar penetapan EYD Edisi V. [Lihat informasi keputusan](https://en.wikipedia.org/wiki/Indonesian_orthography).
 
 ---
 

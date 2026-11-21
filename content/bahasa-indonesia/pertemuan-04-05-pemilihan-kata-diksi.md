@@ -317,11 +317,7 @@ Kata *bro* cocok dalam percakapan santai, tetapi tidak sesuai untuk laporan akad
 3. **Kelaziman** — umum dan mudah dipahami.
 4. **Keserasian** — cocok dengan konteks komunikasi.
 
-Catatan: pembagian syarat diksi dapat berbeda menurut buku atau materi kuliah. Beberapa rujukan juga menggunakan istilah *kebenaran* sebagai syarat tersendiri. Jadi, empat istilah di atas merupakan kerangka belajar yang perlu disesuaikan dengan slide dosen apabila ada daftar khusus.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://binus.ac.id\&sz=32)
-
-Pilihan Universitas Terbaik di Malang+2
+Catatan: pembagian syarat diksi dapat berbeda menurut buku atau materi kuliah. Beberapa rujukan juga menggunakan istilah *kebenaran* sebagai syarat tersendiri. Jadi, empat istilah di atas merupakan kerangka belajar yang perlu disesuaikan dengan slide dosen apabila ada daftar khusus.
 
 ## 7. Enam Syarat Utama Diksi Ilmiah
 
@@ -694,11 +690,7 @@ Contoh kalimat:
 | Artikula         | Mendampingi kata benda     | sang, si, para      |
 | Partikel penegas | Memberikan penekanan       | -lah, -kah, pun     |
 
-Pembagian ini mengikuti pengelompokan umum kata tugas dalam tata bahasa Indonesia.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://narabahasa.id\&sz=32)
-
-Narabahasa+1
+Pembagian ini mengikuti pengelompokan umum kata tugas dalam tata bahasa Indonesia.
 
 ## 11. Kata Serapan
 
@@ -847,11 +839,7 @@ Perbedaan penerjemahan dan kreasi terkadang tidak terlalu tegas dalam praktik. K
 | Penerjemahan | Menggunakan padanan langsung         | Software → perangkat lunak |
 | Kreasi       | Membentuk istilah berdasarkan konsep | Spare parts → suku cadang  |
 
-Penjelasan mengenai unsur serapan dan penyesuaian bentuk dapat dilihat dalam EYD V.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://ejaan.kemendikdasmen.go.id\&sz=32)
-
-EYD V+2
+Penjelasan mengenai unsur serapan dan penyesuaian bentuk dapat dilihat dalam EYD V.
 
 ## 12. Ilustrasi Pemilihan Kata dari Slide (Contoh Visual)
 
@@ -1313,27 +1301,19 @@ Hal utama yang perlu diingat:
 7. Makna denotatif adalah makna sebenarnya, sedangkan konotatif adalah makna tambahan.
 8. Gaya bahasa digunakan sesuai tujuan komunikasi.
 
-**Koreksi kecil untuk bagian fungsi diksi:** pada bagian 4 sebelumnya aku merangkum fungsi menjadi enam poin. Dalam daftar yang ditemukan pada rujukan Widjono H.S. (2007), fungsi diksi dirinci menjadi **tujuh**, yaitu melambangkan gagasan, membentuk gaya ekspresi, menciptakan komunikasi yang baik dan benar, menciptakan suasana yang tepat, mencegah perbedaan penafsiran, mencegah salah pemahaman, dan mengefektifkan pencapaian target komunikasi.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://id.scribd.com\&sz=32)
-
-PDF+1
+**Koreksi kecil untuk bagian fungsi diksi:** pada bagian 4 sebelumnya aku merangkum fungsi menjadi enam poin. Dalam daftar yang ditemukan pada rujukan Widjono H.S. (2007), fungsi diksi dirinci menjadi **tujuh**, yaitu melambangkan gagasan, membentuk gaya ekspresi, menciptakan komunikasi yang baik dan benar, menciptakan suasana yang tepat, mencegah perbedaan penafsiran, mencegah salah pemahaman, dan mengefektifkan pencapaian target komunikasi.
 
 ## 18. Referensi Belajar
 
-1. Widjono H.S. (2007). *Bahasa Indonesia: Mata Kuliah Pengembangan Kepribadian di Perguruan Tinggi*. Gramedia.&#x20;
+1. Widjono H.S. (2007). *Bahasa Indonesia: Mata Kuliah Pengembangan Kepribadian di Perguruan Tinggi*. Gramedia.
 
-   [image](https://www.google.com/s2/favicons?domain=https://id.scribd.com\&sz=32)
+2. Badan Pengembangan dan Pembinaan Bahasa. *EYD Edisi V — Penulisan Unsur Serapan*. [Baca EYD V](https://ejaan.kemendikdasmen.go.id/eyd/unsur-serapan/).
 
-   PDF+1
+3. Badan Pengembangan dan Pembinaan Bahasa. *Seri Penyuluhan Bahasa Indonesia: Ejaan*. [Baca materi penyuluhan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan2.pdf).
 
-2. Badan Pengembangan dan Pembinaan Bahasa. *EYD Edisi V — Penulisan Unsur Serapan*. [Baca EYD V](https://ejaan.kemendikdasmen.go.id/eyd/unsur-serapan/?utm_source=chatgpt.com).
+4. Narabahasa. *Kata Tugas*. [Baca penjelasan kata tugas](https://narabahasa.id/artikel/linguistik-umum/sintaksis/kata-tugas/).
 
-3. Badan Pengembangan dan Pembinaan Bahasa. *Seri Penyuluhan Bahasa Indonesia: Ejaan*. [Baca materi penyuluhan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan2.pdf?utm_source=chatgpt.com).
-
-4. Narabahasa. *Kata Tugas*. [Baca penjelasan kata tugas](https://narabahasa.id/artikel/linguistik-umum/sintaksis/kata-tugas/?utm_source=chatgpt.com).
-
-5. BINUS University. *Syarat-Syarat Pemilihan Kata (Diksi) yang Tepat*. [Baca materi diksi](https://binus.ac.id/malang/2021/12/syarat-syarat-pemilihan-kata-diksi-yang-tepat-dalam-bahasa-indonesia/?utm_source=chatgpt.com).
+5. BINUS University. *Syarat-Syarat Pemilihan Kata (Diksi) yang Tepat*. [Baca materi diksi](https://binus.ac.id/malang/2021/12/syarat-syarat-pemilihan-kata-diksi-yang-tepat-dalam-bahasa-indonesia/).
 
 ---
 

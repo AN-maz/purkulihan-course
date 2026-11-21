@@ -129,11 +129,7 @@ Contoh penerapan dalam perkuliahan:
 
 Kalimat efektif dapat dikenali melalui beberapa ciri. Dalam berbagai buku bahasa Indonesia, jumlah dan istilah ciri kalimat efektif bisa berbeda karena setiap ahli menggunakan pengelompokan masing-masing.
 
-Untuk bagian empat ciri, kita gunakan kerangka yang umum diajarkan, yaitu **kesatuan, kehematan, penekanan, dan kevariasian**. Kerangka ini juga dikenal dalam pembahasan Putrayasa.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://pustaka.stikessaptabakti.ac.id\&sz=32)
-
-pustaka.stikessaptabakti.ac.id+1
+Untuk bagian empat ciri, kita gunakan kerangka yang umum diajarkan, yaitu **kesatuan, kehematan, penekanan, dan kevariasian**. Kerangka ini juga dikenal dalam pembahasan Putrayasa.
 
 ### 3.1 Kesatuan
 
@@ -381,11 +377,7 @@ Menurut Arifin dan Tasai (2008:97), kalimat efektif memiliki tujuh ciri utama, y
 4. Kehematan kata.
 5. Kecermatan penalaran.
 6. Kepaduan gagasan.
-7. Kelogisan bahasa.&#x20;
-
-   [image](https://www.google.com/s2/favicons?domain=https://digilib.unila.ac.id\&sz=32)
-
-   Digilib Unila+2
+7. Kelogisan bahasa.
 
 Tujuh prinsip ini penting dipahami karena menjadi dasar untuk mengevaluasi dan memperbaiki kalimat dalam tulisan akademik.
 
@@ -812,21 +804,13 @@ Ada empat ciri yang dibahas dalam kerangka materi ini, yaitu kesatuan, kehematan
 
 ## 9. Referensi Belajar
 
-1. Arifin, E. Zaenal dan S. Amran Tasai. (2008). *Cermat Berbahasa Indonesia untuk Perguruan Tinggi*. Rujukan prinsip kalimat efektif halaman 97.&#x20;
+1. Arifin, E. Zaenal dan S. Amran Tasai. (2008). *Cermat Berbahasa Indonesia untuk Perguruan Tinggi*. Rujukan prinsip kalimat efektif halaman 97.
 
-   [image](https://www.google.com/s2/favicons?domain=https://digilib.unila.ac.id\&sz=32)
+2. Putrayasa, Ida Bagus. (2007). *Kalimat Efektif: Diksi, Struktur, dan Logika*.
 
-   Digilib Unila+1
+3. Universitas Lampung. Materi akademik mengenai ciri dan prinsip kalimat efektif. [Baca materi pendukung](https://digilib.unila.ac.id/7057/14/BAB%20II.pdf).
 
-2. Putrayasa, Ida Bagus. (2007). *Kalimat Efektif: Diksi, Struktur, dan Logika*.&#x20;
-
-   [image](https://www.google.com/s2/favicons?domain=https://pustaka.stikessaptabakti.ac.id\&sz=32)
-
-   pustaka.stikessaptabakti.ac.id
-
-3. Universitas Lampung. Materi akademik mengenai ciri dan prinsip kalimat efektif. [Baca materi pendukung](https://digilib.unila.ac.id/7057/14/BAB%20II.pdf?utm_source=chatgpt.com).
-
-4. Universitas Negeri Padang. Kajian keefektifan kalimat dan prinsip Arifin dan Tasai. [Baca kajian akademik](https://ejournal.unp.ac.id/index.php/pbs/article/download/8660/6663?utm_source=chatgpt.com).
+4. Universitas Negeri Padang. Kajian keefektifan kalimat dan prinsip Arifin dan Tasai. [Baca kajian akademik](https://ejournal.unp.ac.id/index.php/pbs/article/download/8660/6663).
 
 ---
 
