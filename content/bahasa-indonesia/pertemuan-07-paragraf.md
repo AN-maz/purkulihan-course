@@ -680,8 +680,3 @@ Beberapa referensi yang dapat digunakan untuk memperdalam materi:
 4. Rujukan pembelajaran Bahasa Indonesia perguruan tinggi mengenai paragraf, kohesi, koherensi, dan penalaran.
 
 ---
-
-## Sources
-[1] https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Paragraf.pdf
-[2] https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Bentuk_dan_Pilihan_Kata1.pdf
-[3] https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019

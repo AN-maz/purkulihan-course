@@ -815,8 +815,3 @@ Ada empat ciri yang dibahas dalam kerangka materi ini, yaitu kesatuan, kehematan
 ---
 
 ---
-
-## Sources
-[1] https://dosen.upi-yai.ac.id/v5/dokumen/materi/200001/26_20240425150053_materi%206.pdf
-[2] https://api-elearning.pnb.ac.id/upload/post/POST-1762223318-2adce13be7.pdf
-[3] https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Paragraf.pdf

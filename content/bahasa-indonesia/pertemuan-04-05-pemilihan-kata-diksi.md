@@ -1318,9 +1318,3 @@ Hal utama yang perlu diingat:
 ---
 
 ---
-
-## Sources
-[1] https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Paragraf.pdf
-[2] https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Bentuk_dan_Pilihan_Kata1.pdf
-[3] https://api-elearning.pnb.ac.id/upload/post/POST-1762223318-2adce13be7.pdf
-[4] https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019

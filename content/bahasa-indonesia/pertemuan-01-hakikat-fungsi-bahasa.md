@@ -620,14 +620,3 @@ Q: Bahasa Indonesia wajib digunakan dalam penulisan skripsi berdasarkan...
 ---
 
 ---
-
-## Sources
-
-Konten utama catatan ini (definisi, ciri sistem bahasa, fungsi, kedudukan,
-daftar Perpres) adalah materi slide P3 dosen — tanpa sitasi eksternal.
-Rujukan pendukung yang sudah aku validasi:
-
-- [1] Perpres No. 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia — https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019 (halaman JDIH BPK, status: berlaku, ditetapkan 30 September 2019)
-- [2] Salinan Permendikbud No. 50 Tahun 2015 (PUEBI) — https://badanbahasa.kemendikdasmen.go.id/berita-detail/1847/salinan-peraturan-menteri-pendidikan-dan-kebudayaan-nomor-50-tahun-2015
-- [3] Buku Seri Penyuluhan Bahasa Indonesia: Paragraf — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Paragraf.pdf
-- [4] Buku Seri Penyuluhan Bahasa Indonesia: Bentuk dan Pilihan Kata — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Bentuk_dan_Pilihan_Kata1.pdf

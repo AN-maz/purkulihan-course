@@ -1064,14 +1064,3 @@ Oke, berarti yang kamu maksud adalah **materi Pertemuan 03: Pedoman Umum EYD / E
 Materinya akan dibuat seperti catatan belajar sebelumnya: bahasa sederhana, penjelasan setiap aturan, contoh benar dan salah, tabel perbandingan jika diperlukan, rangkuman, serta latihan soal. Aku juga akan mengacu pada pedoman **EYD Edisi V** sebagai acuan ejaan yang berlaku.
 
 ---
-
-## Sources
-
-Konten utama (definisi, pembagian ragam, Joos, Chaer, Moeliono, fungsi
-bahasa baku) berasal dari materi PDF dosen — tanpa sitasi eksternal.
-Rujukan pendukung yang sudah aku validasi:
-
-- [1] Buku Seri Penyuluhan Bahasa Indonesia: Bentuk dan Pilihan Kata — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Bentuk_dan_Pilihan_Kata1.pdf
-- [2] Buku Seri Penyuluhan Bahasa Indonesia: Paragraf — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Paragraf.pdf
-- [3] Salinan Permendikbud No. 50 Tahun 2015 (PUEBI) — https://badanbahasa.kemendikdasmen.go.id/berita-detail/1847/salinan-peraturan-menteri-pendidikan-dan-kebudayaan-nomor-50-tahun-2015
-- [4] Katalog Buku Seri Penyuluhan (Badan Bahasa) — https://badanbahasa.kemendikdasmen.go.id/produk-detail/740/buku-seri-penyuluhan

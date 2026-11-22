@@ -949,15 +949,3 @@ Sumber utama untuk mempelajari aturan ejaan secara lebih mendalam:
 ---
 
 ---
-
-## Sources
-
-Konten utama (semua pedoman penulisan huruf, kata, singkatan, angka, tanda
-baca) berasal dari slide P3 dosen — tanpa sitasi eksternal. Rujukan
-pendukung yang sudah aku validasi:
-
-- [1] Buku Seri Penyuluhan Bahasa Indonesia: Ejaan (2025) — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan2.pdf
-- [2] Buku Seri Penyuluhan Bahasa Indonesia: Ejaan (edisi revisi 2019) — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Ejaan.pdf
-- [3] Salinan Permendikbud No. 50 Tahun 2015 (PUEBI) — https://badanbahasa.kemendikdasmen.go.id/berita-detail/1847/salinan-peraturan-menteri-pendidikan-dan-kebudayaan-nomor-50-tahun-2015
-- [4] Buku Seri Penyuluhan Bahasa Indonesia: Bentuk dan Pilihan Kata — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Bentuk_dan_Pilihan_Kata1.pdf
-- [5] Perpres No. 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia — https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019
