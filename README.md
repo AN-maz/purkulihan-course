@@ -66,6 +66,19 @@ Format quiz (markdown valid, tetap kebaca kalau dibuka di editor lain):
 Dapat juga: heading auto-jadi TOC, `> [!NOTE]` / `> [!TIP]` / `> [!WARN]`
 jadi alert gaya GitHub, tabel, kode, GFM.
 
+### Materi vs sumber quiz
+
+Tab **Materi** (di halaman matkul + sidebar) cuma nampilin halaman yang
+slug-nya `pertemuan-*` / `transkrip-pertemuan-*`. File lain (`recall-*`,
+`strategi-*`, dst) tetap di-build & bisa dibuka via URL, tapi gak masuk daftar
+Materi — quiz-nya justru diambil masuk pool **Kuiz**. Klasifikasinya ada di
+`build.py` (`MATERI_RE`), jadi otomatis buat matkul baru.
+
+Tab **Kuiz** nggabungin semua blok `` ```quiz `` dari semua halaman satu
+matkul jadi satu: **semua soal tampil sekaligus**, urutan soal + posisi opsi
+diacak tiap halaman dibuka (dan diacak lagi tiap pencet *Ulangi*). `manifest.json`
+nyimpen `kind` per halaman + `quizCount` per matkul.
+
 ## Jalan lokal
 
 ```bash

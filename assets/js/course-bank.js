@@ -29,6 +29,16 @@ const Store = {
   },
 };
 
+/* ============ page kinds ============ */
+// manifest memisahkan halaman jadi 2 jenis:
+//   kind "materi" -> pertemuan-*/transkrip-pertemuan-* : tampil di tab Materi + sidebar
+//   kind "kuiz"   -> recall-*, strategi-*, dst : sumber quiz. Halamannya tetap
+//                    dibangun (bisa dibuka via URL) & quiz-nya tetap ikut pool
+//                    Kuiz, tapi gak ikut daftar Materi biar gak tercampur.
+function materiPages(c) {
+  return c.pages.filter((p) => p.kind !== "kuiz");
+}
+
 /* ============ markdown pipeline ============ */
 function extractQuizzes(md) {
   const quizzes = [];
@@ -124,7 +134,9 @@ class MkQuiz extends HTMLElement {
       btn.addEventListener("click", () => this.answer(+btn.dataset.q, +btn.dataset.o))
     );
     this.querySelector("[data-reset]").addEventListener("click", () => {
-      this.state = this.state.map(() => null);
+      // acak ulang tiap diulang — biar gak ada pola urutan yang bisa dihafal
+      if (this.shuffled) this.questions = shuffleArr(this.questions).map(shuffleOptions);
+      this.state = this.questions.map(() => null);
       this.render();
       this.persist();
     });
@@ -232,7 +244,8 @@ class MkApp extends HTMLElement {
 
   /* ---------- halaman matkul: menu tab Materi / Kuiz ---------- */
   renderCourseIndex(c) {
-    const total = c.pages.length;
+    const materi = materiPages(c);
+    const total = materi.length;
     const done = Store.courseDone(c.slug);
     this.innerHTML = `
       <div class="cb-topbar">
@@ -248,12 +261,12 @@ class MkApp extends HTMLElement {
             ${c.dosen ? `<div class="cb-meta">${escapeHtml(c.dosen)}</div>` : ""}
             <nav class="cb-tabs" role="tablist">
               <button class="cb-tab active" data-tab="materi" type="button">Materi <span>${total}</span></button>
-              <button class="cb-tab" data-tab="kuiz" type="button">Kuiz</button>
+              <button class="cb-tab" data-tab="kuiz" type="button">Kuiz <span>${c.quizCount ?? ""}</span></button>
             </nav>
           </header>
           <div class="cb-tabpane" data-pane="materi">
             <div class="cb-grid">
-              ${c.pages.map((p, i) => {
+              ${materi.map((p, i) => {
                 const st = Store.get(c.slug, p.slug);
                 return `<a class="cb-card cb-card--page ${st?.passed ? "passed" : ""}" href="${p.slug}.html">
                   <span class="cb-page-no">${i + 1}</span>
@@ -298,23 +311,32 @@ class MkApp extends HTMLElement {
     const all = bodies.join("\n").trim();
     if (!all) { pane.innerHTML += "<p>Belum ada quiz di materi matkul ini.</p>"; return; }
     const pool = (all.match(/^Q: /gm) || []).length;
-    pane.innerHTML += `<p class="cb-quiz-intro">${Math.min(20, pool)} soal acak dari total ${pool} recall — diacak ulang tiap halaman dibuka.</p>`;
+    pane.innerHTML += `<p class="cb-quiz-intro">${pool} soal dari semua pertemuan digabung jadi satu — urutan soal & posisi opsi diacak tiap kali halaman dibuka.</p>`;
     const q = document.createElement("mk-quiz");
     q.dataset.body = all;
-    q.dataset.shuffle = "1";   // acak urutan soal + posisi opsi
-    q.dataset.limit = "20";    // ambil 20 dari pool
+    q.dataset.shuffle = "1";   // acak urutan soal + posisi opsi (semua soal, tanpa limit)
     pane.appendChild(q);
   }
 
   /* ---------- sidebar (dipakai halaman matkul + halaman materi) ---------- */
   sidebarHtml(c, currentSlug) {
+    // daftar sidebar = halaman materi aja, biar konsisten sama tab Materi.
+    // pengecualian: halaman non-materi (kind "kuiz") yang sedang dibuka tetap
+    // ikut nongol biar item active-nya keliatan & bisa navigasi.
+    const list = materiPages(c);
+    const current = c.pages.find((p) => p.slug === currentSlug);
+    const pages = current && current.kind === "kuiz" ? [current, ...list] : list;
+    let n = 0;   // penghitung nomor khusus halaman materi
     return `
       <nav class="cb-sidebar">
         <a class="cb-side-label cb-side-home" href="index.html">← ${escapeHtml(c.name)}</a>
-        ${c.pages.map((p, i) => {
+        ${pages.map((p) => {
           const done = Store.get(c.slug, p.slug)?.passed;
+          // penomoran cuma buat halaman materi — halaman non-materi yang lagi
+          // dibuka ditandai tanpa nomor biar urutan Materi tetap 1..n
+          const no = p.kind === "kuiz" ? "" : `<span class="cb-side-no">${++n}.</span>`;
           return `<a class="cb-side-item ${p.slug === currentSlug ? "active" : ""} ${done ? "done" : ""}"
-            href="${p.slug}.html"><span class="cb-dot"></span><span class="cb-side-no">${i + 1}.</span> ${escapeHtml(p.title)}</a>`;
+            href="${p.slug}.html"><span class="cb-dot"></span>${no} ${escapeHtml(p.title)}</a>`;
         }).join("")}
         <div class="cb-side-label">matkul lain</div>
         ${this.manifest.courses.filter((x) => x.slug !== c.slug)
@@ -326,8 +348,14 @@ class MkApp extends HTMLElement {
     const c = this.course();
     if (!c) { this.innerHTML = `<p style="padding:2rem">Matkul ${MK} gak ada di manifest.</p>`; return; }
 
-    const idx = Math.max(0, c.pages.findIndex((p) => p.slug === PAGE));
-    const page = c.pages[idx];
+    const page = c.pages.find((p) => p.slug === PAGE) ?? c.pages[0];
+
+    // pager cuma muter di halaman materi — halaman non-materi (sumber quiz)
+    // gak ikut arus biar "sebelumnya/berikutnya" gak nyasar ke halaman kuiz.
+    const list = materiPages(c);
+    const pos = list.findIndex((p) => p.slug === PAGE);
+    const prev = pos > 0 ? list[pos - 1] : null;
+    const next = pos >= 0 && pos < list.length - 1 ? list[pos + 1] : null;
     const md = await fetch(`${BASE}content/${c.slug}/${page.slug}.md`)
       .then((r) => r.text())
       .catch(() => `# Gagal load\nFile \`content/${c.slug}/${page.slug}.md\` gak ketemu.`);
@@ -349,8 +377,8 @@ class MkApp extends HTMLElement {
             <aside class="cb-toc"><div class="cb-toc-title">di halaman ini</div><div class="cb-toc-list"></div></aside>
           </div>
           <div class="cb-pager">
-            ${idx > 0 ? `<a href="${c.pages[idx - 1].slug}.html">← ${escapeHtml(c.pages[idx - 1].title)}</a>` : "<span></span>"}
-            ${idx < c.pages.length - 1 ? `<a href="${c.pages[idx + 1].slug}.html">${escapeHtml(c.pages[idx + 1].title)} →</a>` : "<span></span>"}
+            ${prev ? `<a href="${prev.slug}.html">← ${escapeHtml(prev.title)}</a>` : "<span></span>"}
+            ${next ? `<a href="${next.slug}.html">${escapeHtml(next.title)} →</a>` : "<span></span>"}
           </div>
         </main>
       </div>`;
