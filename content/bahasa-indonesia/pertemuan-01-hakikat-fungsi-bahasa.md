@@ -616,7 +616,3 @@ Q: Bahasa Indonesia wajib digunakan dalam penulisan skripsi berdasarkan...
 2. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pasal 36.
 3. Ikrar Sumpah Pemuda, 28 Oktober 1928.
 4. Peraturan Presiden Republik Indonesia Nomor 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia. [Dokumen resmi JDIH BPK](https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019).
-
----
-
----

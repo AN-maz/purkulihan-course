@@ -1062,5 +1062,3 @@ Oke, berarti yang kamu maksud adalah **materi Pertemuan 03: Pedoman Umum EYD / E
 `catatan/pertemuan-03-pedoman-eyd-ejaan.md`
 
 Materinya akan dibuat seperti catatan belajar sebelumnya: bahasa sederhana, penjelasan setiap aturan, contoh benar dan salah, tabel perbandingan jika diperlukan, rangkuman, serta latihan soal. Aku juga akan mengacu pada pedoman **EYD Edisi V** sebagai acuan ejaan yang berlaku.
-
----

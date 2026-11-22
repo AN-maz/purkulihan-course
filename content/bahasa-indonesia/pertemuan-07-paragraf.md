@@ -678,5 +678,3 @@ Beberapa referensi yang dapat digunakan untuk memperdalam materi:
 2. Arifin, E. Zaenal dan S. Amran Tasai. *Cermat Berbahasa Indonesia untuk Perguruan Tinggi*. Untuk keterampilan berbahasa Indonesia.
 3. Akhadiah, Sabarti, dkk. *Pembinaan Kemampuan Menulis Bahasa Indonesia*. Untuk memahami proses dan teknik menulis.
 4. Rujukan pembelajaran Bahasa Indonesia perguruan tinggi mengenai paragraf, kohesi, koherensi, dan penalaran.
-
----

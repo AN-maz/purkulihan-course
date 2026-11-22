@@ -1314,7 +1314,3 @@ Hal utama yang perlu diingat:
 4. Narabahasa. *Kata Tugas*. [Baca penjelasan kata tugas](https://narabahasa.id/artikel/linguistik-umum/sintaksis/kata-tugas/).
 
 5. BINUS University. *Syarat-Syarat Pemilihan Kata (Diksi) yang Tepat*. [Baca materi diksi](https://binus.ac.id/malang/2021/12/syarat-syarat-pemilihan-kata-diksi-yang-tepat-dalam-bahasa-indonesia/).
-
----
-
----

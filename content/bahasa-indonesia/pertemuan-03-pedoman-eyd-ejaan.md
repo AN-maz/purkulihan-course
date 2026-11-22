@@ -945,7 +945,3 @@ Sumber utama untuk mempelajari aturan ejaan secara lebih mendalam:
 1. **EYD Edisi V — Badan Pengembangan dan Pembinaan Bahasa.** Pedoman resmi penggunaan ejaan bahasa Indonesia. [Buka situs resmi EYD V](https://ejaan.kemendikdasmen.go.id/eyd/kata-dasar/eyd/eyd/).
 2. **Seri Penyuluhan Bahasa Indonesia: Ejaan.** Materi penjelasan dan penerapan kaidah ejaan. [Baca materi ejaan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan1.pdf).
 3. **Keputusan Kepala Badan Pengembangan dan Pembinaan Bahasa Nomor 0424/I/BS.00.01/2022.** Dasar penetapan EYD Edisi V. [Lihat informasi keputusan](https://en.wikipedia.org/wiki/Indonesian_orthography).
-
----
-
----

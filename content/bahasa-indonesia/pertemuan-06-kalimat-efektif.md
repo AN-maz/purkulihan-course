@@ -811,7 +811,3 @@ Ada empat ciri yang dibahas dalam kerangka materi ini, yaitu kesatuan, kehematan
 3. Universitas Lampung. Materi akademik mengenai ciri dan prinsip kalimat efektif. [Baca materi pendukung](https://digilib.unila.ac.id/7057/14/BAB%20II.pdf).
 
 4. Universitas Negeri Padang. Kajian keefektifan kalimat dan prinsip Arifin dan Tasai. [Baca kajian akademik](https://ejournal.unp.ac.id/index.php/pbs/article/download/8660/6663).
-
----
-
----
