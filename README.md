@@ -75,9 +75,17 @@ Materi — quiz-nya justru diambil masuk pool **Kuiz**. Klasifikasinya ada di
 `build.py` (`MATERI_RE`), jadi otomatis buat matkul baru.
 
 Tab **Kuiz** nggabungin semua blok `` ```quiz `` dari semua halaman satu
-matkul jadi satu: **semua soal tampil sekaligus**, urutan soal + posisi opsi
-diacak tiap halaman dibuka (dan diacak lagi tiap pencet *Ulangi*). `manifest.json`
-nyimpen `kind` per halaman + `quizCount` per matkul.
+matkul jadi satu, tampil dalam **mode feed: 1 soal per layar** — scroll-snap
+kayak reels (scroll / panah ↑ ↓), atau klik opsi lalu **"Soal berikutnya →"**.
+Klik opsi langsung nunjukin bener/salah + penjelasan, skor jalan di bar atas,
+dan ditutup slide hasil akhir. Urutan soal + posisi opsi diacak tiap halaman
+dibuka (dan diacak lagi tiap klik *Ulangi*). `manifest.json` nyimpen `kind`
+per halaman + `quizCount` per matkul. Quiz yang nempel di halaman materi
+tetap gaya daftar biasa — feed cuma dipakai tab Kuiz.
+
+Feed-nya diaktifin lewat atribut `data-feed` di `<mk-quiz>` (lihat
+`loadKuiz()` di `assets/js/course-bank.js`), CSS-nya di blok
+"quiz feed" di `assets/css/course-bank.css`.
 
 ## Jalan lokal
 
