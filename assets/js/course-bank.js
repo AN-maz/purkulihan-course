@@ -29,6 +29,16 @@ const Store = {
   },
 };
 
+/* ============ page kinds ============ */
+// manifest memisahkan halaman jadi 2 jenis:
+//   kind "materi" -> pertemuan-*/transkrip-pertemuan-* : tampil di tab Materi + sidebar
+//   kind "kuiz"   -> recall-*, strategi-*, dst : sumber quiz. Halamannya tetap
+//                    dibangun (bisa dibuka via URL) & quiz-nya tetap ikut pool
+//                    Kuiz, tapi gak ikut daftar Materi biar gak tercampur.
+function materiPages(c) {
+  return c.pages.filter((p) => p.kind !== "kuiz");
+}
+
 /* ============ markdown pipeline ============ */
 function extractQuizzes(md) {
   const quizzes = [];
@@ -102,20 +112,38 @@ class MkQuiz extends HTMLElement {
     if (this.dataset.shuffle !== undefined) {
       this.questions = shuffleArr(this.questions);                 // acak urutan soal
       const limit = parseInt(this.dataset.limit, 10);
-      if (limit > 0) this.questions = this.questions.slice(0, limit); // ambil 20
+      if (limit > 0) this.questions = this.questions.slice(0, limit); // batasi pool (opsional)
       this.questions = this.questions.map(shuffleOptions);           // acak posisi opsi
       this.shuffled = true;
     }
+    this.total = this.questions.length;
     this.state = this.questions.map(() => null); // null | idx
+    // mode feed = 1 soal per layar, scroll-snap kayak reels (dipakai tab Kuiz)
+    this.feed = this.dataset.feed !== undefined;
+    if (this.feed) this.wireFeed();
     this.render();
   }
 
+  disconnectedCallback() {
+    clearTimeout(this._snapT);
+    clearTimeout(this._revealT);
+    if (this._onResize) window.removeEventListener("resize", this._onResize);
+  }
+
+  score() {
+    return {
+      right: this.state.filter((s, i) => s === this.questions[i].answer).length,
+      done: this.state.filter((s) => s !== null).length,
+      total: this.total,
+    };
+  }
+
   render() {
-    const done = this.state.filter((s) => s !== null).length;
-    const right = this.state.filter((s, i) => s === this.questions[i].answer).length;
+    if (this.feed) return this.renderFeed();
+    const { right, done, total } = this.score();
     this.innerHTML = `
       <div class="q-score">
-        <span>Recall: <b>${right}/${this.questions.length}</b> benar · ${done} terjawab</span>
+        <span>Recall: <b>${right}/${total}</b> benar · ${done} terjawab</span>
         <button type="button" data-reset>Ulangi</button>
       </div>
       ${this.questions.map((q, i) => this.qHtml(q, i)).join("")}`;
@@ -123,11 +151,179 @@ class MkQuiz extends HTMLElement {
     this.querySelectorAll(".q-opt").forEach((btn) =>
       btn.addEventListener("click", () => this.answer(+btn.dataset.q, +btn.dataset.o))
     );
-    this.querySelector("[data-reset]").addEventListener("click", () => {
-      this.state = this.state.map(() => null);
-      this.render();
-      this.persist();
+    this.querySelector("[data-reset]").addEventListener("click", () => this.reset());
+  }
+
+  /* ---------- mode feed: 1 soal per layar, scroll kayak reels / flashcard ---------- */
+  wireFeed() {
+    if (this._wired) return;   // listener nempel di host, gak ditambah lagi tiap render
+    this._wired = true;
+
+    // event delegation: klik opsi -> jawab, klik "Soal berikutnya" -> scroll, dll
+    this.addEventListener("click", (e) => {
+      const opt = e.target.closest?.(".q-opt");
+      if (opt && !opt.disabled) return this.answer(+opt.dataset.q, +opt.dataset.o);
+      const next = e.target.closest?.("[data-next]");
+      if (next) return this.goSlide(+next.dataset.next);
+      if (e.target.closest?.("[data-reset]")) return this.reset();
     });
+
+    // panah kiri/atas-bawah = pindah soal (kayak swipe di reels)
+    this.addEventListener("keydown", (e) => {
+      const step = { ArrowDown: 1, PageDown: 1, ArrowUp: -1, PageUp: -1 }[e.key];
+      if (!step || e.altKey || e.ctrlKey || e.metaKey) return;
+      e.preventDefault();
+      this.goSlide((this._pos ?? 0) + step);
+    });
+
+    this._onResize = () => this.sizeFeed();
+    window.addEventListener("resize", this._onResize);
+  }
+
+  renderFeed() {
+    const { right, done, total } = this.score();
+    this.innerHTML = `
+      <div class="q-feed">
+        <div class="q-hud">
+          <span class="q-hud-score">Recall: <b data-score>${right}/${total}</b> benar · <span data-done>${done}</span> terjawab</span>
+          <span class="q-hud-pos"><b data-pos>1</b> / ${total}</span>
+          <button type="button" data-reset>Ulangi</button>
+        </div>
+        <div class="q-bar"><i data-bar></i></div>
+        <div class="q-track" tabindex="0">
+          ${this.questions.map((q, i) => this.slideHtml(q, i)).join("")}
+          ${this.endSlideHtml()}
+        </div>
+      </div>`;
+
+    this.sizeFeed();      // isi sisa tinggi layar biar berasa kayak reels
+    this.watchSlides();   // pantau slide yang lagi keliatan -> update HUD
+  }
+
+  slideHtml(q, i) {
+    return `<section class="q-slide" data-slide="${i}"><div class="q-card">${this.cardHtml(q, i)}</div></section>`;
+  }
+
+  cardHtml(q, i) {
+    const chosen = this.state[i];
+    const opts = q.options.map((o, j) => {
+      let cls = "q-opt";
+      if (chosen !== null) {
+        if (j === q.answer) cls += " correct";
+        else if (j === chosen) cls += " wrong";
+      }
+      const dis = chosen !== null ? "disabled" : "";
+      return `<button type="button" class="${cls}" data-q="${i}" data-o="${j}" ${dis}><span class="q-letter">${"ABCD"[j] ?? j + 1}</span>${escapeHtml(o)}</button>`;
+    }).join("");
+
+    const badge = chosen === null ? ""
+      : chosen === q.answer ? '<span class="q-badge ok">bener</span>'
+      : '<span class="q-badge bad">salah</span>';
+    const last = i === this.total - 1;
+
+    return `
+      <div class="q-card-top"><b>${i + 1}</b><span>/ ${this.total}</span></div>
+      <div class="q-q">${escapeHtml(q.q)}${badge}</div>
+      <div class="q-opts">${opts}</div>
+      ${q.why ? `<div class="q-why ${chosen !== null ? "show" : ""}">${escapeHtml(q.why)}</div>` : ""}
+      ${chosen !== null ? `<button type="button" class="q-next" data-next="${i + 1}">${last ? "Lihat hasil →" : "Soal berikutnya →"}</button>` : ""}`;
+  }
+
+  endSlideHtml() {
+    const { right, total } = this.score();
+    const pct = total ? Math.round((right / total) * 100) : 0;
+    const verdict =
+      right === total ? "Tuntas semua — mantap!" :
+      pct >= 80 ? "Mantap, tinggal rapikan yang kelewat." :
+      pct >= 50 ? "Lumayan — balik lagi ke materinya ya." :
+      "Belum aman, baca ulang materinya dulu.";
+    return `
+      <section class="q-slide q-slide--end" data-slide="${total}">
+        <div class="q-card q-card--end">
+          <div class="q-card-top"><span>hasil recall</span></div>
+          <div class="q-end-score"><b>${right}</b><span>/ ${total}</span></div>
+          <div class="q-end-pct">${pct}% benar</div>
+          <p class="q-end-verdict">${verdict}</p>
+          <button type="button" class="q-next" data-reset>Ulangi dari awal ↻</button>
+        </div>
+      </section>`;
+  }
+
+  // tinggi feed = sisa layar di bawah topbar/header tab, biar 1 soal nge-fill layar
+  sizeFeed() {
+    const feed = this.querySelector(".q-feed");
+    if (!feed) return;
+    const top = feed.getBoundingClientRect().top;
+    feed.style.height = `${Math.max(320, Math.round(window.innerHeight - top - 16))}px`;
+  }
+
+  // posisi slide yang lagi di layar = yang paling dekat sama offset scroll
+  // (lebih andal daripada IntersectionObserver yang urutan callback-nya gak menentu)
+  currentSlide() {
+    const track = this.querySelector(".q-track");
+    if (!track) return 0;
+    let best = 0, bestD = Infinity;
+    for (const s of track.querySelectorAll(".q-slide")) {
+      const d = Math.abs(s.offsetTop - track.scrollTop);
+      if (d < bestD) { bestD = d; best = +s.dataset.slide; }
+    }
+    return best;
+  }
+
+  watchSlides() {
+    const track = this.querySelector(".q-track");
+    if (!track) return;
+    this._pos = 0;
+    track.addEventListener("scroll", () => {
+      if (this._raf) return;
+      this._raf = requestAnimationFrame(() => {
+        this._raf = 0;
+        this._pos = this.currentSlide();
+        this.updateFeedHud();
+      });
+    }, { passive: true });
+    this.updateFeedHud();
+  }
+
+  updateFeedHud() {
+    const { right, done, total } = this.score();
+    const pos = Math.min(this._pos + 1, total);
+    const set = (sel, val) => { const el = this.querySelector(sel); if (el) el.textContent = val; };
+    set("[data-score]", `${right}/${total}`);
+    set("[data-done]", done);
+    set("[data-pos]", pos);
+    const bar = this.querySelector("[data-bar]");
+    if (bar) bar.style.width = `${Math.round((pos / total) * 100)}%`;
+  }
+
+  goSlide(i, smooth = true) {
+    const track = this.querySelector(".q-track");
+    const slide = track?.querySelector(`[data-slide="${Math.max(0, Math.min(i, this.total))}"]`);
+    if (!track || !slide) return;
+    const top = slide.offsetTop;
+    this._pos = Math.max(0, Math.min(i, this.total));
+    this.updateFeedHud();   // posisi langsung ikut, gak nunggu event scroll
+    track.scrollTo({ top, behavior: smooth ? "smooth" : "auto" });
+    if (!smooth) return;
+    // jaring pengaman: kalau smooth-scroll gak jalan (prefers-reduced-motion,
+    // environment tanpa animasi), paksa instan biar klik "berikutnya" tetap ngefek
+    clearTimeout(this._snapT);
+    this._snapT = setTimeout(() => {
+      if (Math.abs(track.scrollTop - top) > 4) track.scrollTo({ top, behavior: "auto" });
+    }, 450);
+  }
+
+  reset() {
+    // acak ulang tiap diulang — biar gak ada pola urutan yang bisa dihafal
+    if (this.shuffled) this.questions = shuffleArr(this.questions).map(shuffleOptions);
+    this.state = this.questions.map(() => null);
+    this.render();
+    this.persist();
+    if (this.feed) {
+      this._pos = 0;
+      this.querySelector(".q-track")?.scrollTo({ top: 0 });
+      this.updateFeedHud();
+    }
   }
 
   qHtml(q, i) {
@@ -158,8 +354,35 @@ class MkQuiz extends HTMLElement {
   answer(qi, oi) {
     if (this.state[qi] !== null) return;
     this.state[qi] = oi;
-    this.render();
+
+    if (this.feed) {
+      // di mode feed: cuma ganti isi kartu yang dijawab — scroll posisi gak geser
+      const card = this.querySelector(`[data-slide="${qi}"] .q-card`);
+      if (card) {
+        card.innerHTML = this.cardHtml(this.questions[qi], qi);
+        this.revealNext(card);
+        this.updateFeedHud();
+      }
+    } else {
+      this.render();
+    }
     this.persist();
+  }
+
+  // kartu yang kepanjangan (penjelasan + tombol baru nongol) -> scroll dalem
+  // slide sampe bawah biar "Soal berikutnya" keliatan tanpa usaha
+  revealNext(card) {
+    const slide = card.closest(".q-slide");
+    const nx = card.querySelector(".q-next");
+    nx?.focus({ preventScroll: true });   // biar langsung bisa Enter buat lanjut
+    if (!slide || slide.scrollHeight <= slide.clientHeight + 4) return;
+    slide.scrollTo({ top: slide.scrollHeight, behavior: "smooth" });
+    clearTimeout(this._revealT);
+    this._revealT = setTimeout(() => {   // fallback kalau smooth gak jalan
+      if (slide.scrollTop < slide.scrollHeight - slide.clientHeight - 4) {
+        slide.scrollTo({ top: slide.scrollHeight, behavior: "auto" });
+      }
+    }, 450);
   }
 
   persist() {
@@ -232,7 +455,8 @@ class MkApp extends HTMLElement {
 
   /* ---------- halaman matkul: menu tab Materi / Kuiz ---------- */
   renderCourseIndex(c) {
-    const total = c.pages.length;
+    const materi = materiPages(c);
+    const total = materi.length;
     const done = Store.courseDone(c.slug);
     this.innerHTML = `
       <div class="cb-topbar">
@@ -248,12 +472,12 @@ class MkApp extends HTMLElement {
             ${c.dosen ? `<div class="cb-meta">${escapeHtml(c.dosen)}</div>` : ""}
             <nav class="cb-tabs" role="tablist">
               <button class="cb-tab active" data-tab="materi" type="button">Materi <span>${total}</span></button>
-              <button class="cb-tab" data-tab="kuiz" type="button">Kuiz</button>
+              <button class="cb-tab" data-tab="kuiz" type="button">Kuiz <span>${c.quizCount ?? ""}</span></button>
             </nav>
           </header>
           <div class="cb-tabpane" data-pane="materi">
             <div class="cb-grid">
-              ${c.pages.map((p, i) => {
+              ${materi.map((p, i) => {
                 const st = Store.get(c.slug, p.slug);
                 return `<a class="cb-card cb-card--page ${st?.passed ? "passed" : ""}" href="${p.slug}.html">
                   <span class="cb-page-no">${i + 1}</span>
@@ -272,9 +496,13 @@ class MkApp extends HTMLElement {
       btn.addEventListener("click", () => {
         this.querySelectorAll(".cb-tab").forEach((b) => b.classList.toggle("active", b === btn));
         this.querySelectorAll(".cb-tabpane").forEach((p) => (p.hidden = p.dataset.pane !== btn.dataset.tab));
-        if (btn.dataset.tab === "kuiz") this.loadKuiz(c);
+        this.dataset.tab = btn.dataset.tab;   // buat CSS: header dirapetin pas mode Kuiz
+        if (btn.dataset.tab === "kuiz") {
+          this.loadKuiz(c).then(() => this.querySelector("mk-quiz")?.sizeFeed());
+        }
       })
     );
+    this.dataset.tab = "materi";
     this.querySelector(".cb-toggle")?.addEventListener("click", () => {
       this.dataset.open = this.dataset.open === "true" ? "false" : "true";
     });
@@ -298,23 +526,33 @@ class MkApp extends HTMLElement {
     const all = bodies.join("\n").trim();
     if (!all) { pane.innerHTML += "<p>Belum ada quiz di materi matkul ini.</p>"; return; }
     const pool = (all.match(/^Q: /gm) || []).length;
-    pane.innerHTML += `<p class="cb-quiz-intro">${Math.min(20, pool)} soal acak dari total ${pool} recall — diacak ulang tiap halaman dibuka.</p>`;
+    pane.innerHTML += `<p class="cb-quiz-intro">${pool} soal dari semua pertemuan digabung jadi satu — satu soal per layar, scroll ke bawah kayak reels (atau klik "Soal berikutnya"). Urutan soal & posisi opsi diacak tiap halaman dibuka.</p>`;
     const q = document.createElement("mk-quiz");
     q.dataset.body = all;
-    q.dataset.shuffle = "1";   // acak urutan soal + posisi opsi
-    q.dataset.limit = "20";    // ambil 20 dari pool
+    q.dataset.shuffle = "1";   // acak urutan soal + posisi opsi (semua soal, tanpa limit)
+    q.dataset.feed = "1";      // mode flashcard/reels: 1 soal per layar + scroll-snap
     pane.appendChild(q);
   }
 
   /* ---------- sidebar (dipakai halaman matkul + halaman materi) ---------- */
   sidebarHtml(c, currentSlug) {
+    // daftar sidebar = halaman materi aja, biar konsisten sama tab Materi.
+    // pengecualian: halaman non-materi (kind "kuiz") yang sedang dibuka tetap
+    // ikut nongol biar item active-nya keliatan & bisa navigasi.
+    const list = materiPages(c);
+    const current = c.pages.find((p) => p.slug === currentSlug);
+    const pages = current && current.kind === "kuiz" ? [current, ...list] : list;
+    let n = 0;   // penghitung nomor khusus halaman materi
     return `
       <nav class="cb-sidebar">
         <a class="cb-side-label cb-side-home" href="index.html">← ${escapeHtml(c.name)}</a>
-        ${c.pages.map((p, i) => {
+        ${pages.map((p) => {
           const done = Store.get(c.slug, p.slug)?.passed;
+          // penomoran cuma buat halaman materi — halaman non-materi yang lagi
+          // dibuka ditandai tanpa nomor biar urutan Materi tetap 1..n
+          const no = p.kind === "kuiz" ? "" : `<span class="cb-side-no">${++n}.</span>`;
           return `<a class="cb-side-item ${p.slug === currentSlug ? "active" : ""} ${done ? "done" : ""}"
-            href="${p.slug}.html"><span class="cb-dot"></span><span class="cb-side-no">${i + 1}.</span> ${escapeHtml(p.title)}</a>`;
+            href="${p.slug}.html"><span class="cb-dot"></span>${no} ${escapeHtml(p.title)}</a>`;
         }).join("")}
         <div class="cb-side-label">matkul lain</div>
         ${this.manifest.courses.filter((x) => x.slug !== c.slug)
@@ -326,8 +564,14 @@ class MkApp extends HTMLElement {
     const c = this.course();
     if (!c) { this.innerHTML = `<p style="padding:2rem">Matkul ${MK} gak ada di manifest.</p>`; return; }
 
-    const idx = Math.max(0, c.pages.findIndex((p) => p.slug === PAGE));
-    const page = c.pages[idx];
+    const page = c.pages.find((p) => p.slug === PAGE) ?? c.pages[0];
+
+    // pager cuma muter di halaman materi — halaman non-materi (sumber quiz)
+    // gak ikut arus biar "sebelumnya/berikutnya" gak nyasar ke halaman kuiz.
+    const list = materiPages(c);
+    const pos = list.findIndex((p) => p.slug === PAGE);
+    const prev = pos > 0 ? list[pos - 1] : null;
+    const next = pos >= 0 && pos < list.length - 1 ? list[pos + 1] : null;
     const md = await fetch(`${BASE}content/${c.slug}/${page.slug}.md`)
       .then((r) => r.text())
       .catch(() => `# Gagal load\nFile \`content/${c.slug}/${page.slug}.md\` gak ketemu.`);
@@ -349,8 +593,8 @@ class MkApp extends HTMLElement {
             <aside class="cb-toc"><div class="cb-toc-title">di halaman ini</div><div class="cb-toc-list"></div></aside>
           </div>
           <div class="cb-pager">
-            ${idx > 0 ? `<a href="${c.pages[idx - 1].slug}.html">← ${escapeHtml(c.pages[idx - 1].title)}</a>` : "<span></span>"}
-            ${idx < c.pages.length - 1 ? `<a href="${c.pages[idx + 1].slug}.html">${escapeHtml(c.pages[idx + 1].title)} →</a>` : "<span></span>"}
+            ${prev ? `<a href="${prev.slug}.html">← ${escapeHtml(prev.title)}</a>` : "<span></span>"}
+            ${next ? `<a href="${next.slug}.html">${escapeHtml(next.title)} →</a>` : "<span></span>"}
           </div>
         </main>
       </div>`;

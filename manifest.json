@@ -4,38 +4,47 @@
       "slug": "bahasa-indonesia",
       "name": "bahasa indonesia",
       "dosen": "Haura Zahra Salsabila, M.Hum.",
+      "quizCount": 65,
       "pages": [
         {
           "slug": "pertemuan-01-hakikat-fungsi-bahasa",
-          "title": "Pertemuan 01 — Hakikat, Kedudukan, dan Fungsi Bahasa"
+          "title": "Pertemuan 01 — Hakikat, Kedudukan, dan Fungsi Bahasa",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-ragam-bahasa-indonesia",
-          "title": "Pertemuan 02 — Ragam Bahasa Indonesia dan Karakteristiknya"
+          "title": "Pertemuan 02 — Ragam Bahasa Indonesia dan Karakteristiknya",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-pedoman-eyd-ejaan",
-          "title": "Pertemuan 03 — Pedoman Umum EYD / Ejaan Bahasa Indonesia"
+          "title": "Pertemuan 03 — Pedoman Umum EYD / Ejaan Bahasa Indonesia",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-05-pemilihan-kata-diksi",
-          "title": "Pertemuan 04–05 — Penggunaan & Pemilihan Kata (Diksi)"
+          "title": "Pertemuan 04–05 — Penggunaan dan Pemilihan Kata (Diksi)",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-06-kalimat-efektif",
-          "title": "Pertemuan 06 — Kalimat Efektif"
+          "title": "Pertemuan 06 — Kalimat Efektif",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-07-paragraf",
-          "title": "Pertemuan 07 — Paragraf"
+          "title": "Pertemuan 07 — Paragraf",
+          "kind": "materi"
         },
         {
           "slug": "recall-uts-bindo",
-          "title": "Recall Quiz — Bahasa Indonesia (P1–P7)"
+          "title": "Recall Quiz — Bahasa Indonesia (P1–P7)",
+          "kind": "kuiz"
         },
         {
           "slug": "strategi-uts",
-          "title": "Strategi UTS — Bahasa Indonesia"
+          "title": "Strategi UTS — Bahasa Indonesia",
+          "kind": "kuiz"
         }
       ]
     },
@@ -43,58 +52,72 @@
       "slug": "inteligensi-buatan",
       "name": "inteligensi-buatan",
       "dosen": "(belum ketahuan — course bank dosen belum sebut nama)",
+      "quizCount": 138,
       "pages": [
         {
           "slug": "pertemuan-01-konsep-dasar-ai",
-          "title": "Pertemuan 1 — Konsep Dasar AI, Sejarah & Ruang Lingkup"
+          "title": "Pertemuan 1 — Konsep Dasar AI, Sejarah & Ruang Lingkup",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-intelligent-agent",
-          "title": "Pertemuan 2 — Intelligent Agent & Model ML Pertama"
+          "title": "Pertemuan 2 — Intelligent Agent & Model ML Pertama",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-problem-solving-bfs-dfs",
-          "title": "Pertemuan 3 — Problem Solving: BFS & DFS"
+          "title": "Pertemuan 3 — Problem Solving: BFS & DFS",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-05-search-knowledge-representation",
-          "title": "Pertemuan 4–5 — Search (UCS/A*) & Knowledge Representation"
+          "title": "Pertemuan 4–5 — Search (UCS/A*) & Knowledge Representation",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-06-predicate-logic-inference",
-          "title": "Pertemuan 6 — Predicate Logic, Inference & Rule-Based System"
+          "title": "Pertemuan 6 — Predicate Logic, Inference & Rule-Based System",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-07-konsep-ml",
-          "title": "Pertemuan 7 — Konsep ML, Dataset, Feature & Label"
+          "title": "Pertemuan 7 — Konsep ML, Dataset, Feature & Label",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-09-preprocessing-cleaning",
-          "title": "Pertemuan 9 — Preprocessing & Cleaning Data"
+          "title": "Pertemuan 9 — Preprocessing & Cleaning Data",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-10-klasifikasi-model",
-          "title": "Pertemuan 10 — Klasifikasi & Model"
+          "title": "Pertemuan 10 — Klasifikasi & Model",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-11-clustering-evaluasi",
-          "title": "Pertemuan 11 — Klastering & Evaluasi Model"
+          "title": "Pertemuan 11 — Klastering & Evaluasi Model",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-12-analisis-kebutuhan-deep-learning",
-          "title": "Pertemuan 12 — Analisis Kebutuhan & Pemilihan Metode AI"
+          "title": "Pertemuan 12 — Analisis Kebutuhan & Pemilihan Metode AI",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-13-python-untuk-ai-pandas",
-          "title": "Pertemuan 13 — Python untuk AI: Pandas & Scikit-Learn"
+          "title": "Pertemuan 13 — Python untuk AI: Pandas & Scikit-Learn",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-14-integrasi-deployment-joblib",
-          "title": "Pertemuan 14 — Integrasi & Deployment Model (Joblib / Pickle)"
+          "title": "Pertemuan 14 — Integrasi & Deployment Model (Joblib / Pickle)",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-15-streamlit-evaluasi",
-          "title": "Pertemuan 15 — Aplikasi Web dengan Streamlit & Evaluasi"
+          "title": "Pertemuan 15 — Aplikasi Web dengan Streamlit & Evaluasi",
+          "kind": "materi"
         }
       ]
     },
@@ -102,42 +125,52 @@
       "slug": "keamanan-informasi",
       "name": "keamanan-informasi",
       "dosen": "(belum ketahuan — dari video belum disebut nama)",
+      "quizCount": 68,
       "pages": [
         {
           "slug": "pertemuan-01-pengantar-cia-triad",
-          "title": "Pertemuan 1 — Pengantar Keamanan Informasi, CIA Triad & Ancaman"
+          "title": "Pertemuan 1 — Pengantar Keamanan Informasi, CIA Triad & Ancaman",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-iso-27001-annex-sl",
-          "title": "Pertemuan 2 — ISO 27001, Annex SL & Konteks Organisasi"
+          "title": "Pertemuan 2 — ISO 27001, Annex SL & Konteks Organisasi",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-standar-pengamanan-konteks-organisasi",
-          "title": "Pertemuan 3 — Standar Pengamanan & Konteks Organisasi"
+          "title": "Pertemuan 3 — Standar Pengamanan & Konteks Organisasi",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-diagnostik-pemetaan-risiko",
-          "title": "Pertemuan 4 — Diagnostik & Pemetaan Risiko"
+          "title": "Pertemuan 4 — Diagnostik & Pemetaan Risiko",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-06-soa-governance",
-          "title": "Pertemuan 6 — Statement of Applicability & Arena Kompromi"
+          "title": "Pertemuan 6 — Statement of Applicability & Arena Kompromi",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-07-kilas-balik-smki-briefing-uts",
-          "title": "Pertemuan 7 — Kilas Balik SMKI & Briefing Proyek UTS"
+          "title": "Pertemuan 7 — Kilas Balik SMKI & Briefing Proyek UTS",
+          "kind": "materi"
         },
         {
           "slug": "transkrip-pertemuan-01",
-          "title": "Pertemuan 1 — Pengantar Keamanan Informasi & CIA Triad"
+          "title": "Pertemuan 1 — Pengantar Keamanan Informasi & CIA Triad",
+          "kind": "materi"
         },
         {
           "slug": "transkrip-pertemuan-02",
-          "title": "Pertemuan 2 — Standar Keamanan, Struktur Annex SL & Konteks Organisasi"
+          "title": "Pertemuan 2 — Standar Keamanan, Struktur Annex SL & Konteks Organisasi",
+          "kind": "materi"
         },
         {
           "slug": "transkrip-pertemuan-07",
-          "title": "Pertemuan 7 — Kilas Balik SMKI, Merangkai Puzzle & Briefing Proyek UTS"
+          "title": "Pertemuan 7 — Kilas Balik SMKI, Merangkai Puzzle & Briefing Proyek UTS",
+          "kind": "materi"
         }
       ]
     },
@@ -145,34 +178,42 @@
       "slug": "mikroprosessor",
       "name": "mikroprosessor",
       "dosen": "Ari Hadhiwibowo, S.T., M.Kom.",
+      "quizCount": 39,
       "pages": [
         {
           "slug": "pertemuan-01-dasar-assembly",
-          "title": "Pertemuan 1 — Dasar Bahasa Assembly: Assembler, Register & Transfer Data"
+          "title": "Pertemuan 1 — Dasar Bahasa Assembly: Assembler, Register & Transfer Data",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-register-memori-bus",
-          "title": "Pertemuan 2 — Register, Memori, Bus & Transfer Data (Arsitektur Von Neumann)"
+          "title": "Pertemuan 2 — Register, Memori, Bus & Transfer Data (Arsitektur Von Neumann)",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-arsitektur-mikroprosesor-cpu",
-          "title": "Pertemuan 3 — Arsitektur Mikroprosesor & Komponen Utama CPU"
+          "title": "Pertemuan 3 — Arsitektur Mikroprosesor & Komponen Utama CPU",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-siklus-instruksi-addressing",
-          "title": "Pertemuan 4 — Siklus Instruksi, Instruction Set & Addressing Mode"
+          "title": "Pertemuan 4 — Siklus Instruksi, Instruction Set & Addressing Mode",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-05-rotasi-stack",
-          "title": "Pertemuan 5 — Rotasi Data, Aritmetika, Stack (x8086 / emu8086)"
+          "title": "Pertemuan 5 — Rotasi Data, Aritmetika, Stack (x8086 / emu8086)",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-06-aritmetika-cabang",
-          "title": "Pertemuan 6 — Aritmetika, Masking, Pencabangan, Loop (x8086)"
+          "title": "Pertemuan 6 — Aritmetika, Masking, Pencabangan, Loop (x8086)",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-07",
-          "title": "Pertemuan 7 — Percabangan, Perulangan, Subroutine & Interrupt (P07)"
+          "title": "Pertemuan 7 — Percabangan, Perulangan, Subroutine & Interrupt (P07)",
+          "kind": "materi"
         }
       ]
     },
@@ -180,14 +221,17 @@
       "slug": "mobile-programming-2",
       "name": "mobile-programming-2",
       "dosen": "Sutani, S.T., M.T. (sutani@utb-univ.ac.id)",
+      "quizCount": 26,
       "pages": [
         {
           "slug": "pertemuan-02-dasar-dart",
-          "title": "Pertemuan 2 — Dasar-Dasar Dart"
+          "title": "Pertemuan 2 — Dasar-Dasar Dart",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-dasar-widgets",
-          "title": "Pertemuan 4 — Dasar Widgets (Flutter)"
+          "title": "Pertemuan 4 — Dasar Widgets (Flutter)",
+          "kind": "materi"
         }
       ]
     },
@@ -195,62 +239,77 @@
       "slug": "network-security",
       "name": "network-security",
       "dosen": "Yasti Aisyah Primianjani, S.Kom., M.S.F.",
+      "quizCount": 143,
       "pages": [
         {
           "slug": "pertemuan-01-pengantar-keamanan-jaringan-labd",
-          "title": "Pertemuan 1 — Pengantar Keamanan Jaringan & Setup Lab Docker"
+          "title": "Pertemuan 1 — Pengantar Keamanan Jaringan & Setup Lab Docker",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-cryptography-101",
-          "title": "Pertemuan 2 — Cryptography 101: Dasar-Dasar Kriptografi untuk Keamanan Jaringan"
+          "title": "Pertemuan 2 — Cryptography 101: Dasar-Dasar Kriptografi untuk Keamanan Jaringan",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-l2-arp-spoofing",
-          "title": "Pertemuan 3 — L2 Security: ARP Spoofing"
+          "title": "Pertemuan 3 — L2 Security: ARP Spoofing",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-05-wireless-l3-ip-icmp",
-          "title": "Pertemuan 4–5 — Wireless (WPA2) & L3 Security (IP/ICMP)"
+          "title": "Pertemuan 4–5 — Wireless (WPA2) & L3 Security (IP/ICMP)",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-06-l4-tcp-udp",
-          "title": "Pertemuan 6 — L4 Security: TCP/UDP Attacks"
+          "title": "Pertemuan 6 — L4 Security: TCP/UDP Attacks",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-07-dns-security",
-          "title": "Pertemuan 7 — DNS Security"
+          "title": "Pertemuan 7 — DNS Security",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-09-web-app-security-sqli",
-          "title": "Pertemuan 9 — Web Application Security: SQL Injection"
+          "title": "Pertemuan 9 — Web Application Security: SQL Injection",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-10-web-app-security-xss-csrf",
-          "title": "Pertemuan 10 — Web Application Security: XSS & CSRF"
+          "title": "Pertemuan 10 — Web Application Security: XSS & CSRF",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-11-cve-cvss-manajemen-kerentanan",
-          "title": "Pertemuan 11 — CVE & CVSS: Manajemen Kerentanan"
+          "title": "Pertemuan 11 — CVE & CVSS: Manajemen Kerentanan",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-12-setup-vps-nginx",
-          "title": "Pertemuan 12 — Setup VPS & Konfigurasi Nginx"
+          "title": "Pertemuan 12 — Setup VPS & Konfigurasi Nginx",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-13-reverse-proxy-halimun",
-          "title": "Pertemuan 13 — Hands-On Reverse Proxy: NginxProxy & HalimunProxy"
+          "title": "Pertemuan 13 — Hands-On Reverse Proxy: NginxProxy & HalimunProxy",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-14-firewalling-iptables",
-          "title": "Pertemuan 14 — Firewalling dengan iptables"
+          "title": "Pertemuan 14 — Firewalling dengan iptables",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-15-ids-snort",
-          "title": "Pertemuan 15 — IDS dengan Snort"
+          "title": "Pertemuan 15 — IDS dengan Snort",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-16-uas",
-          "title": "Pertemuan 16 — UAS: Info Ujian + Rekap Semester"
+          "title": "Pertemuan 16 — UAS: Info Ujian + Rekap Semester",
+          "kind": "materi"
         }
       ]
     },
@@ -258,58 +317,72 @@
       "slug": "pengembangan-diri",
       "name": "pengembangan-diri",
       "dosen": "(belum ketahuan)",
+      "quizCount": 123,
       "pages": [
         {
           "slug": "pertemuan-01-orientasi-target-smart",
-          "title": "Slide 1 — Konsep Dasar & Orientasi Masa Depan"
+          "title": "Slide 1 — Konsep Dasar & Orientasi Masa Depan",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-pengenalan-diri-potensi",
-          "title": "Pertemuan 2 — Pengenalan Diri & Potensi Diri"
+          "title": "Pertemuan 2 — Pengenalan Diri & Potensi Diri",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-kebiasaan-positif",
-          "title": "Pertemuan 3 — Kebiasaan & Perilaku Positif"
+          "title": "Pertemuan 3 — Kebiasaan & Perilaku Positif",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-05-interaksi-sosial-etika",
-          "title": "Pertemuan 4–5 — Interaksi Sosial & Etika/Etiket"
+          "title": "Pertemuan 4–5 — Interaksi Sosial & Etika/Etiket",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-06-manajemen-waktu-prioritas",
-          "title": "Pertemuan 6 — Rencana dan Prioritas: Manajemen Waktu & Skala Prioritas"
+          "title": "Pertemuan 6 — Rencana dan Prioritas: Manajemen Waktu & Skala Prioritas",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-07-goal-setting",
-          "title": "Pertemuan 7 — Goal Setting: Tujuan Hidup & Rancangan Orientasi Masa Depan"
+          "title": "Pertemuan 7 — Goal Setting: Tujuan Hidup & Rancangan Orientasi Masa Depan",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-09-kecerdasan-emosi",
-          "title": "Pertemuan 9 — Kecerdasan Emosi Manusia"
+          "title": "Pertemuan 9 — Kecerdasan Emosi Manusia",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-10-stress",
-          "title": "Pertemuan 10 — Stress: Jenis, Gejala, Faktor, & Cara Menghadapi"
+          "title": "Pertemuan 10 — Stress: Jenis, Gejala, Faktor, & Cara Menghadapi",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-11-komunikasi-interpersonal",
-          "title": "Pertemuan 11 — Komunikasi Interpersonal yang Efektif"
+          "title": "Pertemuan 11 — Komunikasi Interpersonal yang Efektif",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-12-asertivitas",
-          "title": "Pertemuan 12 — Asertivitas: Cara Meningkatkannya"
+          "title": "Pertemuan 12 — Asertivitas: Cara Meningkatkannya",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-13-public-speaking",
-          "title": "Pertemuan 13 — Konsep Public Speaking: Jenis & Persiapan"
+          "title": "Pertemuan 13 — Konsep Public Speaking: Jenis & Persiapan",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-14-kepemimpinan",
-          "title": "Pertemuan 14 — Kepemimpinan: Karakteristik & Pemimpin vs Manager"
+          "title": "Pertemuan 14 — Kepemimpinan: Karakteristik & Pemimpin vs Manager",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-15-teamwork",
-          "title": "Pertemuan 15 — Teamwork: Jenis, Faktor & Fungsi"
+          "title": "Pertemuan 15 — Teamwork: Jenis, Faktor & Fungsi",
+          "kind": "materi"
         }
       ]
     },
@@ -317,30 +390,42 @@
       "slug": "sistem-informasi-enterprise",
       "name": "sistem-informasi-enterprise",
       "dosen": "Dede Sulaeman",
+      "quizCount": 77,
       "pages": [
         {
           "slug": "pertemuan-01-integrasi-fragmentasi-eis",
-          "title": "Bab 1 — Integrasi dalam Enterprise: Fragmentasi vs Terintegrasi"
+          "title": "Bab 1 — Integrasi dalam Enterprise: Fragmentasi vs Terintegrasi",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-02-proses-bisnis-alur-kerja",
-          "title": "Bab 2 — Proses Bisnis dan Alur Kerja Enterprise"
+          "title": "Bab 2 — Proses Bisnis dan Alur Kerja Enterprise",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-03-metodologi-pengembangan",
-          "title": "Bab 3 — Metodologi Pengembangan Enterprise Information System"
+          "title": "Bab 3 — Metodologi Pengembangan Enterprise Information System",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-04-arsitektur-sistem-informasi",
-          "title": "Bab 4 — Arsitektur Sistem Informasi"
+          "title": "Bab 4 — Arsitektur Sistem Informasi",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-extra-konsep-enterprise-information-system",
-          "title": "Bab 1 — Konsep Enterprise Information System (Materi Extra)"
+          "title": "Bab 1 — Konsep Enterprise Information System (Materi Extra)",
+          "kind": "materi"
+        },
+        {
+          "slug": "pertemuan-kuis-materi-pendalam",
+          "title": "Materi Pendalam Kuis SIE — 7 Pokok Bahasan",
+          "kind": "materi"
         },
         {
           "slug": "pertemuan-kuis-ringkasan",
-          "title": "Ringkasan Kuis SIE (TIF 24 CNS E)"
+          "title": "Ringkasan Kuis SIE (TIF 24 CNS E)",
+          "kind": "materi"
         }
       ]
     }

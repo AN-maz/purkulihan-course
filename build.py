@@ -36,11 +36,25 @@ GENERATED = ["mk", "content", "manifest.json", "index.html", "silabus.html"]
 SKIP_DIRS = {"purkulihan-course", "_template", "site", ".git"}
 ASSETS = ROOT / "assets"                        # css/js/vendor sudah di root (ikut deploy, gak perlu di-copy)
 
+# Halaman jadi "materi" kalau slug-nya pertemuan-* / transkrip-pertemuan-*.
+# Selain itu (recall-*, strategi-*, dsb) = sumber quiz: tetap dibangun & bisa
+# dibuka via URL, quiz-nya tetap ikut pool Kuiz — tapi gak ditampilin di tab
+# Materi / sidebar, biar Materi full materi.
+MATERI_RE = re.compile(r"^(?:pertemuan-|transkrip-pertemuan-)")
+
 
 def slugify(name: str) -> str:
     s = name.strip().lower()
     s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
     return s
+
+
+def count_questions(md_text: str) -> int:
+    """Jumlah soal (baris 'Q:') di semua blok ```quiz."""
+    return sum(
+        len(re.findall(r"^Q:", block, re.M))
+        for block in re.findall(r"```quiz\n([\s\S]*?)```", md_text)
+    )
 
 
 def read_title(md_text: str, fallback: str) -> str:
@@ -96,9 +110,11 @@ def collect_courses():
                 continue
             for md in sorted(folder.glob("*.md")):
                 text = md.read_text(encoding="utf8")
+                slug = slugify(md.stem)
                 pages.append({
-                    "slug": slugify(md.stem),
+                    "slug": slug,
                     "title": read_title(text, md.stem.replace("-", " ").title()),
+                    "kind": "materi" if MATERI_RE.match(slug) else "kuiz",
                     "src": md,
                     "text": text,
                 })
@@ -136,7 +152,11 @@ def build():
             "slug": course["slug"],
             "name": course["name"],
             "dosen": course["dosen"],
-            "pages": [{"slug": p["slug"], "title": p["title"]} for p in course["pages"]],
+            "quizCount": sum(count_questions(p["text"]) for p in course["pages"]),
+            "pages": [
+                {"slug": p["slug"], "title": p["title"], "kind": p["kind"]}
+                for p in course["pages"]
+            ],
         })
 
         for page in course["pages"]:
@@ -185,7 +205,12 @@ def build():
     )
 
     n_pages = sum(len(c["pages"]) for c in manifest["courses"])
-    print(f"OK: {len(manifest['courses'])} matkul, {n_pages} halaman -> {SITE}")
+    n_materi = sum(1 for c in manifest["courses"] for p in c["pages"] if p["kind"] == "materi")
+    n_soal = sum(c["quizCount"] for c in manifest["courses"])
+    print(
+        f"OK: {len(manifest['courses'])} matkul, {n_pages} halaman "
+        f"({n_materi} materi + {n_pages - n_materi} sumber quiz), {n_soal} soal -> {SITE}"
+    )
 
 
 def serve():

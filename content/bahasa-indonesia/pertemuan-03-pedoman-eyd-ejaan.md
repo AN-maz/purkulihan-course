@@ -1,473 +1,947 @@
 # Pertemuan 03 — Pedoman Umum EYD / Ejaan Bahasa Indonesia
 
-Materi dari slide P3 dosen (52 slide pptx): **Seputar Pedoman Umum EYD**,
-bagian besar: Penulisan Huruf, Penulisan Kata, Singkatan dan Akronim, Angka
-dan Bilangan, Tanda Baca. Ini tulis ulang lengkap — semua poin slide masuk.
-
-Standar ejaan yang dipakai di slide adalah **PUEBI** (Pedoman Umum Ejaan
-Bahasa Indonesia), dipakukan lewat **Permendikbud No. 50 Tahun 2015**[3].
-Slide juga menyinggung **EYD 2022** sebagai kaidah terbaru di bagian ciri
-bahasa baku (pertemuan 2).
-
-## Penulisan Huruf
-
-### Huruf Diftong
-
-Di bahasa Indonesia ada **empat diftong**: `ai`, `au`, `ei`, dan `oi`.
-Catatan slide: ada penambahan huruf diftong `/ei/`.
-
-| Diftong | Posisi Awal | Posisi Tengah | Posisi Akhir |
-|---|---|---|---|
-| `ai` | — | bal**ai** | rung pand**ai** |
-| `au` | **au** todidak | t**au** | fik harim**au** |
-| `ei` | **ei** gendom | g**ei** | ser surv**ei** |
-| `oi` | — | b**oi** kot | amb**oi** |
-
-> [!WARNING]
-> Tabel diftong di slide teksnya kepotong (contoh spasi di tengah kata:
-> "todidak t au", "gendom g ei"). Beberapa contoh posisi awal juga kosong
-> ("ai —", "oi - b"). Aku tulis apa adanya — kalau ada contoh yang mau
-> dipastikan, cek ke slide aslinya.
-
-### Huruf Kapital
-
-1. Sebagai huruf pertama **awal kalimat**: *Apa maksudnya?* / *Dia membaca buku.*
-2. Sebagai huruf pertama **unsur nama orang, termasuk julukan**: *Amir Hamzah, Dewi Sartika*
-3. Pada **awal kalimat dalam petikan langsung**: *Adik bertanya, "Kapan kita pulang?"* / *Orang itu menasihati anaknya, "Berhati-hatilah, Nak!"*
-4. Sebagai huruf pertama **unsur nama gelar kehormatan, keturunan, keagamaan, profesi, serta nama jabatan dan kepangkatan yang dipakai sebagai sapaan**: *Selamat datang, Yang Mulia.* / *Semoga berbahagia, Sultan.*
-5. Sebagai huruf pertama **nama jabatan dan pangkat yang diikuti nama orang**, atau yang dipakai sebagai pengganti nama orang tertentu, nama instansi, atau nama tempat: *Wakil Presiden Adam Malik* / *Perdana Menteri Nehru*
-6. Sebagai huruf pertama **nama bangsa, suku bangsa, dan bahasa**: *bangsa Indonesia, suku Dani, bahasa Bali*
-
-> [!NOTE]
-> Catatan slide: nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai
-> **bentuk dasar kata turunan** tidak ditulis kapital — misalnya
-> *pengindonesiaan*, *kata asing*, *keinggris-inggrisan*, *kejawa-jawaan*.
-
-### Huruf Miring
-
-1. Untuk **judul buku, nama majalah, atau nama surat kabar** yang dikutip
-   dalam tulisan, termasuk dalam daftar pustaka: *Saya sudah membaca buku
-   Salah Asuhan karangan Abdoel Moeis.* / *Majalah Poedjangga Baroe
-   menggelorakan semangat kebangsaan.*
-2. Untuk **kata atau ungkapan dalam bahasa daerah atau bahasa asing**:
-   *Upacara peusijuek (tepung tawar) menarik perhatian wisatawan asing…
-   Aceh.* / *Nama ilmiah buah manggis ialah Garcinia mangostana.*
-
-Catatan penting (dari slide):
-
-- (1) **Nama diri** (orang, lembaga, organisasi) dalam bahasa asing/daerah
-  **tidak** ditulis miring.
-- (2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian
-  yang dicetak miring **ditandai dengan garis bawah**.
-- (3) Kalimat/teks berbahasa asing atau daerah yang **dikutip langsung**
-  dalam teks berbahasa Indonesia ditulis miring.
-
-### Huruf Tebal
-
-- Dipakai untuk **menegaskan bagian tulisan yang sudah ditulis miring**.
-  Contoh slide: kata *dh* (mis. *Ramadhan*) tidak terdapat dalam EYD;
-  kata *et* dalam *ora et labora* berarti 'dan'. Catatan: PUEBI 2015
-  menambahkan klausul ini.
-- **Tidak dipakai** untuk menegaskan/mengkhususkan huruf, bagian kata,
-  kata, atau kelompok kata dalam kalimat — untuk tujuan ini gunakan
-  **huruf miring**.
-- **Dapat dipakai** untuk menegaskan bagian-bagian karangan seperti judul
-  buku, bab, atau subbab (contoh slide: *1.1 Latar Belakang dan Masalah*,
-  *1.1.1 Latar Belakang*).
-
-Contoh isi slide soal latar belakang: masyarakat Indonesia heterogen →
-sikap beragam terhadap penggunaan bahasa: (1) sangat bangga terhadap bahasa
-asing, (2) sangat bangga terhadap bahasa daerah, (3) sangat bangga
-terhadap bahasa Indonesia.
-
-## Penulisan Kata
-
-### Kata Dasar
-
-Ditulis sebagai **satu kesatuan**: *Kantor pajak penuh sesak.* / *Saya pergi ke sekolah.*
-
-### Kata Berimbuhan
-
-Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran)
-ditulis **serangkai** dengan bentuk dasarnya: *berjalan*, *berkelanjutan*.
-
-Catatan: imbuhan yang diserap dari unsur asing seperti `-isme`, `-man`,
-`-wan`, `-wi` juga serangkai dengan dasarnya: *sukuisme*, *seniman*.
-
-### Bentuk Terikat
-
-- Ditulis **serangkai** dengan kata yang mengikutinya: *adibusana,
-  antibiotik, pramusaji, aerodinamika, antarkota, swadaya, biokimia,
-  narapidana*.
-- Bentuk terikat yang diikuti kata berhuruf awal kapital atau singkatan
-  berupa huruf kapital → dirangkai dengan **tanda hubung (-)**:
-  *non-Indonesia, pro-Barat, non-ASEAN, anti-PKI*.
-- Bentuk `maha` yang diikuti **kata turunan** mengacu nama/sifat Tuhan →
-  **terpisah** dengan huruf awal kapital: *Tuhan Yang Maha Pengasih,
-  Tuhan Yang Maha Pengampun*.
-- Bentuk `maha` yang diikuti **kata dasar** mengacu nama/sifat Tuhan,
-  **kecuali kata `esa`**, → **serangkai**: *Tuhan Yang Mahakuasa*;
-  kecuali *Tuhan Yang Maha Esa* (terpisah).
-
-### Bentuk Ulang
-
-- Ditulis dengan **tanda hubung (-)** di antara unsurnya: *anak-anak,
-  buku-buku, lauk-pauk, sayur-mayur, berjalan-jalan, porak-poranda*.
-- Bentuk ulang **gabungan kata** = mengulang unsur pertama:
-  *surat kabar → surat-surat kabar*, *rak buku → rak-rak buku*.
-- Bila bentuk ulang diberi huruf kapital (nama diri: lembaga, dokumen;
-  atau judul: buku, majalah): **bentuk ulang sempurna** = kapital di
-  huruf pertama tiap unsurnya (*Penerapan Asas-Asas Hukum Perdata*),
-  sedangkan **bentuk ulang lain** hanya kapital di unsur pertama
-  (*Terus-menerus Ramah-tamah*).
-
-### Gabungan Kata (Kata Majemuk)
-
-- Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah
-  khusus, **ditulis terpisah**: *duta besar, kambing hitam, persegi
-  panjang, orang tua, rumah sakit, cendera mata*.
-- Yang **menimbulkan salah pengertian** → tanda hubung: *anak-istri
-  pejabat* (anak dan istri dari pejabat) vs *anak istri-pejabat* (anak
-  dari istri pejabat).
-- Penulisan terpisah **tetap terpisah** jika mendapat awalan/akhiran:
-  *bertepuk tangan, menganak sungai, garis bawah*.
-- Yang mendapat **awalan dan akhiran sekaligus** → **serangkai**:
-  *dilipatgandakan, menggarisbawahi, menyebarkanluaskan*.
-- Yang sudah **padu** → serangkai: *beasiswa, kacamata, kasatmata,
-  kilometer, manasuka, matahari, olahraga, padahal, peribahasa, perilaku,
-  saputangan, segitiga, sukacita, sukarela, wiraswata*.
-
-### Kata Depan
-
-Kata depan seperti `di`, `ke`, `dari` **ditulis terpisah** dari kata
-berikutnya: *Di mana dia sekarang? / disimpan di dalam lemari / ke tengah
-kancah perjuangan / ke kantor / ke sana / dari Pulau Penyengat / terbuat
-dari emas*.
-
-### Partikel
-
-- `-lah`, `-kah`, `-tah` → **serangkai** dengan kata mendahuluinya:
-  *bacalah, apakah*.
-- `pun` → **terpisah** dari kata mendahuluinya: *apa pun, malam pun*.
-  **Catatan:** partikel `pun` yang merupakan unsur kata penghubung →
-  **serangkai**: *meskipun, walaupun*.
-- `per` (berarti 'demi', 'tiap', atau 'mulai') → **terpisah**:
-  *satu per satu, Rp50.000,00 per meter, per 1 Januari*.
-
-## Singkatan dan Akronim
-
-- Singkatan **nama orang, gelar, sapaan, jabatan, atau pangkat** → titik
-  pada setiap unsur: *A.H. Nasution, H. Hamid, M.B.A., M.Hum., M.Si.*
-- Singkatan **huruf awal nama lembaga pemerintah/ketatanegaraan, lembaga
-  pendidikan, badan/organisasi, nama dokumen resmi** → kapital **tanpa
-  titik**: *NKRI, UI, PBB*.
-- Singkatan **huruf awal tiap kata yang bukan nama diri** → kapital tanpa
-  titik: *PT, MAN, SD, KTP*.
-- Singkatan **≥3 huruf** → diikuti titik: *hlm., dll., dsb.*
-- Singkatan **2 huruf yang lazim dalam surat-menyurat** → masing-masing
-  titik: *a.n., d.a., u.b.*
-- **Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata
-  uang** → **tanpa titik**: *cm, kVA, l, kg, Rp*.
-
-**Akronim:**
-
-- Akronim **nama diri** dari huruf awal tiap kata → kapital tanpa titik:
-  *BIG, BIN, LIPI, LAN, PASI*.
-- Akronim **nama diri** berupa gabungan suku kata, atau gabungan huruf dan
-  suku kata dari deret kata → huruf awal kapital: *Bulog, Bappenas,
-  Kowani, Kalteng*.
-
-## Angka dan Bilangan
-
-- **Angka Arab** (0–9) atau **angka Romawi** (I, II, … X, L=50, C=100,
-  D=500, M=1.000, V̄=5.000) lazim dipakai sebagai lambang bilangan/nomor.
-- Bilangan dalam teks yang bisa dinyatakan dengan **satu atau dua kata**
-  → ditulis **huruf**, kecuali dipakai berurutan dalam perincian:
-  *menonton drama itu sampai tiga kali*; *lebih dari satu juta buku*;
-  tapi *72 anggota, 52 setuju, 15 tidak setuju, 5 abstain* dan *50 bus,
-  100 minibus, 250 sedan* (berurutan).
-- **Bilangan pada awal kalimat → huruf**: *Lima puluh siswa teladan…
-  Tiga pemenang sayembara…* Penulisan *50 siswa teladan…* dihindari.
-- Jika bilangan awal kalimat gak bisa dinyatakan satu/dua kata →
-  **susunan kalimat diubah**: *Panitia mengundang 250 orang peserta.*
-  (Bukan: *250 orang peserta diundang panitia.*)
-- Bilangan besar boleh ditulis **sebagian angka, sebagian huruf** supaya
-  mudah dibaca: *250 juta rupiah, 550 miliar rupiah, Rp10 triliun*.
-- **Angka dipakai** untuk: (a) ukuran panjang, berat, luas, isi, dan waktu;
-  (b) nilai uang: *0,5 sentimeter, 10 liter, 5 kilogram*.
-- **Angka untuk menomori alamat**: *Jalan Tanah Abang I No. 15* /
-  *Jalan Tanah Abang I/15*, *Jalan Wijaya No. 14*.
-- **Angka untuk menomori bagian karangan atau ayat kitab suci**: *Bab X,
-  Pasal 5, halaman 252; Surah Yasin: 9; Markus 16:15—16*.
-
-### Penulisan bilangan dengan huruf
-
-- **Bilangan utuh**: *dua belas (12), tiga puluh (30), lima ribu (5.000)*.
-- **Bilangan pecahan**: *setengah/seperdua (1/2), seperenam belas (1/16),
-  tiga perempat (3/4), dua persepuluh (2/10), tiga dua-pertiga (3 2/3)*.
-- **Bilangan tingkat**: *abad XX / abad ke-20 / abad kedua puluh;
-  Perang Dunia II / Perang Dunia Ke-2*.
-- **Angka dengan akhiran `-an`**: *1.000-an (seribuan), tahun 1950-an,
-  uang 5.000-an*.
-- **Angka dan huruf sekaligus** dipakai dalam **peraturan
-  perundang-undangan, akta, dan kuitansi**: *pidana kurungan paling lama
-  1 (satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua
-  ratus juta rupiah)*.
-- **Bilangan sebagai unsur nama geografi → huruf**: *Kelapa Dua, Kotonan
-  Ampek, Raja Ampat, Simpang Lima, Tiga Raksa*.
-
-## Tanda Baca
-
-### Tanda Titik
-
-- Akhir **kalimat pernyataan**: *Mereka duduk di sana.*
-- Di belakang **angka atau huruf dalam bagan, ikhtisar, atau daftar**:
-  *I. Kondisi Kebahasaan… A. Bahasa Indonesia 1. Kedudukan…*
-- **Catatan:** (1) tidak dipakai pada angka/huruf yang sudah bertanda
-  kurung dalam perincian (*1) … a) … b)*). (2) tidak dipakai di belakang
-  angka terakhir penomoran deret digital dalam judul tabel/bagan/grafik/
-  gambar (*Tabel 1.1*, *Bagan 2.1*, *Gambar 1*).
-- Memisahkan **jam, menit, detik**: *pukul 01.35.20, 00.20.30 jam*.
-- Dalam **daftar pustaka**, di antara nama penulis, tahun, judul (yang
-  tidak berakhir tanda tanya/seru), dan tempat terbit: *Moeliono, Anton M.
-  1989. Kembara Bahasa. Jakarta: Gramedia.*
-- Memisahkan **bilangan ribuan atau kelipatannya yang menunjukkan jumlah**:
-  *lebih dari 13.000 pulau, 7.000.000 orang, Rp225.000.000.000,00*.
-  **Catatan:** tidak dipakai untuk bilangan ribuan yang **tidak**
-  menunjukkan jumlah: *tahun 1956, halaman 1305, nomor rekening
-  0015645678*. Juga tidak dipakai pada akhir judul kepala karangan,
-  ilustrasi, atau tabel.
-- Tidak dipakai di belakang **alamat penerima/pengirim surat** dan
-  **tanggal surat**.
-
-### Tanda Koma
-
-- Di antara **unsur pemerincian/pembilangan**: *Telepon seluler, komputer,
-  atau internet…*
-- Sebelum **kata penghubung setara** dalam kalimat majemuk: *tetapi,
-  melainkan, sedangkan* — *Saya ingin membeli kamera, tetapi uang saya
-  belum cukup.*
-- Memisahkan **anak kalimat yang mendahului induk kalimat**: *Kalau
-  diundang, saya akan datang.* **Catatan:** koma tidak dipakai jika induk
-  mendahului anak: *Saya akan datang kalau diundang.*
-- Di belakang **kata/ungkapan penghubung antarkalimat**: *oleh karena itu,
-  jadi, dengan demikian, sehubungan dengan itu, meskipun demikian.*
-- Sebelum dan/atau sesudah **kata seru** (*o, ya, wah, aduh, hai*) dan
-  **kata sapaan** (*Bu, Dik, Nak*): *O, begitu? Hati-hati, ya!*
-- Memisahkan **petikan langsung** dari bagian lain kalimat. **Catatan:**
-  koma **tidak** dipakai untuk memisahkan petikan berupa kalimat tanya,
-  perintah, atau seru dari bagian berikutnya: *"Di mana Saudara tinggal?"
-  tanya Pak Lurah.*
-- Di antara **nama orang dan singkatan gelar akademis** yang mengikutinya
-  (untuk membedakan dari singkatan nama diri/keluarga/marga): *B.
-  Ratulangi, S.E.* — bandingkan *Siti Khadijah, M.A.* vs *Siti Khadijah
-  M.A. (Mas Agung)*.
-- Dapat dipakai di belakang **keterangan pada awal kalimat** untuk
-  menghindari salah baca: *Dalam pengembangan bahasa, kita dapat
-  memanfaatkan bahasa daerah.*
-
-### Tanda Titik Koma
-
-- Pengganti kata penghubung untuk memisahkan **kalimat setara** dalam
-  kalimat majemuk: *Hari sudah malam; anak-anak masih membaca buku.*
-- Pada akhir **perincian berupa klausa**: *…adalah (1) berkewarganegaraan
-  Indonesia; (2) berijazah sarjana S-1; …*
-- Memisahkan **bagian pemerincian dalam kalimat yang sudah memakai koma**:
-  *Ibu membeli buku, pensil, dan tinta; baju, celana, dan kaus; pisang,
-  apel, dan jeruk.*
-
-### Tanda Titik Dua
-
-- Pada akhir **pernyataan lengkap yang diikuti pemerincian/penjelasan**:
-  *Mereka memerlukan perabot rumah tangga: kursi, meja, dan lemari.*
-- **Tidak dipakai** jika perincian jadi pelengkap yang mengakhiri
-  pernyataan: *Kita memerlukan kursi, meja, dan lemari.*
-- Sesudah **kata yang memerlukan pemerian** (daftar jabatan/narasumber:
-  *Ketua: Ahmad Wijaya…*).
-- Dalam **naskah drama**, sesudah kata pelaku percakapan: *Ibu: "Bawa
-  koper ini, Nak!"*
-- Di antara: (a) jilid/nomor dan halaman, (b) surah dan ayat, (c) judul
-  dan anak judul, (d) nama kota dan penerbit dalam daftar pustaka.
-
-### Tanda Hubung
-
-- Menandai bagian kata **terpenggal oleh pergantian baris**: *ca-ra,
-  rum-put*.
-- Menyambung **unsur kata ulang**: *anak-anak, berulang-ulang*.
-- Menyambung **tanggal-bulan-tahun** angka dan **huruf dalam kata yang
-  dieja satu-satu**: *11-11-2013, p-a-n-i-t-a*.
-- Merangkai **unsur bahasa Indonesia dengan unsur daerah/asing**:
-  *di-sowan-i, ber-pariban, di-back up, me-recall, pen-tackle-an*.
-- Memperjelas hubungan bagian kata/ungkapan: *ber-evolusi, meng-ukur,
-  dua-puluh-lima ribuan (25 × 1.000), 23/25, mesin hitung-tangan*.
-  Bandingkan: *be-revolusi, me-ngukur, dua-puluh lima-ribuan (20 × 5.000),
-  mesin-hitung tangan*.
-- **Catatan:** tidak dipakai di antara huruf dan angka jika angka
-  melambangkan jumlah huruf: *BNP2TKI, LP3I, P3K*.
-
-### Tanda Pisah (—)
-
-- Membatasi **penyisipan kata/kalimat penjelas** di luar bangun kalimat:
-  *Kemerdekaan bangsa itu — saya yakin akan tercapai — diperjuangkan…*
-- Menegaskan **keterangan aposisi/keterangan lain**: *Soekarno-Hatta —
-  Proklamator Kemerdekaan RI — diabadikan…*
-- Di antara dua bilangan, tanggal, atau tempat yang berarti **'sampai
-  dengan'/'sampai ke'**: *Tahun 2010—2013, Tanggal 5—10 April 2013,
-  Jakarta—Bandung*.
-
-### Tanda Tanya
-
-- Pada akhir **kalimat tanya**: *Kapan Hari Pendidikan Nasional diperingati?*
-- Di dalam **tanda kurung** untuk bagian kalimat yang disangsikan/kebenarannya
-  kurang dapat dibuktikan: *tahun 1961 (?), 740 (?) bahasa daerah*.
-
-### Tanda Seru
-
-- Mengakhiri **seruan atau perintah** yang menggambarkan kesungguhan,
-  ketidakpercayaan, atau emosi kuat: *Alangkah indahnya taman laut di
-  Bunaken! / Bayarlah pajak tepat pada waktunya! / Masa! / Merdeka!*
-
-### Tanda Elipsis (…)
-
-- Menunjukkan **bagian yang dihilangkan** dalam kalimat/kutipan:
-  *Penyebab kemerosotan … akan diteliti lebih lanjut.*
-- Menulis **ujaran yang tidak selesai** dalam dialog: *"Menurut saya …
-  seperti … bagaimana, Bu?"*
-- **Catatan:** elipsis didahului dan diikuti spasi; elipsis pada akhir
-  kalimat diikuti tanda titik (jumlah titik empat buah).
-
-### Tanda Petik ("…)
-
-- Mengapit **petikan langsung** dari pembicaraan, naskah, atau bahan
-  tertulis: *"Merdeka atau mati!" seru Bung Tomo…*
-- Mengapit **judul sajak, lagu, film, sinetron, artikel, naskah, atau bab
-  buku** yang dipakai dalam kalimat: *Sajak "Pahlawanku"…, lagu "Maju Tak
-  Gentar"…*
-- Mengapit **istilah ilmiah yang kurang dikenal atau kata bermakna
-  khusus**: *“Tetikus” komputer ini sudah tidak berfungsi. / Dilarang
-  memberikan “amplop” kepada petugas!*
-
-### Tanda Petik Tunggal ('…')
-
-- Mengapit **petikan di dalam petikan lain**: *"Kudengar teriak anakku,
-  'Ibu, Bapak pulang!', …"*
-- Mengapit **makna, terjemahan, atau penjelasan** kata/ungkapan:
-  *tergugat 'yang digugat', retina 'dinding mata sebelah dalam', noken
-  'tas khas Papua', tadulako 'panglima'*.
-
-### Tanda Kurung (…)
-
-- Mengapit **tambahan keterangan/penjelas**: *Dia memperpanjang surat izin
-  mengemudi (SIM).*
-- Mengapit keterangan yang **bukan bagian utama kalimat**: *Sajak Tranggono
-  yang berjudul "Ubud" (nama tempat yang terkenal di Bali)…*
-- Mengapit huruf/kata yang **keberadaannya di teks dapat dimunculkan atau
-  dihilangkan**: *menaiki (bus) Transjakarta, dari (Kota) Padang.*
-- Mengapit huruf/angka sebagai **penanda pemerincian**:
-  *(a) … (b) … (c)*; *(1) … (2) … (3)*.
-
-### Tanda Kurung Siku ([…])
-
-- Mengapit huruf/kata/kelompok kata sebagai **koreksi atau tambahan atas
-  kesalahan/kekurangan naskah orang lain**: *Sang Sapurba men[d]engar…,
-  sesuai [dengan] kaidah…, Ulang tahun [Proklamasi Kemerdekaan] RI…*
-- Mengapit **keterangan dalam kalimat penel** yang ada di dalam tanda
-  kurung: *(perbedaannya dibicarakan di dalam Bab II [lihat halaman
-  35-38])…*
-
-### Tanda Garis Miring (/)
-
-- Dalam **nomor surat, nomor pada alamat, penandaan masa tahun takwim**:
-  *7/PK/II/2013, Jalan Kramat III/10, 2012/2013*.
-- Pengganti kata **dan, atau, serta, setiap**: *mahasiswa/mahasiswi,
-  darat/laut, buku dan/atau majalah, Rp1.500,00/lembar*.
-- Mengapit **koreksi/pengurangan** atas kesalahan/kelebihan naskah orang
-  lain: *Pengantar Ling/g/ustik, Asmara/n/dana, menyelesaikan /h/ utangnya*.
-
-### Tanda Penyingkat / Apostrof (')
-
-- Menunjukkan **penghilangan bagian kata atau bagian angka tahun** dalam
-  konteks tertentu: *Dia 'kan kusurati ('kan = akan), Mereka sudah datang,
-  'kan? ('kan = bukan), Malam 'lah tiba ('lah = telah), 5-2-'13
-  ('13 = 2013)*.
-
-## Recall Quiz
+Nama file: `catatan/pertemuan-03-pedoman-eyd-ejaan.md`
+
+## 1. Pengantar: Apa Itu Ejaan?
+
+**Ejaan** adalah aturan yang mengatur cara melambangkan bunyi bahasa ke dalam tulisan, termasuk penggunaan huruf, penulisan kata, dan penggunaan tanda baca.
+
+Sederhananya, ejaan membantu kita menulis bahasa Indonesia secara konsisten agar tulisan mudah dibaca dan tidak menimbulkan salah pengertian.
+
+Contoh:
+
+| Penulisan                                | Keterangan                                          |
+| ---------------------------------------- | --------------------------------------------------- |
+| Saya belajar di rumah.                   | Benar                                               |
+| saya belajar dirumah                     | Salah dalam penggunaan huruf kapital dan kata depan |
+| Ibu membeli buku, pensil, dan penggaris. | Benar                                               |
+| Ibu membeli buku pensil dan penggaris    | Kurang tepat karena tanda koma tidak digunakan      |
+
+### Ruang lingkup EYD
+
+Pedoman EYD mengatur beberapa aspek utama:
+
+1. **Penggunaan huruf:** mengatur huruf kapital, huruf miring, huruf tebal, dan sebagainya.
+2. **Penulisan kata:** mengatur kata dasar, kata berimbuhan, kata ulang, kata depan, dan sebagainya.
+3. **Penggunaan tanda baca:** mengatur tanda titik, koma, tanda tanya, dan tanda lainnya.
+4. **Penulisan unsur serapan:** mengatur penyesuaian kata yang berasal dari bahasa asing atau bahasa daerah.
+
+Materi ini berfokus pada tiga bagian pertama sesuai daftar materi pertemuan.
+
+## 2. Penulisan Huruf
+
+Penulisan huruf merupakan aturan penggunaan huruf dalam bahasa tulis agar informasi tersampaikan secara tepat.
+
+### 2.1 Huruf Abjad
+
+Bahasa Indonesia menggunakan 26 huruf abjad, mulai dari A sampai Z.
+
+Huruf dibedakan menjadi dua bentuk:
+
+| Jenis            | Contoh     |
+| ---------------- | ---------- |
+| Huruf kapital    | A, B, C, D |
+| Huruf nonkapital | a, b, c, d |
+
+Selain itu, huruf dalam bahasa Indonesia dibedakan menjadi huruf vokal dan konsonan.
+
+- **Huruf vokal:** a, e, i, o, u.
+- **Huruf konsonan:** b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z.
+
+### 2.2 Huruf Diftong
+
+**Diftong** adalah gabungan dua huruf vokal yang melambangkan satu bunyi dalam satu suku kata.
+
+Dalam bahasa Indonesia, terdapat empat gabungan huruf vokal yang melambangkan diftong:
+
+| Diftong | Contoh kata     |
+| ------- | --------------- |
+| ai      | santai, pandai  |
+| au      | harimau, kerbau |
+| ei      | survei, geiser  |
+| oi      | amboi, boikot   |
+
+**Hal yang perlu dipahami:**
+
+Tidak semua dua huruf vokal yang berdampingan merupakan diftong. Ada gabungan vokal yang dibaca dalam suku kata berbeda.
+
+Contoh:
+
+- *santai* → san-tai (ai merupakan diftong).
+- *main* → ma-in (a dan i berada dalam suku kata berbeda).
+
+Jadi, perhatikan bunyi dan pembagian suku katanya, bukan hanya posisi huruf vokal yang berdampingan.
+
+### 2.3 Huruf Kapital
+
+**Huruf kapital** adalah huruf besar yang digunakan pada posisi atau unsur tertentu dalam penulisan.
+
+Penggunaannya bukan sekadar untuk memperindah tulisan, tetapi juga membantu menunjukkan nama diri, awal kalimat, dan unsur tertentu.
+
+Berikut beberapa aturan penting.
+
+| Penggunaan                           | Contoh benar                                            |
+| ------------------------------------ | ------------------------------------------------------- |
+| Awal kalimat                         | **M**ahasiswa sedang belajar.                           |
+| Awal petikan langsung                | Ibu berkata, "**J**angan terlambat."                    |
+| Nama orang                           | **A**hmad, **S**iti, **B**udi                           |
+| Nama agama dan kitab suci            | **I**slam, **A**l-Qur'an, **K**risten                   |
+| Nama Tuhan dan kata ganti Tuhan      | **A**llah, kepada-**N**ya                               |
+| Nama bangsa, suku, dan bahasa        | bangsa **I**ndonesia, suku **S**unda, bahasa **J**epang |
+| Nama hari dan bulan                  | **S**enin, **A**gustus                                  |
+| Nama tempat                          | **K**ota **B**andung, **G**unung **T**angkuban Parahu   |
+| Nama lembaga                         | **U**niversitas **T**eknologi **B**andung               |
+| Nama jabatan yang diikuti nama orang | **P**residen Prabowo Subianto                           |
+| Kata sapaan                          | Selamat pagi, **P**ak.                                  |
+| Kata ganti Anda                      | Apakah **A**nda sudah membaca?                          |
+
+**Perhatikan perbedaan berikut:**
+
+- Saya tinggal di **Kota Bandung**. (nama wilayah)
+- Saya tinggal di sebuah **kota**. (kata umum)
+
+Huruf kapital juga digunakan dalam judul tulisan pada setiap unsur kata, kecuali kata tugas yang tidak berada di awal judul.
+
+Contoh:
+
+- *Pedoman Umum Ejaan Bahasa Indonesia*
+- *Belajar Bahasa Indonesia dengan Baik dan Benar*
+
+Kata *dengan* dan *dan* tidak diawali huruf kapital karena merupakan kata tugas yang berada di tengah judul.
+
+### 2.4 Huruf Miring
+
+**Huruf miring** digunakan untuk memberikan penanda khusus pada kata atau kelompok kata tertentu.
+
+Ada beberapa fungsi utama:
+
+**A. Menuliskan judul buku, majalah, atau surat kabar**
+
+Contoh:
+
+- Saya sedang membaca buku *Laskar Pelangi*.
+- Artikel tersebut dimuat dalam majalah *Tempo*.
+
+**B. Menegaskan atau mengkhususkan bagian tulisan**
+
+Contoh:
+
+- Kata *tidak* dalam kalimat tersebut menunjukkan penolakan.
+- Huruf pertama kata *Indonesia* adalah I.
+
+**C. Menuliskan kata atau ungkapan asing yang belum diserap ke dalam bahasa Indonesia**
+
+Contoh:
+
+- Mahasiswa harus memiliki *soft skills* yang baik.
+- Istilah *deadline* sering digunakan dalam dunia kerja.
+
+Catatan: Jika kata asing sudah menjadi kata serapan baku, penulisannya tidak perlu dimiringkan.
+
+Contoh:
+
+- *software* → perangkat lunak (jika memakai istilah bahasa Indonesia).
+- sistem, komputer, dan teknologi merupakan kata yang telah lazim diserap dan ditulis biasa.
+
+### 2.5 Huruf Tebal
+
+**Huruf tebal** digunakan untuk memberikan penegasan atau menunjukkan bagian tulisan yang memiliki kedudukan khusus.
+
+Fungsi utamanya:
+
+1. Menegaskan bagian tulisan yang sudah ditulis miring.
+2. Menegaskan bagian karangan seperti judul bab atau subbab.
+
+Contoh:
+
+- **BAB I PENDAHULUAN**
+- **1.1 Latar Belakang**
+- Dalam pembahasan ini, *bahasa* merupakan **alat komunikasi utama** manusia.
+
+Dalam dokumen, huruf tebal juga sering digunakan pada judul, subjudul, dan istilah penting agar pembaca lebih mudah menemukan informasi.
+
+## 3. Penulisan Kata
+
+Penulisan kata merupakan aturan mengenai bagaimana suatu kata ditulis, baik secara terpisah maupun digabungkan.
+
+Kesalahan dalam penulisan kata sering ditemukan dalam tugas kuliah, laporan, dan komunikasi digital.
+
+### 3.1 Kata Dasar
+
+**Kata dasar** adalah kata yang belum mendapatkan imbuhan atau belum mengalami proses pembentukan kata.
+
+Kata dasar ditulis sebagai satu kesatuan.
+
+Contoh:
+
+| Kata dasar | Contoh dalam kalimat        |
+| ---------- | --------------------------- |
+| makan      | Saya sedang makan.          |
+| minum      | Adik minum air.             |
+| belajar    | Kami belajar bersama.       |
+| rumah      | Rumah itu besar.            |
+| tulis      | Saya akan tulis jawabannya. |
+
+Contoh kesalahan:
+
+- Salah: `di tulis`
+- Benar: `ditulis`
+
+Mengapa? Karena *ditulis* berasal dari kata dasar *tulis* yang mendapat awalan *di-* sebagai imbuhan.
+
+### 3.2 Kata Berimbuhan
+
+**Kata berimbuhan** adalah kata dasar yang mendapatkan tambahan berupa awalan, sisipan, akhiran, atau gabungan imbuhan.
+
+Jenis imbuhan:
+
+| Jenis            | Pengertian                | Contoh                        |
+| ---------------- | ------------------------- | ----------------------------- |
+| Awalan (prefiks) | Imbuhan di awal kata      | me- + baca = membaca          |
+| Akhiran (sufiks) | Imbuhan di akhir kata     | makan + -an = makanan         |
+| Sisipan (infiks) | Imbuhan di tengah kata    | gigi + -er- = gerigi          |
+| Gabungan imbuhan | Imbuhan di awal dan akhir | ke- + indah + -an = keindahan |
+
+**Aturan utama:** imbuhan ditulis serangkai dengan kata dasarnya.
+
+Contoh:
+
+- membaca
+- berjalan
+- diberikan
+- makanan
+- pendidikan
+- memperbaiki
+
+Contoh kesalahan:
+
+| Salah      | Benar     |
+| ---------- | --------- |
+| me nulis   | menulis   |
+| di ambil   | diambil   |
+| ke indahan | keindahan |
+| ber jalan  | berjalan  |
+
+### 3.3 Bentuk Terikat
+
+**Bentuk terikat** adalah unsur kata yang tidak dapat berdiri sendiri dan harus digabungkan dengan kata lain.
+
+Bentuk terikat biasanya memiliki makna tertentu dan digunakan untuk membentuk istilah atau kata baru.
+
+Contoh bentuk terikat:
+
+| Bentuk terikat | Contoh        |
+| -------------- | ------------- |
+| antar-         | antarkampus   |
+| non-           | nonaktif      |
+| pra-           | prasejarah    |
+| pasca-         | pascasarjana  |
+| multi-         | multinasional |
+| anti-          | antikorupsi   |
+| sub-           | subsektor     |
+| semi-          | semifinal     |
+
+**Aturan penulisan:**
+
+- Bentuk terikat pada umumnya ditulis serangkai dengan kata yang mengikutinya.
+- Jika diikuti kata yang diawali huruf kapital, digunakan tanda hubung.
+
+Contoh:
+
+- nonaktif
+- antarkota
+- non-Indonesia
+- pro-Barat
+
+**Perhatian khusus: bentuk maha-**
+
+Dalam EYD V, bentuk *maha-* yang merujuk pada nama atau sifat Tuhan ditulis terpisah dan menggunakan huruf kapital pada unsur yang mengikutinya.
+
+Contoh:
+
+- Yang Maha Esa
+- Tuhan Yang Maha Pengasih
+- Tuhan Yang Maha Mengetahui
+
+Namun, bentuk yang tidak merujuk pada sifat Tuhan dapat ditulis serangkai sesuai kaidahnya, misalnya *mahasiswa* dan *mahabesar* dalam penggunaan umum.
+
+### 3.4 Bentuk Ulang
+
+**Bentuk ulang** adalah kata yang mengalami pengulangan seluruh atau sebagian bentuk dasarnya.
+
+Bentuk ulang umumnya ditulis menggunakan tanda hubung (-).
+
+Contoh:
+
+| Bentuk dasar | Bentuk ulang   |
+| ------------ | -------------- |
+| buku         | buku-buku      |
+| anak         | anak-anak      |
+| rumah        | rumah-rumah    |
+| berjalan     | berjalan-jalan |
+| sayur        | sayur-mayur    |
+| lauk         | lauk-pauk      |
+
+Bentuk ulang dapat memiliki makna yang berbeda, seperti:
+
+- Menyatakan jumlah banyak: buku-buku.
+- Menyatakan kegiatan santai atau berulang: jalan-jalan.
+- Menyatakan keragaman: sayur-mayur.
+
+Contoh kesalahan:
+
+- Salah: `anak anak`
+- Benar: `anak-anak`
+
+### 3.5 Gabungan Kata (Kata Majemuk)
+
+**Gabungan kata** adalah gabungan dua kata atau lebih yang membentuk satu kesatuan makna.
+
+Pada umumnya, unsur gabungan kata ditulis terpisah.
+
+Contoh:
+
+| Gabungan kata  | Makna                      |
+| -------------- | -------------------------- |
+| rumah sakit    | Tempat pelayanan kesehatan |
+| meja tulis     | Meja untuk menulis         |
+| kerja sama     | Kegiatan bekerja bersama   |
+| tanggung jawab | Kewajiban terhadap sesuatu |
+| orang tua      | Ayah dan ibu               |
+
+**Aturan penting:**
+
+1. Gabungan kata pada umumnya ditulis terpisah.
+2. Gabungan kata yang mendapatkan awalan atau akhiran saja, ditulis terpisah dari unsur lainnya.
+3. Jika mendapat awalan dan akhiran sekaligus, gabungan kata ditulis serangkai.
+4. Gabungan kata yang sudah dianggap padu ditulis serangkai.
+
+Contoh:
+
+| Bentuk          | Penulisan |
+| --------------- | --------- |
+| garis bawah     | Terpisah  |
+| menggarisbawahi | Serangkai |
+| sebar luas      | Terpisah  |
+| menyebarluaskan | Serangkai |
+| matahari        | Serangkai |
+| olahraga        | Serangkai |
+
+**Tips:** jangan menganggap semua dua kata harus digabung. Periksa apakah bentuk tersebut merupakan gabungan kata biasa atau sudah menjadi bentuk padu menurut pedoman.
+
+### 3.6 Kata Depan
+
+**Kata depan** adalah kata yang digunakan untuk menunjukkan hubungan antara kata atau bagian kalimat, misalnya hubungan tempat, arah, dan asal.
+
+Kata depan yang sering digunakan:
+
+- di
+- ke
+- dari
+
+**Aturan utama:** kata depan ditulis terpisah dari kata yang mengikutinya.
+
+Contoh:
+
+| Kata depan | Contoh benar   |
+| ---------- | -------------- |
+| di         | di rumah       |
+| ke         | ke kampus      |
+| dari       | dari Bandung   |
+| di         | di dalam kelas |
+| ke         | ke luar kota   |
+
+Perbedaan kata depan *di* dan imbuhan *di-*:
+
+| Kata depan di      | Imbuhan di-                |
+| ------------------ | -------------------------- |
+| Ditulis terpisah   | Ditulis serangkai          |
+| Menunjukkan tempat | Membentuk kata kerja pasif |
+| di rumah           | dibaca                     |
+| di kampus          | ditulis                    |
+| di sekolah         | dikerjakan                 |
+
+Contoh kalimat:
+
+- Saya belajar **di kampus**.
+- Tugas saya **dikerjakan** tadi malam.
+
+Cara mudah membedakan:
+
+Jika *di* menunjukkan tempat atau lokasi, biasanya ditulis terpisah. Jika membentuk kata kerja pasif, ditulis serangkai.
+
+### 3.7 Partikel
+
+**Partikel** adalah unsur bahasa yang memberikan fungsi tertentu pada kata atau kalimat, misalnya penegasan, pertanyaan, atau pembatasan.
+
+Beberapa partikel yang perlu diperhatikan:
+
+| Partikel | Aturan                                                   | Contoh                    |
+| -------- | -------------------------------------------------------- | ------------------------- |
+| -lah     | Ditulis serangkai                                        | Bacalah buku itu!         |
+| -kah     | Ditulis serangkai                                        | Apakah kamu sudah makan?  |
+| -tah     | Ditulis serangkai                                        | Apatah gunanya semua itu? |
+| pun      | Umumnya ditulis terpisah                                 | Saya pun setuju.          |
+| per      | Ditulis terpisah dalam arti 'demi', 'tiap', atau 'mulai' | satu per satu, per orang  |
+
+**Pengecualian partikel pun**
+
+Ada beberapa bentuk *pun* yang ditulis serangkai karena sudah menjadi kata penghubung.
+
+Contoh:
+
+- walaupun
+- meskipun
+- sekalipun
+- bagaimanapun
+- adapun
+- kendatipun
+
+Perhatikan:
+
+- Benar: Saya **pun** ingin ikut.
+- Benar: **Meskipun** hujan, mereka tetap datang.
+
+### 3.8 Singkatan dan Akronim
+
+**Singkatan** adalah bentuk pendek dari satu kata atau beberapa kata.
+
+**Akronim** adalah singkatan yang berupa gabungan huruf atau suku kata dan dilafalkan sebagai sebuah kata.
+
+Contoh singkatan:
+
+| Bentuk | Kepanjangan             |
+| ------ | ----------------------- |
+| KTP    | Kartu Tanda Penduduk    |
+| DPR    | Dewan Perwakilan Rakyat |
+| PT     | Perseroan Terbatas      |
+| dll.   | dan lain-lain           |
+| hlm.   | halaman                 |
+| Dr.    | Doktor                  |
+| S.H.   | Sarjana Hukum           |
+
+Contoh akronim:
+
+| Akronim  | Kepanjangan                            |
+| -------- | -------------------------------------- |
+| Bappenas | Badan Perencanaan Pembangunan Nasional |
+| Bulog    | Badan Urusan Logistik                  |
+| pemilu   | pemilihan umum                         |
+| rudal    | peluru kendali                         |
+
+**Perbedaan penting:**
+
+- Singkatan umumnya dibaca berdasarkan huruf atau bentuk singkatannya.
+- Akronim dibaca sebagai satu kata.
+
+Aturan penulisan singkatan bergantung pada jenisnya. Misalnya, singkatan nama lembaga seperti **DPR** dan **PT** tidak menggunakan tanda titik, sedangkan singkatan gelar seperti **S.H.** menggunakan tanda titik.
+
+### 3.9 Angka dan Bilangan
+
+**Angka** adalah lambang atau simbol yang digunakan untuk menyatakan bilangan.
+
+Dalam penulisan bahasa Indonesia, angka yang sering digunakan adalah angka Arab (0–9) dan angka Romawi (I, II, III, dan seterusnya).
+
+Contoh:
+
+- 1, 2, 3, 4, 5
+- I, II, III, IV, V
+
+**Penggunaan angka:**
+
+Angka dapat digunakan untuk menyatakan:
+
+1. Jumlah atau ukuran.
+2. Waktu.
+3. Tanggal.
+4. Nomor.
+5. Nilai atau persentase.
+6. Urutan.
+
+Contoh:
+
+- Saya memiliki 3 buku.
+- Kuliah dimulai pukul 08.00.
+- Indonesia merdeka pada tahun 1945.
+- Bab II membahas teori.
+- Nilai mahasiswa mencapai 90%.
+
+**Bilangan yang dapat dinyatakan dengan satu atau dua kata** pada umumnya ditulis dengan huruf jika tidak digunakan dalam perincian atau pemaparan data.
+
+Contoh:
+
+- Saya memiliki **dua** saudara.
+- Ada **lima** mahasiswa di kelas.
+- Mereka membeli **sepuluh** buku.
+
+Namun, jika bilangan digunakan secara berurutan dalam perincian, angka dapat digunakan.
+
+Contoh:
+
+\- Dari 50 peserta, 25 orang mengikuti seminar, 15 orang mengikuti pelatihan, dan 10 orang mengikuti diskusi.
+
+### 3.10 Penulisan Bilangan dengan Huruf
+
+Bilangan dapat ditulis menggunakan angka atau huruf sesuai konteks penggunaannya.
+
+Contoh:
+
+| Angka     | Penulisan dengan huruf   |
+| --------- | ------------------------ |
+| 1         | satu                     |
+| 10        | sepuluh                  |
+| 25        | dua puluh lima           |
+| 100       | seratus                  |
+| 1.000     | seribu                   |
+| 1.500     | seribu lima ratus        |
+| 2.500.000 | dua juta lima ratus ribu |
+
+**Aturan penting:**
+
+1. Bilangan yang dapat dinyatakan dengan satu atau dua kata umumnya ditulis dengan huruf.
+2. Bilangan pada awal kalimat ditulis dengan huruf. Jika terlalu panjang, susunan kalimat dapat diubah.
+3. Angka digunakan untuk menyatakan ukuran, nilai, jumlah dalam perincian, atau data tertentu.
+4. Bilangan besar dapat ditulis sebagian dengan huruf agar lebih mudah dibaca.
+
+Contoh:
+
+- Benar: **Lima puluh** mahasiswa mengikuti seminar.
+- Kurang tepat: **50** mahasiswa mengikuti seminar. (Jika ditempatkan di awal kalimat, sebaiknya ditulis dengan huruf.)
+- Benar: Seminar tersebut diikuti oleh 50 mahasiswa.
+- Benar: Perusahaan memperoleh keuntungan sebesar 250 juta rupiah.
+
+## 4. Penggunaan Tanda Baca
+
+Tanda baca adalah simbol dalam tulisan yang berfungsi mengatur struktur kalimat, memisahkan bagian kalimat, dan membantu pembaca memahami maksud penulis.
+
+Tanpa tanda baca yang tepat, sebuah kalimat dapat memiliki makna yang berbeda.
+
+Contoh:
+
+- Ayo makan, teman!
+- Ayo makan teman!
+
+Kalimat pertama merupakan ajakan untuk makan bersama teman. Kalimat kedua memiliki makna yang sangat berbeda karena tidak menggunakan koma.
+
+Berikut tanda baca yang perlu dipahami.
+
+### 4.1 Tanda Titik (.)
+
+Tanda titik digunakan untuk mengakhiri kalimat pernyataan.
+
+Fungsi lainnya:
+
+1. Mengakhiri kalimat berita.
+2. Digunakan pada akhir singkatan tertentu.
+3. Memisahkan angka pada penulisan waktu tertentu dan bilangan ribuan dalam konteks yang sesuai.
+
+Contoh:
+
+- Saya sedang belajar bahasa Indonesia.
+- Mereka pergi ke kampus.
+- Pukul 08.30.
+- Jumlah penduduk mencapai 1.500 orang.
+
+**Catatan:** tanda titik tidak digunakan pada singkatan nama lembaga yang berupa huruf awal, seperti DPR dan PT.
+
+### 4.2 Tanda Koma (,)
+
+Tanda koma digunakan untuk memisahkan unsur dalam kalimat.
+
+Fungsi utama:
+
+**A. Memisahkan unsur perincian**
+
+Contoh:
+
+Saya membeli buku, pensil, penghapus, dan penggaris.
+
+**B. Memisahkan anak kalimat yang mendahului induk kalimat**
+
+Contoh:
+
+- Jika hujan turun, kami tidak jadi berangkat.
+- Karena terlambat, mahasiswa tersebut tidak mengikuti ujian.
+
+**C. Digunakan setelah kata penghubung antarkalimat**
+
+Contoh:
+
+- Oleh karena itu, kita harus belajar.
+- Namun, mereka tetap berusaha.
+- Selain itu, mahasiswa juga harus aktif.
+
+**D. Memisahkan nama dan gelar akademik**
+
+Contoh:
+
+- Budi Santoso, S.Kom.
+- Siti Aminah, M.Pd.
+
+**E. Digunakan setelah kata sapaan**
+
+Contoh:
+
+- Selamat pagi, teman-teman.
+- Terima kasih, Pak.
+
+Kesalahan umum:
+
+- Salah: Saya membeli buku pensil dan penggaris.
+- Benar: Saya membeli buku, pensil, dan penggaris.
+
+### 4.3 Tanda Titik Koma (;)
+
+Tanda titik koma digunakan untuk memisahkan bagian kalimat yang setara atau bagian perincian yang kompleks.
+
+Fungsi utamanya:
+
+1. Memisahkan dua kalimat setara yang masih berhubungan erat.
+2. Memisahkan bagian perincian yang sudah mengandung tanda koma.
+
+Contoh:
+
+- Ayah membaca koran; ibu memasak di dapur.
+- Peserta berasal dari Bandung, Jawa Barat; Jakarta, DKI Jakarta; dan Surabaya, Jawa Timur.
+
+**Perbedaan titik koma dan koma:**
+
+- Koma biasanya memisahkan unsur dalam satu rangkaian.
+- Titik koma dapat memisahkan bagian kalimat yang lebih besar dan sudah memiliki hubungan makna.
+
+### 4.4 Tanda Titik Dua (:)
+
+Tanda titik dua digunakan untuk mengawali perincian atau penjelasan yang berkaitan dengan bagian sebelumnya.
+
+Contoh:
+
+- Saya membawa tiga perlengkapan: buku, pensil, dan penghapus.
+- Ketua panitia menjelaskan: "Acara akan dimulai pukul 08.00."
+
+Tanda titik dua juga digunakan dalam penulisan naskah drama untuk memisahkan nama tokoh dengan dialognya.
+
+Contoh:
+
+- Rina: Selamat pagi, semuanya.
+- Budi: Selamat pagi.
+
+**Catatan penting:** tanda titik dua tidak digunakan jika perincian tersebut langsung menjadi pelengkap dari pernyataan yang belum lengkap.
+
+Contoh:
+
+- Kurang tepat: Saya membeli: buku, pensil, dan penghapus.
+- Benar: Saya membeli buku, pensil, dan penghapus.
+
+### 4.5 Tanda Hubung (-)
+
+Tanda hubung digunakan untuk menghubungkan unsur kata atau bagian kata.
+
+Fungsi utama:
+
+1. Menyambung unsur bentuk ulang.
+2. Menyambung bagian kata yang terpisah karena pergantian baris.
+3. Menghubungkan tanggal, bulan, dan tahun dalam penulisan tertentu.
+4. Menghubungkan unsur kata yang dianggap perlu diperjelas.
+
+Contoh:
+
+- anak-anak
+- berjalan-jalan
+- 20-11-2026
+- se-Indonesia
+- non-Indonesia
+
+**Perbedaan tanda hubung dan tanda pisah:**
+
+| Tanda hubung (-)         | Tanda pisah (—)                       |
+| ------------------------ | ------------------------------------- |
+| Menghubungkan unsur kata | Membatasi atau menyisipkan keterangan |
+| anak-anak                | Bandung—Jakarta                       |
+| se-Indonesia             | 2020—2026                             |
+| lebih kecil dan pendek   | Lebih panjang                         |
+
+### 4.6 Tanda Pisah (—)
+
+Tanda pisah digunakan untuk membatasi penyisipan keterangan atau memberikan penegasan dalam kalimat.
+
+Fungsi utama:
+
+**A. Mengapit keterangan tambahan**
+
+Contoh:
+
+\- Mahasiswa tersebut—yang berasal dari Bandung—mendapatkan beasiswa.
+
+**B. Menegaskan adanya keterangan tambahan**
+
+Contoh:
+
+\- Keberhasilan itu—hasil kerja keras seluruh tim—patut diapresiasi.
+
+**C. Menyatakan rentang atau sampai dengan**
+
+Contoh:
+
+- Kegiatan berlangsung pada pukul 08.00—12.00.
+- Periode kepengurusan 2025—2026.
+
+Ingat: tanda pisah (—) berbeda dengan tanda hubung (-).
+
+### 4.7 Tanda Tanya (?)
+
+Tanda tanya digunakan pada akhir kalimat tanya.
+
+Contoh:
+
+- Siapa nama dosen tersebut?
+- Kapan kegiatan dimulai?
+- Apakah kamu sudah mengerjakan tugas?
+
+Tanda tanya juga dapat digunakan dalam tanda kurung untuk menunjukkan bagian yang diragukan atau kurang dapat dipastikan.
+
+Contoh:
+
+\- Ia lahir pada tahun 1990 (?).
+
+### 4.8 Tanda Seru (!)
+
+Tanda seru digunakan untuk mengakhiri kalimat perintah, seruan, atau ungkapan emosi yang kuat.
+
+Contoh:
+
+- Tolong tutup pintu itu!
+- Jangan membuang sampah sembarangan!
+- Selamat atas keberhasilanmu!
+
+Tanda seru menunjukkan penekanan yang lebih kuat daripada tanda titik.
+
+### 4.9 Tanda Elipsis (…)
+
+Tanda elipsis adalah tanda baca berupa tiga titik yang digunakan untuk menunjukkan bagian kalimat atau kutipan yang dihilangkan, jeda, atau ujaran yang tidak selesai.
+
+Contoh:
+
+- Saya sebenarnya ingin mengatakan sesuatu, tetapi ...
+- Menurut laporan tersebut, "hasil penelitian menunjukkan ... adanya peningkatan."
+
+Tanda elipsis juga digunakan untuk menunjukkan bahwa pembicaraan belum selesai atau terputus.
+
+Contoh:
+
+\- Kalau memang kamu tidak setuju, ...
+
+**Catatan:** dalam penulisan resmi, gunakan tanda elipsis (…) secara konsisten dan perhatikan spasi sesuai posisi penggunaannya.
+
+### 4.10 Tanda Petik ("…")
+
+Tanda petik digunakan untuk mengapit petikan langsung, judul tertentu, atau istilah yang memiliki makna khusus.
+
+Contoh:
+
+**A. Mengapit petikan langsung**
+
+\- Ibu berkata, "Jangan lupa belajar."
+
+**B. Mengapit judul puisi, lagu, artikel, atau bab buku yang digunakan dalam kalimat**
+
+- Saya membaca artikel "Pentingnya Literasi Digital".
+- Lagu "Indonesia Raya" merupakan lagu kebangsaan Indonesia.
+
+**C. Mengapit istilah yang memiliki arti khusus atau kurang dikenal**
+
+\- Istilah "vibe coding" sering digunakan dalam pembahasan pemrograman berbantuan AI.
+
+### 4.11 Tanda Petik Tunggal ('…')
+
+Tanda petik tunggal digunakan untuk mengapit petikan yang terdapat di dalam petikan lain atau mengapit makna, terjemahan, maupun penjelasan kata.
+
+Contoh:
+
+**A. Petikan di dalam petikan**
+
+\- Ibu berkata, "Ayah berpesan, 'Jangan pulang terlalu malam.'"
+
+**B. Mengapit makna atau penjelasan kata**
+
+\- Kata *offline* berarti 'tidak terhubung ke jaringan'.
+
+Perhatikan bahwa tanda petik tunggal berbeda dari apostrof. Keduanya memiliki bentuk yang mirip, tetapi fungsi yang berbeda.
+
+### 4.12 Tanda Kurung ((…))
+
+Tanda kurung digunakan untuk mengapit informasi tambahan atau penjelasan yang bukan bagian utama kalimat.
+
+Contoh:
+
+- Universitas Teknologi Bandung (UTB) memiliki berbagai program studi.
+- Penelitian dilakukan pada tahun 2025 (semester ganjil).
+- Bahasa Indonesia memiliki kedudukan sebagai bahasa negara (berdasarkan UUD 1945).
+
+Fungsi lainnya adalah mengapit keterangan tambahan dalam sebuah kalimat.
+
+### 4.13 Tanda Kurung Siku ([…])
+
+Tanda kurung siku digunakan untuk mengapit tambahan atau koreksi dalam kalimat yang sudah berada di dalam tanda kurung, atau untuk mengapit keterangan dalam kutipan yang disunting.
+
+Contoh:
+
+- Persamaan kedua proses tersebut (perbedaannya dibicarakan dalam Bab II [lihat halaman 25–30]) perlu dipahami.
+- "Ia [pembicara] mengatakan bahwa kegiatan akan dimulai besok."
+
+**Perbedaan tanda kurung dan kurung siku:**
+
+- Kurung `( )` digunakan untuk keterangan tambahan biasa.
+- Kurung siku `[ ]` sering digunakan untuk tambahan atau koreksi dalam kutipan maupun keterangan yang sudah berada dalam kurung.
+
+### 4.14 Tanda Garis Miring (/)
+
+Tanda garis miring digunakan untuk beberapa keperluan penulisan.
+
+Fungsi utama:
+
+1. Menyatakan nomor surat atau nomor tertentu.
+2. Menyatakan pilihan atau alternatif.
+3. Menyatakan tahun ajaran atau masa tertentu.
+4. Menggantikan kata *dan*, *atau*, atau *setiap* dalam konteks tertentu.
+
+Contoh:
+
+- Nomor: 05/OS/2026.
+- Tahun ajaran 2026/2027.
+- Mahasiswa/lulusan.
+- Harga Rp10.000,00/pcs.
+
+Tanda garis miring juga dapat digunakan dalam alamat atau penomoran tertentu sesuai kebutuhan.
+
+### 4.15 Tanda Penyingkat / Apostrof (')
+
+**Apostrof** digunakan untuk menunjukkan penghilangan bagian kata atau bagian angka dalam penulisan tertentu.
+
+Contoh:
+
+- 'kan (bentuk singkat dari *akan*).
+- 17 Agustus '45 (bentuk singkat dari 1945).
+
+Apostrof tidak boleh digunakan sembarangan untuk menggantikan tanda petik atau tanda baca lainnya.
+
+## 5. Perbandingan Tanda Baca yang Sering Tertukar
+
+Beberapa tanda baca memiliki bentuk yang mirip, tetapi fungsi berbeda. Bagian ini penting karena sering menjadi sumber kesalahan penulisan.
+
+| Tanda | Nama       | Fungsi utama                                             | Contoh                            |
+| ----- | ---------- | -------------------------------------------------------- | --------------------------------- |
+| `-`   | Hubung     | Menghubungkan unsur kata                                 | anak-anak                         |
+| `—`   | Pisah      | Menyisipkan keterangan atau rentang                      | 2020—2026                         |
+| `,`   | Koma       | Memisahkan unsur kalimat                                 | buku, pensil, dan tas             |
+| `;`   | Titik koma | Memisahkan bagian kalimat setara                         | Ia belajar; adiknya bermain.      |
+| `:`   | Titik dua  | Mengawali perincian                                      | Ada tiga barang: buku, pena, tas. |
+| `.`   | Titik      | Mengakhiri pernyataan                                    | Saya belajar.                     |
+| `…`   | Elipsis    | Menunjukkan bagian yang dihilangkan atau ujaran terputus | Saya ingin ...                    |
+
+**Contoh kesalahan yang perlu dihindari:**
+
+| Salah                                                         | Benar                         |
+| ------------------------------------------------------------- | ----------------------------- |
+| anak anak                                                     | anak-anak                     |
+| 2020-2026 (untuk rentang yang dimaksudkan dengan tanda pisah) | 2020—2026                     |
+| Saya membeli: buku dan pensil.                                | Saya membeli buku dan pensil. |
+| Apakah kamu datang.                                           | Apakah kamu datang?           |
+| Saya tinggal dirumah.                                         | Saya tinggal di rumah.        |
+
+## 6. Rangkuman Materi
+
+Secara umum, materi EYD dapat dibagi menjadi tiga bagian besar sesuai pembahasan kita.
+
+**Pedoman EYD**
+
+**1. Penulisan Huruf**
+
+Mengatur penggunaan huruf kapital, huruf miring, huruf tebal, serta gabungan huruf vokal dan konsonan.
+
+**2. Penulisan Kata**
+
+Mengatur kata dasar, kata berimbuhan, bentuk terikat, bentuk ulang, gabungan kata, kata depan, partikel, singkatan, dan bilangan.
+
+**3. Penggunaan Tanda Baca**
+
+Mengatur penggunaan tanda titik, koma, titik koma, titik dua, hubung, pisah, tanya, seru, elipsis, petik, kurung, garis miring, dan apostrof.
+
+### Hal yang paling perlu diingat
+
+1. Kata depan *di*, *ke*, dan *dari* ditulis terpisah.
+2. Imbuhan *di-* ditulis serangkai dengan kata dasarnya.
+3. Bentuk ulang ditulis menggunakan tanda hubung.
+4. Kata asing yang belum diserap ditulis miring.
+5. Huruf kapital digunakan sesuai aturan, bukan untuk semua kata penting.
+6. Tanda hubung (-) dan tanda pisah (—) memiliki fungsi berbeda.
+7. Tanda koma membantu memperjelas hubungan antarbagi­an kalimat.
+8. Penulisan singkatan dan akronim mengikuti jenis dan bentuknya.
+
+## 7. Latihan Soal
+
+Coba kerjakan terlebih dahulu tanpa melihat kunci jawaban.
 
 ```quiz
-Q: Diftong yang termasuk pedoman EYD P3?
-+ ai, au, ei, oi
-- ie, ue, aa
-- an, en, in
-- hanya ai dan au
-> Empat diftong EYD: ai (kaisar), au (raum), ei (pionir), oi (koinsiden). Slide P3 juga mencatat penambahan diftong /ei/.
+Q: Manakah penulisan kata depan yang benar?
+- Dirumah
++ Di rumah
+- DiRumah
+- Di-rumah
+> Kata depan di- ditulis terpisah: di rumah.
 
-Q: "Nama ilmiah buah manggis ialah Garcinia mangostana" — kata Garcinia mangostana ditulis…
-+ Huruf miring
-- Huruf tebal
-- Huruf kapital
-- Huruf biasa
-> Nama ilmiah / kata asing ditulis miring. Tapi nama diri (orang, lembaga, organisasi) bahasa asing TIDAK miring.
+Q: Manakah penulisan imbuhan di- yang benar?
+- Di tulis
+- Di-tulis
++ Ditulis
+- DiTulis
+> Imbuhan di- + tulis membentuk bentuk terikat: ditulis.
 
-Q: Huruf tebal TIDAK dipakai untuk menegaskan huruf atau kata dalam kalimat. Buat tujuan itu kita pakai…
-+ Huruf miring
-- Huruf kapital
-- Tanda petik
-- Garis miring
-> PUEBI: tebal hanya buat menegaskan bagian yang sudah miring dan bagian karangan (judul, bab, subbab). Buat kata/kelompok kata → miring.
+Q: Manakah contoh penulisan bentuk ulang yang benar?
+- Anak anak
++ Anak-anak
+- Anak_anak
+- Anak/anak
+> Bentuk ulang ditulis dengan tanda hubung: anak-anak.
 
-Q: Penulisan mana yang BENAR sesuai slide P3?
-+ Meskipun sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
-- Meskipun pun sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
-- Meski pun sibuk, dia menyelesaikan tugas.
-- Meskipun-pun sibuk, dia menyelesaikan tugas.
-> "Meskipun" = unsur kata penghubung yang mengandung pun → ditulis serangkai. Partikel pun sendiri terpisah (apa pun).
+Q: Tanda baca apa yang digunakan untuk mengakhiri kalimat tanya?
+- Titik
+- Koma
+- Tanda seru
++ Tanda tanya
+> Kalimat tanya diakhiri tanda tanya.
 
-Q: Singkatan yang terdiri atas tiga huruf atau lebih (hlm., dll., dsb.) ditulis…
-+ Diikuti tanda titik
-- Tanpa tanda titik dengan huruf kapital
-- Dengan tanda koma
-- Ditulis serangkai tanpa singkatan
-> ≥3 huruf → titik (hlm., dll., dsb.); nama lembaga/bukan nama diri → kapital tanpa titik (NKRI, PT); lambang kimia/satuan → tanpa titik (cm, kg, Rp).
+Q: Manakah penulisan singkatan lembaga yang benar?
+- P.T.
++ PT
+- P.T
+- Pt.
+> Singkatan lembaga (PT, DPR) tanpa titik; titik dipakai untuk gelar seperti S.H.
 
-Q: Bilangan pada awal kalimat ditulis dengan…
-+ Huruf — "Lima puluh siswa teladan mendapat beasiswa…"
-- Angka — "50 siswa teladan mendapat beasiswa…"
-- Angka Romawi
-- Singkatan
-> Awal kalimat wajib huruf; kalau angkanya gak bisa dinyatakan satu/dua kata, susunan kalimat diubah ("Panitia mengundang 250 orang peserta").
+Q: Manakah contoh penggunaan huruf miring yang tepat?
+- Saya membaca buku Laskar Pelangi.
++ Saya membaca buku \*Laskar Pelangi\*.
+- Saya membaca buku LASKAR PELANGI.
+- Saya membaca buku 'Laskar Pelangi'.
+> Judul buku ditulis dengan huruf miring.
 
-Q: Tanda titik DIPAKAI untuk memisahkan…
-+ Bilangan ribuan yang menunjukkan jumlah (13.000 pulau) dan jam-menit-detik (01.35.20)
-- Anak kalimat dari induk kalimat
-- Pemerincian setelah pernyataan lengkap
-- Petikan langsung dari bagian lain kalimat
-> Koma = anak kalimat & pemerincian; titik dua = pernyataan + pemerincian; koma = petikan. Titik untuk jumlah ribuan/jumlah waktu/daftar pustaka.
+Q: Tanda baca yang digunakan untuk mengawali perincian adalah ...
+- Titik
++ Titik dua
+- Tanda tanya
+- Tanda hubung
+> Tanda titik dua dipakai untuk mengawali perincian.
 
-Q: Tanda pisah (—) antara dua tanggal seperti "5—10 April 2013" berarti…
-+ Sampai dengan
-- Sama dengan
-- Dibagi
-- Atau
-> Tanda pisah bisa juga buat penyisipan penjelas dan keterangan aposisi.
-
-Q: "Tanda petik tunggal dipakai untuk mengapit makna/penjelas kata" — contoh yang benar…
-+ noken 'tas khas Papua'
-- noken "tas khas Papua"
-- (noken tas khas Papua)
-- noken — tas khas Papua —
-> Petik tunggal untuk penjelasan makna; petik ganda untuk petikan langsung & judul.
+Q: Manakah penulisan bentuk terikat yang benar?
+- Antar kota
+- Antar-kota
++ Antarkota
+- Antar.Kota
+> Bentuk terikat: antarkota (digabung tanpa spasi maupun tanda hubung).
 ```
+### 8. Referensi Belajar
 
----
+Sumber utama untuk mempelajari aturan ejaan secara lebih mendalam:
 
-## Sources
-
-Konten utama (semua pedoman penulisan huruf, kata, singkatan, angka, tanda
-baca) berasal dari slide P3 dosen — tanpa sitasi eksternal. Rujukan
-pendukung yang sudah aku validasi:
-
-- [1] Buku Seri Penyuluhan Bahasa Indonesia: Ejaan (2025) — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan2.pdf
-- [2] Buku Seri Penyuluhan Bahasa Indonesia: Ejaan (edisi revisi 2019) — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Buku_Seri_Penyuluhan_2019_Ejaan.pdf
-- [3] Salinan Permendikbud No. 50 Tahun 2015 (PUEBI) — https://badanbahasa.kemendikdasmen.go.id/berita-detail/1847/salinan-peraturan-menteri-pendidikan-dan-kebudayaan-nomor-50-tahun-2015
-- [4] Buku Seri Penyuluhan Bahasa Indonesia: Bentuk dan Pilihan Kata — https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Bentuk_dan_Pilihan_Kata1.pdf
-- [5] Perpres No. 63 Tahun 2019 tentang Penggunaan Bahasa Indonesia — https://peraturan.bpk.go.id/Details/121661/perpres-no-63-tahun-2019
+1. **EYD Edisi V — Badan Pengembangan dan Pembinaan Bahasa.** Pedoman resmi penggunaan ejaan bahasa Indonesia. [Buka situs resmi EYD V](https://ejaan.kemendikdasmen.go.id/eyd/kata-dasar/eyd/eyd/).
+2. **Seri Penyuluhan Bahasa Indonesia: Ejaan.** Materi penjelasan dan penerapan kaidah ejaan. [Baca materi ejaan](https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Seri_Penyuluhan_Bahasa_Indonesia_Ejaan1.pdf).
+3. **Keputusan Kepala Badan Pengembangan dan Pembinaan Bahasa Nomor 0424/I/BS.00.01/2022.** Dasar penetapan EYD Edisi V. [Lihat informasi keputusan](https://en.wikipedia.org/wiki/Indonesian_orthography).

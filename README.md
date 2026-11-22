@@ -66,6 +66,27 @@ Format quiz (markdown valid, tetap kebaca kalau dibuka di editor lain):
 Dapat juga: heading auto-jadi TOC, `> [!NOTE]` / `> [!TIP]` / `> [!WARN]`
 jadi alert gaya GitHub, tabel, kode, GFM.
 
+### Materi vs sumber quiz
+
+Tab **Materi** (di halaman matkul + sidebar) cuma nampilin halaman yang
+slug-nya `pertemuan-*` / `transkrip-pertemuan-*`. File lain (`recall-*`,
+`strategi-*`, dst) tetap di-build & bisa dibuka via URL, tapi gak masuk daftar
+Materi — quiz-nya justru diambil masuk pool **Kuiz**. Klasifikasinya ada di
+`build.py` (`MATERI_RE`), jadi otomatis buat matkul baru.
+
+Tab **Kuiz** nggabungin semua blok `` ```quiz `` dari semua halaman satu
+matkul jadi satu, tampil dalam **mode feed: 1 soal per layar** — scroll-snap
+kayak reels (scroll / panah ↑ ↓), atau klik opsi lalu **"Soal berikutnya →"**.
+Klik opsi langsung nunjukin bener/salah + penjelasan, skor jalan di bar atas,
+dan ditutup slide hasil akhir. Urutan soal + posisi opsi diacak tiap halaman
+dibuka (dan diacak lagi tiap klik *Ulangi*). `manifest.json` nyimpen `kind`
+per halaman + `quizCount` per matkul. Quiz yang nempel di halaman materi
+tetap gaya daftar biasa — feed cuma dipakai tab Kuiz.
+
+Feed-nya diaktifin lewat atribut `data-feed` di `<mk-quiz>` (lihat
+`loadKuiz()` di `assets/js/course-bank.js`), CSS-nya di blok
+"quiz feed" di `assets/css/course-bank.css`.
+
 ## Jalan lokal
 
 ```bash
